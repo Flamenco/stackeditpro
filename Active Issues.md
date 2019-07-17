@@ -2,15 +2,13 @@
 
 ## General
 ### Data Corruption
-* There is an ongoing data corruption when merging data between 3+ clients.  The core sync engine incorrectly senses that files need to be merged, and odd remnants appear.
+There is an ongoing data corruption when merging data between 3+ clients.  The core sync engine incorrectly senses that files need to be merged, and odd remnants appear.
 
-## Publish
-### Not Implemented
-* Blogger
-* Zendesk (send us an email if you require Zendesk support)
+## Zendesk Publishing Not Implemented
+Send us an email if you require Zendesk support.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTIyMDU4MzMsMTQwMDM3ODU3NSwxOD
-UxMTczNzM3LDg5MzU1MDE2OCwtNjM2Nzk1MzMzLC02MzY2Nzgy
-MjksNTQ3NTE4MjMxLC00MDM0MTU5MTNdfQ==
+eyJoaXN0b3J5IjpbMTI4MDMyODU5NSwtMTY5MjIwNTgzMywxND
+AwMzc4NTc1LDE4NTExNzM3MzcsODkzNTUwMTY4LC02MzY3OTUz
+MzMsLTYzNjY3ODIyOSw1NDc1MTgyMzEsLTQwMzQxNTkxM119
 -->
