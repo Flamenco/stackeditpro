@@ -12,7 +12,6 @@ These workspaces are not yet implemented.
 ### Not Implemented
 * Blogger
 * Dropbox
-* Wordpress
 * Zendesk
 * Grav
 ### Not Verified
@@ -20,6 +19,6 @@ These workspaces are not yet implemented.
 * GitLab
 * Google Drive
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNjc5NTMzMywtNjM2Njc4MjI5LDU0Nz
-UxODIzMSwtNDAzNDE1OTEzXX0=
+eyJoaXN0b3J5IjpbODkzNTUwMTY4LC02MzY3OTUzMzMsLTYzNj
+Y3ODIyOSw1NDc1MTgyMzEsLTQwMzQxNTkxM119
 -->
