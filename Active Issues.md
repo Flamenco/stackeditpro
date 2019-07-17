@@ -11,14 +11,11 @@ These workspaces are not yet implemented.
 ## Publish
 ### Not Implemented
 * Blogger
-* Dropbox
 * Zendesk
 * Grav
-### Not Verified
-* GitHub
-* GitLab
-* Google Drive
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkzNTUwMTY4LC02MzY3OTUzMzMsLTYzNj
-Y3ODIyOSw1NDc1MTgyMzEsLTQwMzQxNTkxM119
+eyJoaXN0b3J5IjpbMTg1MTE3MzczNyw4OTM1NTAxNjgsLTYzNj
+c5NTMzMywtNjM2Njc4MjI5LDU0NzUxODIzMSwtNDAzNDE1OTEz
+XX0=
 -->
