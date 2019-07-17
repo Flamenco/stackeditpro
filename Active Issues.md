@@ -4,18 +4,22 @@
 * Data corruption when merging data between 3+ clients.
 
 ## Workspaces
+These workspaces are not yet implemented.
 * Grav
 * StackEditPro
+
 ## Publish
+### Not Implemented
 * Blogger
 * Dropbox
-* GitHub
-* GitLab
-* Google Drive
 * Wordpress
 * Zendesk
 * Grav
+### Not Verified
+* GitHub
+* GitLab
+* Google Drive
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNjY3ODIyOSw1NDc1MTgyMzEsLTQwMz
-QxNTkxM119
+eyJoaXN0b3J5IjpbLTYzNjc5NTMzMywtNjM2Njc4MjI5LDU0Nz
+UxODIzMSwtNDAzNDE1OTEzXX0=
 -->
