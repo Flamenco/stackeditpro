@@ -7,10 +7,10 @@
 ## Publish
 ### Not Implemented
 * Blogger
-* Zendesk
+* Zendesk (send us an email if you require Zendesk support)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMDM3ODU3NSwxODUxMTczNzM3LDg5Mz
-U1MDE2OCwtNjM2Nzk1MzMzLC02MzY2NzgyMjksNTQ3NTE4MjMx
-LC00MDM0MTU5MTNdfQ==
+eyJoaXN0b3J5IjpbLTE2OTIyMDU4MzMsMTQwMDM3ODU3NSwxOD
+UxMTczNzM3LDg5MzU1MDE2OCwtNjM2Nzk1MzMzLC02MzY2Nzgy
+MjksNTQ3NTE4MjMxLC00MDM0MTU5MTNdfQ==
 -->
