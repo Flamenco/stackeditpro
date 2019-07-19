@@ -186,6 +186,9 @@ Momentum scrolling has been enabled (fixed) for iOS devices.
 ## Selectable Root Node
 There was no way to select the root node in the explorer.  This made it difficult to add a file or folder on the top level.
 
+## GitLab Commit URL fixed
+A setting that resulted in 500 http status was patched.
+
 ## Default Line Break Behavior
 In Markdown, unless a single line break is followed by 2 spaces, it should not be considered a new paragraph.  And when followed by 2 spaces, it should be a line break in the same paragraph.
 
@@ -240,6 +243,6 @@ We added the ability to link multiple workspaces to a single user ID.
 ## Ecosystem And Culture
 We get things done here.  Quickly and without ego.  We encourage feature and bug requests. We will not leave issues without responses for weeks, months, or years as seen in other projects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA4NTc1ODk1LDc0ODM1NDM3NiwtODU3Nj
-YzODk2XX0=
+eyJoaXN0b3J5IjpbLTEzNDc5MTgyODAsNjA4NTc1ODk1LDc0OD
+M1NDM3NiwtODU3NjYzODk2XX0=
 -->
