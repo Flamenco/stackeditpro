@@ -1,6 +1,6 @@
 # StackEditPro
 
-StackEditPro is a fork of **stackedit** with hundreds of additional features geared towards professional workflow and enhanced productivity.
+StackEditPro is a fork of **stackedit** with hundreds of additional features geared towards professional workflows and enhanced productivity.
 
 Try it out at https://stackeditpro.io/app.
 
@@ -20,9 +20,9 @@ You can report bugs and request new features using our GitHub repository.
 # License
 Coming soon.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIwMjE3MzkxLDEzOTQ1NTkzNDMsLTE2Nz
-A0MTk2MjEsLTgyOTg3NjE2MSwxMTEwMzY2Mjk3LDk3ODI4NjM0
-OCwtMTY5MDI5MjYxNCwtMTIxMTUwMjAxNCwxMDU1MzExNTQwLD
-EyMjkyMTY5NzEsMTczNDQxNTg3Nyw0MjcyMzA2NjEsMjE0MjEz
-NzczNywtMjEzOTU2NDk5N119
+eyJoaXN0b3J5IjpbMjEzOTUwMjgxNCw4MjAyMTczOTEsMTM5ND
+U1OTM0MywtMTY3MDQxOTYyMSwtODI5ODc2MTYxLDExMTAzNjYy
+OTcsOTc4Mjg2MzQ4LC0xNjkwMjkyNjE0LC0xMjExNTAyMDE0LD
+EwNTUzMTE1NDAsMTIyOTIxNjk3MSwxNzM0NDE1ODc3LDQyNzIz
+MDY2MSwyMTQyMTM3NzM3LC0yMTM5NTY0OTk3XX0=
 -->
