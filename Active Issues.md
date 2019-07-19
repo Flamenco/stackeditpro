@@ -7,10 +7,10 @@ There is an ongoing data corruption when merging data between 3+ clients.  The c
 Send us an email if you require Zendesk support.
 
 ## Sharing
-The server does not render mermaid, fences, or other canvas-based extensions.
+The sharing server does not render mermaid, fences, or other canvas-based extensions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODcxNTY1ODAsLTE0MjI5NzM3MjYsMT
-I4MDMyODU5NSwtMTY5MjIwNTgzMywxNDAwMzc4NTc1LDE4NTEx
-NzM3MzcsODkzNTUwMTY4LC02MzY3OTUzMzMsLTYzNjY3ODIyOS
-w1NDc1MTgyMzEsLTQwMzQxNTkxM119
+eyJoaXN0b3J5IjpbLTg5NTU2MTI4LC0xODg3MTU2NTgwLC0xND
+IyOTczNzI2LDEyODAzMjg1OTUsLTE2OTIyMDU4MzMsMTQwMDM3
+ODU3NSwxODUxMTczNzM3LDg5MzU1MDE2OCwtNjM2Nzk1MzMzLC
+02MzY2NzgyMjksNTQ3NTE4MjMxLC00MDM0MTU5MTNdfQ==
 -->
