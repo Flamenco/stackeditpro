@@ -228,6 +228,8 @@ Removing the backend services made the front-end Docker image 4GB smaller.
 ## Reworked Modal Dialogs
 Modal Dialogs look and behave better.  They now will always scroll to top when opened.  The close buttons no longer scroll out of view.
 
+We also added the ability to specify buttons when invoking a dialog.
+
 ## Jentify Integration
 We have added the **Jentify Runtime Overlay** to help manage the growing complexity of the application model and UI.  This separates the actions from the UI, unifies dialogs, and provides a CLI.
 
@@ -243,6 +245,6 @@ We added the ability to link multiple workspaces to a single user ID.
 ## Ecosystem And Culture
 We get things done here.  Quickly and without ego.  We encourage feature and bug requests. We will not leave issues without responses for weeks, months, or years as seen in other projects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDc5MTgyODAsNjA4NTc1ODk1LDc0OD
-M1NDM3NiwtODU3NjYzODk2XX0=
+eyJoaXN0b3J5IjpbLTExMzYzNDQyODEsLTEzNDc5MTgyODAsNj
+A4NTc1ODk1LDc0ODM1NDM3NiwtODU3NjYzODk2XX0=
 -->
