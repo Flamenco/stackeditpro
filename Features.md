@@ -236,6 +236,9 @@ We also added the ability to specify buttons when invoking a dialog.
 ## Jentify Integration
 We have added the **Jentify Runtime Overlay** to help manage the growing complexity of the application model and UI.  This separates the actions from the UI, unifies dialogs, and provides a CLI.
 
+## Jentify Security Integration
+We added the Jentify Security Module to manage logins, authentication, and authorization.
+
 ## StackEdit 4 Support Removed
 We no longer support StackEdit 4 and the overhead that accompanied it. 
 
@@ -248,7 +251,7 @@ We added the ability to link multiple workspaces to a single user ID.
 ## Ecosystem And Culture
 We get things done here.  Quickly and without ego.  We encourage feature and bug requests. We will not leave issues without responses for weeks, months, or years as seen in other projects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MzY1MjgwNCwtMTEzNjM0NDI4MSwtMT
-M0NzkxODI4MCw2MDg1NzU4OTUsNzQ4MzU0Mzc2LC04NTc2NjM4
-OTZdfQ==
+eyJoaXN0b3J5IjpbLTY4OTY5NzU0NywxNjYzNjUyODA0LC0xMT
+M2MzQ0MjgxLC0xMzQ3OTE4MjgwLDYwODU3NTg5NSw3NDgzNTQz
+NzYsLTg1NzY2Mzg5Nl19
 -->
