@@ -225,6 +225,9 @@ All server-based services that operate on documents have been moved to a separat
 ## Refactored Front End
 Removing the backend services made the front-end Docker image 4GB smaller.
 
+### Removed AWS And Added MongoDB
+The backend code that managed user data was changed from Amazon to self hosted MongoDB
+
 ## Reworked Modal Dialogs
 Modal Dialogs look and behave better.  They now will always scroll to top when opened.  The close buttons no longer scroll out of view.
 
@@ -245,6 +248,7 @@ We added the ability to link multiple workspaces to a single user ID.
 ## Ecosystem And Culture
 We get things done here.  Quickly and without ego.  We encourage feature and bug requests. We will not leave issues without responses for weeks, months, or years as seen in other projects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzYzNDQyODEsLTEzNDc5MTgyODAsNj
-A4NTc1ODk1LDc0ODM1NDM3NiwtODU3NjYzODk2XX0=
+eyJoaXN0b3J5IjpbMTY2MzY1MjgwNCwtMTEzNjM0NDI4MSwtMT
+M0NzkxODI4MCw2MDg1NzU4OTUsNzQ4MzU0Mzc2LC04NTc2NjM4
+OTZdfQ==
 -->
