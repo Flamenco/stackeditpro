@@ -18,12 +18,12 @@ You can report bugs and request new features using our GitHub repository.
 [Report Bugs and Request Features](https://github.com/Flamenco/stackeditpro/issues)
 
 # License
-Coming soon.
+Our pro features are currently available for free personal and commercial use via on our online web application.  We currently do not license the source code for our pro features.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMzkwNTg5MCwyMTM5NTAyODE0LDgyMD
-IxNzM5MSwxMzk0NTU5MzQzLC0xNjcwNDE5NjIxLC04Mjk4NzYx
-NjEsMTExMDM2NjI5Nyw5NzgyODYzNDgsLTE2OTAyOTI2MTQsLT
-EyMTE1MDIwMTQsMTA1NTMxMTU0MCwxMjI5MjE2OTcxLDE3MzQ0
-MTU4NzcsNDI3MjMwNjYxLDIxNDIxMzc3MzcsLTIxMzk1NjQ5OT
-ddfQ==
+eyJoaXN0b3J5IjpbMTcwODMzODMwMywtOTMzOTA1ODkwLDIxMz
+k1MDI4MTQsODIwMjE3MzkxLDEzOTQ1NTkzNDMsLTE2NzA0MTk2
+MjEsLTgyOTg3NjE2MSwxMTEwMzY2Mjk3LDk3ODI4NjM0OCwtMT
+Y5MDI5MjYxNCwtMTIxMTUwMjAxNCwxMDU1MzExNTQwLDEyMjky
+MTY5NzEsMTczNDQxNTg3Nyw0MjcyMzA2NjEsMjE0MjEzNzczNy
+wtMjEzOTU2NDk5N119
 -->
