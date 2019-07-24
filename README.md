@@ -18,12 +18,12 @@ You can report bugs and request new features using our GitHub repository.
 [Report Bugs and Request Features](https://github.com/Flamenco/stackeditpro/issues)
 
 # License
-Our pro features are currently available for free personal and commercial use via on our online web application.  We currently do not license the source code for our pro features.
+Our pro features are currently available free for both personal and commercial use via on our online web application.  We currently do not offer licensing for our pro features source code.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwODMzODMwMywtOTMzOTA1ODkwLDIxMz
-k1MDI4MTQsODIwMjE3MzkxLDEzOTQ1NTkzNDMsLTE2NzA0MTk2
-MjEsLTgyOTg3NjE2MSwxMTEwMzY2Mjk3LDk3ODI4NjM0OCwtMT
-Y5MDI5MjYxNCwtMTIxMTUwMjAxNCwxMDU1MzExNTQwLDEyMjky
-MTY5NzEsMTczNDQxNTg3Nyw0MjcyMzA2NjEsMjE0MjEzNzczNy
-wtMjEzOTU2NDk5N119
+eyJoaXN0b3J5IjpbLTExNjkzOTgzNDgsMTcwODMzODMwMywtOT
+MzOTA1ODkwLDIxMzk1MDI4MTQsODIwMjE3MzkxLDEzOTQ1NTkz
+NDMsLTE2NzA0MTk2MjEsLTgyOTg3NjE2MSwxMTEwMzY2Mjk3LD
+k3ODI4NjM0OCwtMTY5MDI5MjYxNCwtMTIxMTUwMjAxNCwxMDU1
+MzExNTQwLDEyMjkyMTY5NzEsMTczNDQxNTg3Nyw0MjcyMzA2Nj
+EsMjE0MjEzNzczNywtMjEzOTU2NDk5N119
 -->
