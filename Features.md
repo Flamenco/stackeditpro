@@ -102,6 +102,10 @@ arguments: none
 returns: void
 ```
 
+```ts
+signature: repeatString(aString: string, aNumber?:number): string[]
+```
+
 ## Folder Overview
 We now display a folder overview when a folder is clicked in the navigator.
 You can view the folder contents by name or accessed date.
@@ -265,8 +269,8 @@ We added the ability to link multiple workspaces to a single user ID.
 ## Ecosystem And Culture
 We get things done here.  Quickly and without ego.  We encourage feature and bug requests. We will not leave issues without responses for weeks, months, or years as seen in other projects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzQ5NjYxNTEsLTE1NDMwNDMxMywtNT
-c4OTczMzY0LC02ODk2OTc1NDcsMTY2MzY1MjgwNCwtMTEzNjM0
-NDI4MSwtMTM0NzkxODI4MCw2MDg1NzU4OTUsNzQ4MzU0Mzc2LC
-04NTc2NjM4OTZdfQ==
+eyJoaXN0b3J5IjpbLTk5MDY0MjkxMywtMTYzNDk2NjE1MSwtMT
+U0MzA0MzEzLC01Nzg5NzMzNjQsLTY4OTY5NzU0NywxNjYzNjUy
+ODA0LC0xMTM2MzQ0MjgxLC0xMzQ3OTE4MjgwLDYwODU3NTg5NS
+w3NDgzNTQzNzYsLTg1NzY2Mzg5Nl19
 -->
