@@ -89,6 +89,8 @@ You can also dynamically use the actual page name by declaring  `[]` as your fir
 ```
 
 ### Source Code Documentation Extension
+> This feature is in beta
+
 Document source code outside of your code and inside markdown documents.
 
 ```yml
@@ -263,7 +265,8 @@ We added the ability to link multiple workspaces to a single user ID.
 ## Ecosystem And Culture
 We get things done here.  Quickly and without ego.  We encourage feature and bug requests. We will not leave issues without responses for weeks, months, or years as seen in other projects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3ODk3MzM2NCwtNjg5Njk3NTQ3LDE2Nj
-M2NTI4MDQsLTExMzYzNDQyODEsLTEzNDc5MTgyODAsNjA4NTc1
-ODk1LDc0ODM1NDM3NiwtODU3NjYzODk2XX0=
+eyJoaXN0b3J5IjpbLTE1NDMwNDMxMywtNTc4OTczMzY0LC02OD
+k2OTc1NDcsMTY2MzY1MjgwNCwtMTEzNjM0NDI4MSwtMTM0Nzkx
+ODI4MCw2MDg1NzU4OTUsNzQ4MzU0Mzc2LC04NTc2NjM4OTZdfQ
+==
 -->
