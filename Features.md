@@ -94,16 +94,16 @@ You can also dynamically use the actual page name by declaring  `[]` as your fir
 Document source code outside of your code and inside markdown documents.
 
 ```yml
-signature: repeatString(aString: string, aNumber?:number): string[]
-description: Prints "Hello, World!" to the console.
+sig: repeatString(aString: string, aNumber?:number): string[]
+desc: Prints "Hello, World!" to the console.
 args:
  aString: The string you want to repeat
  aNumber: How many repeats
-return: The string concatenated 'aNumber' of times
+ret: The string concatenated 'aNumber' of times
 ```
+Pretty self explanatory.  We use `Typescript` notation to define methods, properties, and interfaces.
 
-```ts
-```
+The trigger 
 
 ## Folder Overview
 We now display a folder overview when a folder is clicked in the navigator.
@@ -268,8 +268,8 @@ We added the ability to link multiple workspaces to a single user ID.
 ## Ecosystem And Culture
 We get things done here.  Quickly and without ego.  We encourage feature and bug requests. We will not leave issues without responses for weeks, months, or years as seen in other projects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDUzNTc0MjIsLTE2MzQ5NjYxNTEsLT
-E1NDMwNDMxMywtNTc4OTczMzY0LC02ODk2OTc1NDcsMTY2MzY1
-MjgwNCwtMTEzNjM0NDI4MSwtMTM0NzkxODI4MCw2MDg1NzU4OT
-UsNzQ4MzU0Mzc2LC04NTc2NjM4OTZdfQ==
+eyJoaXN0b3J5IjpbLTM5Mjg4MjkyOCwtMTYzNDk2NjE1MSwtMT
+U0MzA0MzEzLC01Nzg5NzMzNjQsLTY4OTY5NzU0NywxNjYzNjUy
+ODA0LC0xMTM2MzQ0MjgxLC0xMzQ3OTE4MjgwLDYwODU3NTg5NS
+w3NDgzNTQzNzYsLTg1NzY2Mzg5Nl19
 -->
