@@ -89,7 +89,16 @@ You can also dynamically use the actual page name by declaring  `[]` as your fir
 ```
 
 ### Source Code Documentation Extension
-Document your source code outside of your code.
+Document source code outside of your code and inside markdown documents.
+
+```yml
+type: function
+name: SayHello
+description: Prints "Hello, World!" to the console.
+optional: false
+arguments: none
+returns: void
+```
 
 ## Folder Overview
 We now display a folder overview when a folder is clicked in the navigator.
@@ -254,7 +263,7 @@ We added the ability to link multiple workspaces to a single user ID.
 ## Ecosystem And Culture
 We get things done here.  Quickly and without ego.  We encourage feature and bug requests. We will not leave issues without responses for weeks, months, or years as seen in other projects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAxMDc4NDA1LC02ODk2OTc1NDcsMTY2Mz
-Y1MjgwNCwtMTEzNjM0NDI4MSwtMTM0NzkxODI4MCw2MDg1NzU4
-OTUsNzQ4MzU0Mzc2LC04NTc2NjM4OTZdfQ==
+eyJoaXN0b3J5IjpbLTU3ODk3MzM2NCwtNjg5Njk3NTQ3LDE2Nj
+M2NTI4MDQsLTExMzYzNDQyODEsLTEzNDc5MTgyODAsNjA4NTc1
+ODk1LDc0ODM1NDM3NiwtODU3NjYzODk2XX0=
 -->
