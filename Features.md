@@ -113,7 +113,8 @@ The documentation can also be pushed into the source code.
 You can also declare a typescript interface and include a comment as the first line.
 ```ts
 interface Foo {
-
+//@doc
+bar(): void
 }
 ```
 
@@ -225,6 +226,9 @@ Both the *GitHub Flavored Markdown (GFM) Preset* and the *Default Preset* did no
 
 If you want the non-conventional behavior, create your own preset or override in you document settings.  You probably won't want the older behavior though...
 
+## Async Extensions
+There was not way for an extension to run asynchronously.  This was an issue when rende
+
 ## Default Table Alignment Property
 Tables will now vertically align their cell content to the top.
 
@@ -280,7 +284,7 @@ We added the ability to link multiple workspaces to a single user ID.
 ## Ecosystem And Culture
 We get things done here.  Quickly and without ego.  We encourage feature and bug requests. We will not leave issues without responses for weeks, months, or years as seen in other projects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODEzMzAwODAsLTExMTg0MjQwMTIsLT
+eyJoaXN0b3J5IjpbLTE5NjQwOTYwNDIsLTExMTg0MjQwMTIsLT
 E2MzQ5NjYxNTEsLTE1NDMwNDMxMywtNTc4OTczMzY0LC02ODk2
 OTc1NDcsMTY2MzY1MjgwNCwtMTEzNjM0NDI4MSwtMTM0NzkxOD
 I4MCw2MDg1NzU4OTUsNzQ4MzU0Mzc2LC04NTc2NjM4OTZdfQ==
