@@ -95,7 +95,7 @@ Document source code outside of your code and inside markdown documents.
 
 ```yml
 #
-sig: repeatString(aString: string, aNumber?:number): string[]
+sig: repeatString(text: string, n:number): string[]
 desc: Prints "Hello, World!" to the console.
 args:
  aString: The string you want to repeat
@@ -284,9 +284,9 @@ We added the ability to link multiple workspaces to a single user ID.
 ## Ecosystem And Culture
 We get things done here.  Quickly and without ego.  We encourage feature and bug requests. We will not leave issues without responses for weeks, months, or years as seen in other projects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjQwOTYwNDIsLTExMTg0MjQwMTIsLT
-E2MzQ5NjYxNTEsLTE1NDMwNDMxMywtNTc4OTczMzY0LC02ODk2
-OTc1NDcsMTY2MzY1MjgwNCwtMTEzNjM0NDI4MSwtMTM0NzkxOD
-I4MCw2MDg1NzU4OTUsNzQ4MzU0Mzc2LC04NTc2NjM4OTZdfQ==
-
+eyJoaXN0b3J5IjpbMjEwODQ0ODE3OCwtMTk2NDA5NjA0MiwtMT
+ExODQyNDAxMiwtMTYzNDk2NjE1MSwtMTU0MzA0MzEzLC01Nzg5
+NzMzNjQsLTY4OTY5NzU0NywxNjYzNjUyODA0LC0xMTM2MzQ0Mj
+gxLC0xMzQ3OTE4MjgwLDYwODU3NTg5NSw3NDgzNTQzNzYsLTg1
+NzY2Mzg5Nl19
 -->
