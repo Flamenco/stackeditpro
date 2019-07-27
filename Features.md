@@ -94,12 +94,11 @@ You can also dynamically use the actual page name by declaring  `[]` as your fir
 Document source code outside of your code and inside markdown documents.
 
 ```yml
-#
-sig: repeatString(text: string, n:number): string[]
+sig: |repeatString(text: string, times:number): string[]
 desc: Prints "Hello, World!" to the console.
 args:
- aString: The string you want to repeat
- aNumber: How many repeats
+ text: The string you want to repeat.
+ times: How many times to repeat.
 ret: The string concatenated 'aNumber' of times
 ```
 Pretty self explanatory.  We use `Typescript` notation to define methods, properties, and interfaces.
@@ -284,9 +283,9 @@ We added the ability to link multiple workspaces to a single user ID.
 ## Ecosystem And Culture
 We get things done here.  Quickly and without ego.  We encourage feature and bug requests. We will not leave issues without responses for weeks, months, or years as seen in other projects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwODQ0ODE3OCwtMTk2NDA5NjA0MiwtMT
-ExODQyNDAxMiwtMTYzNDk2NjE1MSwtMTU0MzA0MzEzLC01Nzg5
-NzMzNjQsLTY4OTY5NzU0NywxNjYzNjUyODA0LC0xMTM2MzQ0Mj
-gxLC0xMzQ3OTE4MjgwLDYwODU3NTg5NSw3NDgzNTQzNzYsLTg1
-NzY2Mzg5Nl19
+eyJoaXN0b3J5IjpbLTEzNzYxNDk5NjAsLTE5NjQwOTYwNDIsLT
+ExMTg0MjQwMTIsLTE2MzQ5NjYxNTEsLTE1NDMwNDMxMywtNTc4
+OTczMzY0LC02ODk2OTc1NDcsMTY2MzY1MjgwNCwtMTEzNjM0ND
+I4MSwtMTM0NzkxODI4MCw2MDg1NzU4OTUsNzQ4MzU0Mzc2LC04
+NTc2NjM4OTZdfQ==
 -->
