@@ -89,18 +89,18 @@ interface CommentStyles extends Styles {
 ```
 
 # Themes
-There are currently 2 themes, light (the default) and dark.
+There are currently 2 themes, *light* (the default) and *dark*.
 
-To enable the dark theme, add the `theme-dark` class to any parent element.
+To enable the *dark theme*, add the `theme-dark` class to any parent element.
 # Other Features (Pending)
 The documentation can be displayed in a variety of ways by using templates and/or custom CSS.
 
 The documentation can be pushed into or extracted from the source code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDE3NTk0MCwtMTk5MTk1NTc1MiwxMD
-k5NDQzOTAsMTMwOTU1MTgyLDIzNzk2NDk1MSwtOTE5OTAxMzgx
-LDUwMTI1NDIxNSwtMTA0MTI1MDcxNiwtMTIyODczOTg4NywxND
-c0MDU3NDE0LC0xODUyODc5NzMzLDg5ODg1NjMxMCwtMTE2Nzk2
-Nzk0NCwtMTA1OTI4ODQ3M119
+eyJoaXN0b3J5IjpbMTgyMjc0MTg3NCwtMjE0MTc1OTQwLC0xOT
+kxOTU1NzUyLDEwOTk0NDM5MCwxMzA5NTUxODIsMjM3OTY0OTUx
+LC05MTk5MDEzODEsNTAxMjU0MjE1LC0xMDQxMjUwNzE2LC0xMj
+I4NzM5ODg3LDE0NzQwNTc0MTQsLTE4NTI4Nzk3MzMsODk4ODU2
+MzEwLC0xMTY3OTY3OTQ0LC0xMDU5Mjg4NDczXX0=
 -->
