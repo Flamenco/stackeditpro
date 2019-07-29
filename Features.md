@@ -75,9 +75,9 @@ line 2
 
 ### Page-Names Extension
 
-We added a syntax for adding titles to your pages without needing to use a heading. This results in the page name not getting added contents, and allows for a page-title style.
+We added a syntax for adding titles to your pages without needing to use a heading. This results in the page name not getting added contents, and allows for a *page-title* CSS style.
 
-You can put a title between `[` and `]`, followed by a blank line.
+You can put a title as your first line, between `[` and `]`, followed by a blank line.
 ```
 [My Great Page] 
 
@@ -269,7 +269,7 @@ We added the ability to link multiple workspaces to a single user ID.
 ## Ecosystem And Culture
 We get things done here.  Quickly and without ego.  We encourage feature and bug requests. We will not leave issues without responses for weeks, months, or years as seen in other projects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNDgwNzMzMCwyMTg5MDQyNTcsLTE2NT
+eyJoaXN0b3J5IjpbLTIxODE0MjY3OCwyMTg5MDQyNTcsLTE2NT
 kxNTU2NCwtMzIyNDY3NTk3LC0xNzc4MjI2NzkxLDg0NDU3MjMx
 Niw3NjExOTUxOTcsLTE3NzQ3OTczMiwtMTExODQyNDAxMiwtMT
 YzNDk2NjE1MSwtMTU0MzA0MzEzLC01Nzg5NzMzNjQsLTY4OTY5
