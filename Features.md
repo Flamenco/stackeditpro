@@ -99,13 +99,17 @@ Document source code outside of your codebase and render it as beautiful HTML.
 See [Source Cod
 
 ## Folder Overview
-We now display a folder overview when a folder is clicked in the navigator.
+We now display a folder overview, shown when a folder is selected in the navigator.
 You can view the folder contents by name or accessed date.
 
 If there are items in the trash folder, and the trash folder is selected, an *Empty Trash Now* button will be enabled.
 
+Columns are sortable by *name* or *last modified*.
+
+Each item has a list of actions that can be berf
+
 ## Actions Menu
-We added an *Actions Menu* to the *Man Menu*.  The actions menu lists all global and item actions added by the system and 3rd party plugins.
+We added an *Actions Menu* to the *Main Menu*.  The actions menu lists all global and item actions added by the system and 3rd party plugins.
 
 The actions list can be filtered by action name.
 
@@ -118,7 +122,7 @@ The actions list can be filtered by action name.
 #### Unpublish Shares
 
 ### Folder And File Actions
-Several folder and file actions are available from the Folder Overview.
+Several folder and file actions are available from the *Folder Overview*.
 
 #### Auto Number Files
 Add or recalculate numeric prefixes for all files in a folder.  Available on the *Folder Info* page.
@@ -265,10 +269,10 @@ We added the ability to link multiple workspaces to a single user ID.
 ## Ecosystem And Culture
 We get things done here.  Quickly and without ego.  We encourage feature and bug requests. We will not leave issues without responses for weeks, months, or years as seen in other projects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTkxNTU2NCwtMzIyNDY3NTk3LC0xNz
-c4MjI2NzkxLDg0NDU3MjMxNiw3NjExOTUxOTcsLTE3NzQ3OTcz
-MiwtMTExODQyNDAxMiwtMTYzNDk2NjE1MSwtMTU0MzA0MzEzLC
-01Nzg5NzMzNjQsLTY4OTY5NzU0NywxNjYzNjUyODA0LC0xMTM2
-MzQ0MjgxLC0xMzQ3OTE4MjgwLDYwODU3NTg5NSw3NDgzNTQzNz
-YsLTg1NzY2Mzg5Nl19
+eyJoaXN0b3J5IjpbLTE2MTc1Nzg1MjksLTE2NTkxNTU2NCwtMz
+IyNDY3NTk3LC0xNzc4MjI2NzkxLDg0NDU3MjMxNiw3NjExOTUx
+OTcsLTE3NzQ3OTczMiwtMTExODQyNDAxMiwtMTYzNDk2NjE1MS
+wtMTU0MzA0MzEzLC01Nzg5NzMzNjQsLTY4OTY5NzU0NywxNjYz
+NjUyODA0LC0xMTM2MzQ0MjgxLC0xMzQ3OTE4MjgwLDYwODU3NT
+g5NSw3NDgzNTQzNzYsLTg1NzY2Mzg5Nl19
 -->
