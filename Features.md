@@ -91,6 +91,11 @@ You can also dynamically use the actual page name by declaring  `[]` as your fir
 # Part 1
 # Part 2
 ```
+
+# Source-Code-Documentation Extension
+
+Document source code outside of your codebase and render it as beautiful HTML.
+
 See [Source Code Documentation Extension](Source%20Code%20Documentation%20Extension.md)
 
 ## Folder Overview
@@ -260,10 +265,10 @@ We added the ability to link multiple workspaces to a single user ID.
 ## Ecosystem And Culture
 We get things done here.  Quickly and without ego.  We encourage feature and bug requests. We will not leave issues without responses for weeks, months, or years as seen in other projects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzgyMjY3OTEsODQ0NTcyMzE2LDc2MT
-E5NTE5NywtMTc3NDc5NzMyLC0xOTY0MDk2MDQyLC0xMTE4NDI0
-MDEyLC0xNjM0OTY2MTUxLC0xNTQzMDQzMTMsLTU3ODk3MzM2NC
-wtNjg5Njk3NTQ3LDE2NjM2NTI4MDQsLTExMzYzNDQyODEsLTEz
-NDc5MTgyODAsNjA4NTc1ODk1LDc0ODM1NDM3NiwtODU3NjYzOD
-k2XX0=
+eyJoaXN0b3J5IjpbLTMyMjQ2NzU5NywtMTc3ODIyNjc5MSw4ND
+Q1NzIzMTYsNzYxMTk1MTk3LC0xNzc0Nzk3MzIsLTE5NjQwOTYw
+NDIsLTExMTg0MjQwMTIsLTE2MzQ5NjYxNTEsLTE1NDMwNDMxMy
+wtNTc4OTczMzY0LC02ODk2OTc1NDcsMTY2MzY1MjgwNCwtMTEz
+NjM0NDI4MSwtMTM0NzkxODI4MCw2MDg1NzU4OTUsNzQ4MzU0Mz
+c2LC04NTc2NjM4OTZdfQ==
 -->
