@@ -29,7 +29,16 @@ params:
 ret: The string concatenated the requested number of times
 ```
 
-You can also use an 	`array` instead of `object` for `params`.  This will apply the descriptions i
+You can also use an 	`array` instead of `object` for `params`.  This will apply the descriptions in order of declaration, allow you to omit the parameter name.
+
+```yml
+sig: "repeatString(text: string, times: number): string[]"
+desc: Repeats a string the specified number of times.
+params:
+ - The string you want to repeat.
+ - How many times to repeat.
+ret: The string concatenated the requested number of times
+```
 
 > If the `sig` has colons with trailing spaces, make sure to use quotes around the value to conform with the 	`YAML` specification.  Alternatively , you can also use a multiline string such as `sig: |` or `sig: >`.
 
@@ -100,10 +109,10 @@ The documentation can be displayed in a variety of ways by using templates and/o
 The documentation can be pushed into or extracted from the source code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTE0MDI3NzIsMTgyMjc0MTg3NCwtMj
-E0MTc1OTQwLC0xOTkxOTU1NzUyLDEwOTk0NDM5MCwxMzA5NTUx
-ODIsMjM3OTY0OTUxLC05MTk5MDEzODEsNTAxMjU0MjE1LC0xMD
-QxMjUwNzE2LC0xMjI4NzM5ODg3LDE0NzQwNTc0MTQsLTE4NTI4
-Nzk3MzMsODk4ODU2MzEwLC0xMTY3OTY3OTQ0LC0xMDU5Mjg4ND
-czXX0=
+eyJoaXN0b3J5IjpbMTA0MDQ1OTU1MywxODIyNzQxODc0LC0yMT
+QxNzU5NDAsLTE5OTE5NTU3NTIsMTA5OTQ0MzkwLDEzMDk1NTE4
+MiwyMzc5NjQ5NTEsLTkxOTkwMTM4MSw1MDEyNTQyMTUsLTEwND
+EyNTA3MTYsLTEyMjg3Mzk4ODcsMTQ3NDA1NzQxNCwtMTg1Mjg3
+OTczMyw4OTg4NTYzMTAsLTExNjc5Njc5NDQsLTEwNTkyODg0Nz
+NdfQ==
 -->
