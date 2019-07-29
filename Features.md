@@ -62,7 +62,7 @@ You can now press a button to copy code fence source code to your clipboard.
 
 A *Copy Source Code* will appear at the top-left of your rendered fences.
 
-> If you have defined a caption using the *Code-Fence-Caption Extension*, it will be removed from copied source code.
+> If you have defined a caption using the *Code-Fence-Caption Extension*, it will be removed from copied source code.e ocumentation 
 
 ### Code-Fence-Caption Extension
 We extended the code fence syntax by adding a *caption syntax*.  If the first line of your fence starts with text between brackets `[Like This]`, it will be pulled out of the fence content, and added as a caption.  `Copy to Clipboard` will not include the caption block.
@@ -92,11 +92,11 @@ You can also dynamically use the actual page name by declaring  `[]` as your fir
 # Part 2
 ```
 
-# Source-Code-Documentation Extension
+# Source Code Documentation Extension
 
 Document source code outside of your codebase and render it as beautiful HTML.
 
-See [Source Code Documentation Extension](Source%20Code%20Documentation%20Extension.md)
+See [Source Cod
 
 ## Folder Overview
 We now display a folder overview when a folder is clicked in the navigator.
@@ -208,7 +208,7 @@ If you want the non-conventional behavior, create your own preset or override in
 
 ## Async Markdown Extensions
 There was no way for an markdown extension to run asynchronously.
-This was an issue when rendering in the background, or creating dynamically updating pages.
+This was an issue when rendering in the background, or creating dynamically updating pagesa page, or when exporting.  We added semantics to make this happen.
 
 ## Default Table Alignment Property
 Tables will now vertically align their cell content to the top.
@@ -265,10 +265,10 @@ We added the ability to link multiple workspaces to a single user ID.
 ## Ecosystem And Culture
 We get things done here.  Quickly and without ego.  We encourage feature and bug requests. We will not leave issues without responses for weeks, months, or years as seen in other projects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMjQ2NzU5NywtMTc3ODIyNjc5MSw4ND
-Q1NzIzMTYsNzYxMTk1MTk3LC0xNzc0Nzk3MzIsLTE5NjQwOTYw
-NDIsLTExMTg0MjQwMTIsLTE2MzQ5NjYxNTEsLTE1NDMwNDMxMy
-wtNTc4OTczMzY0LC02ODk2OTc1NDcsMTY2MzY1MjgwNCwtMTEz
-NjM0NDI4MSwtMTM0NzkxODI4MCw2MDg1NzU4OTUsNzQ4MzU0Mz
-c2LC04NTc2NjM4OTZdfQ==
+eyJoaXN0b3J5IjpbLTE2NTkxNTU2NCwtMzIyNDY3NTk3LC0xNz
+c4MjI2NzkxLDg0NDU3MjMxNiw3NjExOTUxOTcsLTE3NzQ3OTcz
+MiwtMTExODQyNDAxMiwtMTYzNDk2NjE1MSwtMTU0MzA0MzEzLC
+01Nzg5NzMzNjQsLTY4OTY5NzU0NywxNjYzNjUyODA0LC0xMTM2
+MzQ0MjgxLC0xMzQ3OTE4MjgwLDYwODU3NTg5NSw3NDgzNTQzNz
+YsLTg1NzY2Mzg5Nl19
 -->
