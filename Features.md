@@ -106,7 +106,7 @@ If there are items in the trash folder, and the trash folder is selected, an *Em
 
 Columns are sortable by *name* or *last modified*.
 
-Each item has a list of actions that can be berf
+Each item has a list of actions that can be performed.  You can hide or filter actions using the filters located at the top of the overview.
 
 ## Actions Menu
 We added an *Actions Menu* to the *Main Menu*.  The actions menu lists all global and item actions added by the system and 3rd party plugins.
@@ -269,10 +269,10 @@ We added the ability to link multiple workspaces to a single user ID.
 ## Ecosystem And Culture
 We get things done here.  Quickly and without ego.  We encourage feature and bug requests. We will not leave issues without responses for weeks, months, or years as seen in other projects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTc1Nzg1MjksLTE2NTkxNTU2NCwtMz
-IyNDY3NTk3LC0xNzc4MjI2NzkxLDg0NDU3MjMxNiw3NjExOTUx
-OTcsLTE3NzQ3OTczMiwtMTExODQyNDAxMiwtMTYzNDk2NjE1MS
-wtMTU0MzA0MzEzLC01Nzg5NzMzNjQsLTY4OTY5NzU0NywxNjYz
-NjUyODA0LC0xMTM2MzQ0MjgxLC0xMzQ3OTE4MjgwLDYwODU3NT
-g5NSw3NDgzNTQzNzYsLTg1NzY2Mzg5Nl19
+eyJoaXN0b3J5IjpbMjE4OTA0MjU3LC0xNjU5MTU1NjQsLTMyMj
+Q2NzU5NywtMTc3ODIyNjc5MSw4NDQ1NzIzMTYsNzYxMTk1MTk3
+LC0xNzc0Nzk3MzIsLTExMTg0MjQwMTIsLTE2MzQ5NjYxNTEsLT
+E1NDMwNDMxMywtNTc4OTczMzY0LC02ODk2OTc1NDcsMTY2MzY1
+MjgwNCwtMTEzNjM0NDI4MSwtMTM0NzkxODI4MCw2MDg1NzU4OT
+UsNzQ4MzU0Mzc2LC04NTc2NjM4OTZdfQ==
 -->
