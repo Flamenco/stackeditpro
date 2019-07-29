@@ -244,7 +244,7 @@ All server-based services that operate on documents have been moved to a separat
 Removing the backend services made the front-end Docker image 4GB smaller.
 
 ### Removed AWS And Added MongoDB
-The backend code that managed user data was changed from Amazon to self hosted MongoDB
+The backend code that managed user data was changed from Amazon to a self hosted MongoDB instance.
 
 ## Reworked Modal Dialogs
 Modal Dialogs look and behave better.  They now will always scroll to top when opened.  The close buttons no longer scroll out of view.
@@ -272,11 +272,11 @@ We removed the Gulp Prism script and replaced it with the Babel Prism Plugin.
 ## Ecosystem And Culture
 We get things done here.  Quickly and without ego.  We encourage feature and bug requests. We will not leave issues without responses for weeks, months, or years as seen in other projects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NDUwMjM5MSwtNTQwMDU1NzA1LDEyMz
-Q5MDU5MzAsLTIxODE0MjY3OCwyMTg5MDQyNTcsLTE2NTkxNTU2
-NCwtMzIyNDY3NTk3LC0xNzc4MjI2NzkxLDg0NDU3MjMxNiw3Nj
-ExOTUxOTcsLTE3NzQ3OTczMiwtMTExODQyNDAxMiwtMTYzNDk2
-NjE1MSwtMTU0MzA0MzEzLC01Nzg5NzMzNjQsLTY4OTY5NzU0Ny
-wxNjYzNjUyODA0LC0xMTM2MzQ0MjgxLC0xMzQ3OTE4MjgwLDYw
-ODU3NTg5NV19
+eyJoaXN0b3J5IjpbMTE2MzQwODk5NSwtODk0NTAyMzkxLC01ND
+AwNTU3MDUsMTIzNDkwNTkzMCwtMjE4MTQyNjc4LDIxODkwNDI1
+NywtMTY1OTE1NTY0LC0zMjI0Njc1OTcsLTE3NzgyMjY3OTEsOD
+Q0NTcyMzE2LDc2MTE5NTE5NywtMTc3NDc5NzMyLC0xMTE4NDI0
+MDEyLC0xNjM0OTY2MTUxLC0xNTQzMDQzMTMsLTU3ODk3MzM2NC
+wtNjg5Njk3NTQ3LDE2NjM2NTI4MDQsLTExMzYzNDQyODEsLTEz
+NDc5MTgyODBdfQ==
 -->
