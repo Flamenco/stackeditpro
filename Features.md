@@ -91,7 +91,7 @@ You can also dynamically use the actual page name by declaring  `[]` as your fir
 # Part 1
 # Part 2
 ```
-See [Source Code Doc Extension](Source%20Code%20Doc%20Extension.md)
+See [Source Code Documentation Extension](Source%20Code%20Documentation%20Extension.md)
 
 ## Folder Overview
 We now display a folder overview when a folder is clicked in the navigator.
@@ -260,10 +260,10 @@ We added the ability to link multiple workspaces to a single user ID.
 ## Ecosystem And Culture
 We get things done here.  Quickly and without ego.  We encourage feature and bug requests. We will not leave issues without responses for weeks, months, or years as seen in other projects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQwNjY0MTUzLDg0NDU3MjMxNiw3NjExOT
-UxOTcsLTE3NzQ3OTczMiwtMTk2NDA5NjA0MiwtMTExODQyNDAx
-MiwtMTYzNDk2NjE1MSwtMTU0MzA0MzEzLC01Nzg5NzMzNjQsLT
-Y4OTY5NzU0NywxNjYzNjUyODA0LC0xMTM2MzQ0MjgxLC0xMzQ3
-OTE4MjgwLDYwODU3NTg5NSw3NDgzNTQzNzYsLTg1NzY2Mzg5Nl
-19
+eyJoaXN0b3J5IjpbLTE3NzgyMjY3OTEsODQ0NTcyMzE2LDc2MT
+E5NTE5NywtMTc3NDc5NzMyLC0xOTY0MDk2MDQyLC0xMTE4NDI0
+MDEyLC0xNjM0OTY2MTUxLC0xNTQzMDQzMTMsLTU3ODk3MzM2NC
+wtNjg5Njk3NTQ3LDE2NjM2NTI4MDQsLTExMzYzNDQyODEsLTEz
+NDc5MTgyODAsNjA4NTc1ODk1LDc0ODM1NDM3NiwtODU3NjYzOD
+k2XX0=
 -->
