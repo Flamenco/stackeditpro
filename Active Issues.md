@@ -15,12 +15,12 @@ Send us an email if you require Zendesk support.
 The sharing server does not render mermaid, fences, or other canvas-based extensions.
 
 ## Feature Requests
-* Add a *hide actions* checkbox to the folder actions page.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk0NTAyNTgzLDExNjU4MDcyMjIsMTg5Mz
-QxOTIzOCwtMTg2ODM4OTEzNiwxNTU2NTg5NTQ1LDYxNjM5NDcy
-NCwtODk1NTYxMjgsLTE4ODcxNTY1ODAsLTE0MjI5NzM3MjYsMT
-I4MDMyODU5NSwtMTY5MjIwNTgzMywxNDAwMzc4NTc1LDE4NTEx
-NzM3MzcsODkzNTUwMTY4LC02MzY3OTUzMzMsLTYzNjY3ODIyOS
-w1NDc1MTgyMzEsLTQwMzQxNTkxM119
+eyJoaXN0b3J5IjpbNzg2NzMxODg5LDc5NDUwMjU4MywxMTY1OD
+A3MjIyLDE4OTM0MTkyMzgsLTE4NjgzODkxMzYsMTU1NjU4OTU0
+NSw2MTYzOTQ3MjQsLTg5NTU2MTI4LC0xODg3MTU2NTgwLC0xND
+IyOTczNzI2LDEyODAzMjg1OTUsLTE2OTIyMDU4MzMsMTQwMDM3
+ODU3NSwxODUxMTczNzM3LDg5MzU1MDE2OCwtNjM2Nzk1MzMzLC
+02MzY2NzgyMjksNTQ3NTE4MjMxLC00MDM0MTU5MTNdfQ==
 -->
