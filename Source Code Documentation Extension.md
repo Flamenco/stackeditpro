@@ -43,9 +43,7 @@ interface Foo {
   // This is a property comment.
   myProperty: string
   // This is a function comment.
-  myFunction(myParam:string[]): string
-  myInlineComment: string // This is an inline comment
-  
+  myFunction(myParam:string[]): string 
 }
 ```
 
@@ -61,13 +59,21 @@ interface Foo {
 }
 ```
 
+# Comment Styles
+```ts
+interfaces CommentStyles extends Styles {
+// Single Line
+a: string
+
+}
+```
 # Other Features (Pending)
 The documentation can be displayed in a variety of ways by using templates and/or custom CSS.
 
 The documentation can be pushed into or extracted from the source code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI0ODc4NDE2LDE0NzQwNTc0MTQsLTE4NT
-I4Nzk3MzMsODk4ODU2MzEwLC0xMTY3OTY3OTQ0LC0xMDU5Mjg4
-NDczXX0=
+eyJoaXN0b3J5IjpbLTI1ODM0ODExMywxNDc0MDU3NDE0LC0xOD
+UyODc5NzMzLDg5ODg1NjMxMCwtMTE2Nzk2Nzk0NCwtMTA1OTI4
+ODQ3M119
 -->
