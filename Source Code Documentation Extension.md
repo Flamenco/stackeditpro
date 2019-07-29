@@ -45,7 +45,9 @@ interface Foo {
   // This is a property comment.
   myProperty: string
   // This is a function comment.
-  myFunction(myParam:string[]): string 
+  myFunction(
+  myParam:string[] // A parameter comment.
+  ): string 
 }
 ```
 
@@ -95,8 +97,8 @@ The documentation can be displayed in a variety of ways by using templates and/o
 The documentation can be pushed into or extracted from the source code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM3OTY0OTUxLC05MTk5MDEzODEsNTAxMj
-U0MjE1LC0xMDQxMjUwNzE2LC0xMjI4NzM5ODg3LDE0NzQwNTc0
-MTQsLTE4NTI4Nzk3MzMsODk4ODU2MzEwLC0xMTY3OTY3OTQ0LC
-0xMDU5Mjg4NDczXX0=
+eyJoaXN0b3J5IjpbMTMwOTU1MTgyLDIzNzk2NDk1MSwtOTE5OT
+AxMzgxLDUwMTI1NDIxNSwtMTA0MTI1MDcxNiwtMTIyODczOTg4
+NywxNDc0MDU3NDE0LC0xODUyODc5NzMzLDg5ODg1NjMxMCwtMT
+E2Nzk2Nzk0NCwtMTA1OTI4ODQ3M119
 -->
