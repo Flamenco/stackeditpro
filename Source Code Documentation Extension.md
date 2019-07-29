@@ -50,27 +50,12 @@ ret: The string concatenated the requested number of times
 You can also generate documentation from a Typescript interface by including the special comment `//@doc` as the first line of the code fence.
 
 Comments preceding declared items will become descriptions.
-
 ```ts
 //@doc
 // This is an interface comment
 interface Foo {
   // This is a property comment.
-  myProperty: string
-  // This is a function comment.
-  myFunction(
-  myParam:string[] // A parameter comment.
-  ): string 
-}
-```
-
-```ts
-
-//@doc
-// This is an interface comment
-interface Foo {
-  // This is a property comment.
-  myProperty: string
+  myPro perty: string
   // This is a function comment.
   myFunction(myParam:string[]): string
 }
@@ -85,7 +70,7 @@ The comment engine will add periods to the end of your rendered descriptions if 
 > You **do not** need to use JavaDoc `/** ... **/` notation.
 
 ```ts
-//@doc
+ //@doc
 interface CommentStyles extends Styles {
   // A single line comment
   singleline: string
@@ -103,20 +88,21 @@ interface CommentStyles extends Styles {
 ```
 
 # Themes
-There are currently 2 themes, *light* (the default) and *dark*.
+There are currently 2 themes implemented, *light* (the default) and *dark*.
 
-To enable the *dark theme*, add the `theme-dark` class to any parent element.
+To enable the *dark theme*, add the `theme-dark` class to any parent element of the code fence.
+
 # Other Features (Pending)
 The documentation can be displayed in a variety of ways by using templates and/or custom CSS.
 
 The documentation can be pushed into or extracted from the source code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ0NTgyNTM3LDE2NDM5MTI5MjgsMTE2Mj
-A5NzE3OCwtMTY0MjI4NjYwNSwxMDQwNDU5NTUzLDE4MjI3NDE4
-NzQsLTIxNDE3NTk0MCwtMTk5MTk1NTc1MiwxMDk5NDQzOTAsMT
-MwOTU1MTgyLDIzNzk2NDk1MSwtOTE5OTAxMzgxLDUwMTI1NDIx
-NSwtMTA0MTI1MDcxNiwtMTIyODczOTg4NywxNDc0MDU3NDE0LC
-0xODUyODc5NzMzLDg5ODg1NjMxMCwtMTE2Nzk2Nzk0NCwtMTA1
-OTI4ODQ3M119
+eyJoaXN0b3J5IjpbLTE0MjA5NDk4ODgsMTY0MzkxMjkyOCwxMT
+YyMDk3MTc4LC0xNjQyMjg2NjA1LDEwNDA0NTk1NTMsMTgyMjc0
+MTg3NCwtMjE0MTc1OTQwLC0xOTkxOTU1NzUyLDEwOTk0NDM5MC
+wxMzA5NTUxODIsMjM3OTY0OTUxLC05MTk5MDEzODEsNTAxMjU0
+MjE1LC0xMDQxMjUwNzE2LC0xMjI4NzM5ODg3LDE0NzQwNTc0MT
+QsLTE4NTI4Nzk3MzMsODk4ODU2MzEwLC0xMTY3OTY3OTQ0LC0x
+MDU5Mjg4NDczXX0=
 -->
