@@ -266,14 +266,17 @@ There is was no *last-modified* data associated with files, so we could not sort
 ## StackEditPro User ID
 We added the ability to link multiple workspaces to a single user ID.
 
+## Babel Prism Plugin
+We removed the Gulp Prism script and replaced it with the Babel Prism Plugin.
+
 ## Ecosystem And Culture
 We get things done here.  Quickly and without ego.  We encourage feature and bug requests. We will not leave issues without responses for weeks, months, or years as seen in other projects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MDA1NTcwNSwxMjM0OTA1OTMwLC0yMT
-gxNDI2NzgsMjE4OTA0MjU3LC0xNjU5MTU1NjQsLTMyMjQ2NzU5
-NywtMTc3ODIyNjc5MSw4NDQ1NzIzMTYsNzYxMTk1MTk3LC0xNz
-c0Nzk3MzIsLTExMTg0MjQwMTIsLTE2MzQ5NjYxNTEsLTE1NDMw
-NDMxMywtNTc4OTczMzY0LC02ODk2OTc1NDcsMTY2MzY1MjgwNC
-wtMTEzNjM0NDI4MSwtMTM0NzkxODI4MCw2MDg1NzU4OTUsNzQ4
-MzU0Mzc2XX0=
+eyJoaXN0b3J5IjpbLTg5NDUwMjM5MSwtNTQwMDU1NzA1LDEyMz
+Q5MDU5MzAsLTIxODE0MjY3OCwyMTg5MDQyNTcsLTE2NTkxNTU2
+NCwtMzIyNDY3NTk3LC0xNzc4MjI2NzkxLDg0NDU3MjMxNiw3Nj
+ExOTUxOTcsLTE3NzQ3OTczMiwtMTExODQyNDAxMiwtMTYzNDk2
+NjE1MSwtMTU0MzA0MzEzLC01Nzg5NzMzNjQsLTY4OTY5NzU0Ny
+wxNjYzNjUyODA0LC0xMTM2MzQ0MjgxLC0xMzQ3OTE4MjgwLDYw
+ODU3NTg5NV19
 -->
