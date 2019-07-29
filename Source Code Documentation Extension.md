@@ -59,7 +59,10 @@ interface Foo {
 }
 ```
 
-# Comment Styles
+# Description Styles
+You can add descriptions to your Typescript interfaces by using comments.
+
+There are 4 comment styles supported:  `inline`
 ```ts
 //@doc
 interface CommentStyles extends Styles {
@@ -83,7 +86,7 @@ The documentation can be displayed in a variety of ways by using templates and/o
 The documentation can be pushed into or extracted from the source code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDEyNTA3MTYsLTEyMjg3Mzk4ODcsMT
-Q3NDA1NzQxNCwtMTg1Mjg3OTczMyw4OTg4NTYzMTAsLTExNjc5
-Njc5NDQsLTEwNTkyODg0NzNdfQ==
+eyJoaXN0b3J5IjpbMTgwMjg3MzI3MiwtMTA0MTI1MDcxNiwtMT
+IyODczOTg4NywxNDc0MDU3NDE0LC0xODUyODc5NzMzLDg5ODg1
+NjMxMCwtMTE2Nzk2Nzk0NCwtMTA1OTI4ODQ3M119
 -->
