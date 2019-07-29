@@ -62,7 +62,7 @@ interface Foo {
 # Comment Styles
 ```ts
 //@doc
-interfaces CommentStyles extends Styles {
+interface CommentStyles extends Styles {
 // Single line comment
 a: string
 // Consecutive
@@ -83,7 +83,7 @@ The documentation can be displayed in a variety of ways by using templates and/o
 The documentation can be pushed into or extracted from the source code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjg3Mzk4ODcsMTQ3NDA1NzQxNCwtMT
-g1Mjg3OTczMyw4OTg4NTYzMTAsLTExNjc5Njc5NDQsLTEwNTky
-ODg0NzNdfQ==
+eyJoaXN0b3J5IjpbLTEwNDEyNTA3MTYsLTEyMjg3Mzk4ODcsMT
+Q3NDA1NzQxNCwtMTg1Mjg3OTczMyw4OTg4NTYzMTAsLTExNjc5
+Njc5NDQsLTEwNTkyODg0NzNdfQ==
 -->
