@@ -212,7 +212,7 @@ If you want the non-conventional behavior, create your own preset or override in
 
 ## Async Markdown Extensions
 There was no way for an markdown extension to run asynchronously.
-This was an issue when rendering in the background, or creating dynamically updating pagesa page, or when exporting.  We added semantics to make this happen.
+This was an issue when rendering in the background, creating dynamically updating pages, or when exporting.  We added semantics to make this happen.
 
 ## Default Table Alignment Property
 Tables will now vertically align their cell content to the top.
@@ -269,11 +269,11 @@ We added the ability to link multiple workspaces to a single user ID.
 ## Ecosystem And Culture
 We get things done here.  Quickly and without ego.  We encourage feature and bug requests. We will not leave issues without responses for weeks, months, or years as seen in other projects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNDkwNTkzMCwtMjE4MTQyNjc4LDIxOD
-kwNDI1NywtMTY1OTE1NTY0LC0zMjI0Njc1OTcsLTE3NzgyMjY3
-OTEsODQ0NTcyMzE2LDc2MTE5NTE5NywtMTc3NDc5NzMyLC0xMT
-E4NDI0MDEyLC0xNjM0OTY2MTUxLC0xNTQzMDQzMTMsLTU3ODk3
-MzM2NCwtNjg5Njk3NTQ3LDE2NjM2NTI4MDQsLTExMzYzNDQyOD
-EsLTEzNDc5MTgyODAsNjA4NTc1ODk1LDc0ODM1NDM3NiwtODU3
-NjYzODk2XX0=
+eyJoaXN0b3J5IjpbLTU0MDA1NTcwNSwxMjM0OTA1OTMwLC0yMT
+gxNDI2NzgsMjE4OTA0MjU3LC0xNjU5MTU1NjQsLTMyMjQ2NzU5
+NywtMTc3ODIyNjc5MSw4NDQ1NzIzMTYsNzYxMTk1MTk3LC0xNz
+c0Nzk3MzIsLTExMTg0MjQwMTIsLTE2MzQ5NjYxNTEsLTE1NDMw
+NDMxMywtNTc4OTczMzY0LC02ODk2OTc1NDcsMTY2MzY1MjgwNC
+wtMTEzNjM0NDI4MSwtMTM0NzkxODI4MCw2MDg1NzU4OTUsNzQ4
+MzU0Mzc2XX0=
 -->
