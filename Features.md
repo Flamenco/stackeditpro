@@ -113,7 +113,7 @@ We added an *Actions Menu* to the *Main Menu*.  The actions menu lists all globa
 
 The folder actions list can be filtered by action name.
 
-See [Actions](Actions.md)
+See [Actions](Actions.md).
 
 ## Recent Activity
 View and activate documents based on a *most recently modified* list.
@@ -240,11 +240,11 @@ We removed the Gulp Prism script and replaced it with the Babel Prism Plugin.
 ## Ecosystem And Culture
 We get things done here.  Quickly and without ego.  We encourage feature and bug requests. We will not leave issues without responses for weeks, months, or years as seen in other projects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk3Mjc1MDU4LDE2Mjk4OTM2ODQsMTgxNT
-I1ODMzLDExNjM0MDg5OTUsLTg5NDUwMjM5MSwtNTQwMDU1NzA1
-LDEyMzQ5MDU5MzAsLTIxODE0MjY3OCwyMTg5MDQyNTcsLTE2NT
-kxNTU2NCwtMzIyNDY3NTk3LC0xNzc4MjI2NzkxLDg0NDU3MjMx
-Niw3NjExOTUxOTcsLTE3NzQ3OTczMiwtMTExODQyNDAxMiwtMT
-YzNDk2NjE1MSwtMTU0MzA0MzEzLC01Nzg5NzMzNjQsLTY4OTY5
-NzU0N119
+eyJoaXN0b3J5IjpbLTIzMjc5MTE2MCwyOTcyNzUwNTgsMTYyOT
+g5MzY4NCwxODE1MjU4MzMsMTE2MzQwODk5NSwtODk0NTAyMzkx
+LC01NDAwNTU3MDUsMTIzNDkwNTkzMCwtMjE4MTQyNjc4LDIxOD
+kwNDI1NywtMTY1OTE1NTY0LC0zMjI0Njc1OTcsLTE3NzgyMjY3
+OTEsODQ0NTcyMzE2LDc2MTE5NTE5NywtMTc3NDc5NzMyLC0xMT
+E4NDI0MDEyLC0xNjM0OTY2MTUxLC0xNTQzMDQzMTMsLTU3ODk3
+MzM2NF19
 -->
