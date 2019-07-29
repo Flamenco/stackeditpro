@@ -92,10 +92,11 @@ You can also dynamically use the actual page name by declaring  `[]` as your fir
 # Part 2
 ```
 
-Finally, you can add page titles to all your pages by setting a global property.
+Finally, you can add page titles to all your pages by setting a global property under `settings`.
 ```yml
 pro:
-
+ pageTitle:
+  showAll: true
 ```
 
 ### Source Code Documentation Extension
@@ -246,7 +247,7 @@ We removed the Gulp Prism script and replaced it with the Babel Prism Plugin.
 ## Ecosystem And Culture
 We get things done here.  Quickly and without ego.  We encourage feature and bug requests. We will not leave issues without responses for weeks, months, or years as seen in other projects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTk5Njk1NjAsLTIzMjc5MTE2MCwyOT
+eyJoaXN0b3J5IjpbLTE4MDYxNDY5MzAsLTIzMjc5MTE2MCwyOT
 cyNzUwNTgsMTYyOTg5MzY4NCwxODE1MjU4MzMsMTE2MzQwODk5
 NSwtODk0NTAyMzkxLC01NDAwNTU3MDUsMTIzNDkwNTkzMCwtMj
 E4MTQyNjc4LDIxODkwNDI1NywtMTY1OTE1NTY0LC0zMjI0Njc1
