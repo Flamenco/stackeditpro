@@ -214,6 +214,11 @@ If you want the non-conventional behavior, create your own preset or override in
 There was no way for an markdown extension to run asynchronously.
 This was an issue when rendering in the background, creating dynamically updating pages, or when exporting.  We added semantics to make this happen.
 
+This feature also opens the door to Canvas-To-JPEG conversions for exports.
+
+## CSS Injection For Extensions
+Extensions can now inject custom CSS into exported documents.
+
 ## Default Table Alignment Property
 Tables will now vertically align their cell content to the top.
 
@@ -272,11 +277,11 @@ We removed the Gulp Prism script and replaced it with the Babel Prism Plugin.
 ## Ecosystem And Culture
 We get things done here.  Quickly and without ego.  We encourage feature and bug requests. We will not leave issues without responses for weeks, months, or years as seen in other projects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNTI1ODMzLDExNjM0MDg5OTUsLTg5ND
-UwMjM5MSwtNTQwMDU1NzA1LDEyMzQ5MDU5MzAsLTIxODE0MjY3
-OCwyMTg5MDQyNTcsLTE2NTkxNTU2NCwtMzIyNDY3NTk3LC0xNz
-c4MjI2NzkxLDg0NDU3MjMxNiw3NjExOTUxOTcsLTE3NzQ3OTcz
-MiwtMTExODQyNDAxMiwtMTYzNDk2NjE1MSwtMTU0MzA0MzEzLC
-01Nzg5NzMzNjQsLTY4OTY5NzU0NywxNjYzNjUyODA0LC0xMTM2
-MzQ0MjgxXX0=
+eyJoaXN0b3J5IjpbMTYyOTg5MzY4NCwxODE1MjU4MzMsMTE2Mz
+QwODk5NSwtODk0NTAyMzkxLC01NDAwNTU3MDUsMTIzNDkwNTkz
+MCwtMjE4MTQyNjc4LDIxODkwNDI1NywtMTY1OTE1NTY0LC0zMj
+I0Njc1OTcsLTE3NzgyMjY3OTEsODQ0NTcyMzE2LDc2MTE5NTE5
+NywtMTc3NDc5NzMyLC0xMTE4NDI0MDEyLC0xNjM0OTY2MTUxLC
+0xNTQzMDQzMTMsLTU3ODk3MzM2NCwtNjg5Njk3NTQ3LDE2NjM2
+NTI4MDRdfQ==
 -->
