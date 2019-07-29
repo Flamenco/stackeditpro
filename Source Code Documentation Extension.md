@@ -65,7 +65,7 @@ interface Foo {
 
 # Description Styles
 You can add descriptions to your Typescript interfaces by using comments.
-There are 4 comment styles supported:  `single`, `consecutive`, `inline`, and `multiline`.
+Several comment styles are supported:  `single`, `consecutive`, `inline`, and `multiline`.
 
 The comment engine will add periods to the end of your rendered descriptions if they do not already exist.
 
@@ -98,9 +98,9 @@ The documentation can be displayed in a variety of ways by using templates and/o
 The documentation can be pushed into or extracted from the source code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTE5NTU3NTIsMTA5OTQ0MzkwLDEzMD
-k1NTE4MiwyMzc5NjQ5NTEsLTkxOTkwMTM4MSw1MDEyNTQyMTUs
-LTEwNDEyNTA3MTYsLTEyMjg3Mzk4ODcsMTQ3NDA1NzQxNCwtMT
-g1Mjg3OTczMyw4OTg4NTYzMTAsLTExNjc5Njc5NDQsLTEwNTky
-ODg0NzNdfQ==
+eyJoaXN0b3J5IjpbLTIxNDE3NTk0MCwtMTk5MTk1NTc1MiwxMD
+k5NDQzOTAsMTMwOTU1MTgyLDIzNzk2NDk1MSwtOTE5OTAxMzgx
+LDUwMTI1NDIxNSwtMTA0MTI1MDcxNiwtMTIyODczOTg4NywxND
+c0MDU3NDE0LC0xODUyODc5NzMzLDg5ODg1NjMxMCwtMTE2Nzk2
+Nzk0NCwtMTA1OTI4ODQ3M119
 -->
