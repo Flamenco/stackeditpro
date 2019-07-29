@@ -86,15 +86,15 @@ d: string
 # Themes
 There are currently 2 themes, light (the default) and dark.
 
-To enable the dark theme, add a
+To enable the dark theme, add the `theme-dark` class to any parent element.
 # Other Features (Pending)
 The documentation can be displayed in a variety of ways by using templates and/or custom CSS.
 
 The documentation can be pushed into or extracted from the source code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODU4MjU1MDgsNTAxMjU0MjE1LC0xMD
-QxMjUwNzE2LC0xMjI4NzM5ODg3LDE0NzQwNTc0MTQsLTE4NTI4
-Nzk3MzMsODk4ODU2MzEwLC0xMTY3OTY3OTQ0LC0xMDU5Mjg4ND
-czXX0=
+eyJoaXN0b3J5IjpbLTkxOTkwMTM4MSw1MDEyNTQyMTUsLTEwND
+EyNTA3MTYsLTEyMjg3Mzk4ODcsMTQ3NDA1NzQxNCwtMTg1Mjg3
+OTczMyw4OTg4NTYzMTAsLTExNjc5Njc5NDQsLTEwNTkyODg0Nz
+NdfQ==
 -->
