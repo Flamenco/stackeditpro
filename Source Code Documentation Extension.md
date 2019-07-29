@@ -61,10 +61,16 @@ interface Foo {
 
 # Comment Styles
 ```ts
+//@doc
 interfaces CommentStyles extends Styles {
-// Single Line
+// Single line comment
 a: string
-
+// Consecutive
+// line
+// comment
+b: string
+c: string // Inline comment
+/
 }
 ```
 # Other Features (Pending)
@@ -73,7 +79,7 @@ The documentation can be displayed in a variety of ways by using templates and/o
 The documentation can be pushed into or extracted from the source code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1ODM0ODExMywxNDc0MDU3NDE0LC0xOD
+eyJoaXN0b3J5IjpbLTQzMDM3NTk1OSwxNDc0MDU3NDE0LC0xOD
 UyODc5NzMzLDg5ODg1NjMxMCwtMTE2Nzk2Nzk0NCwtMTA1OTI4
 ODQ3M119
 -->
