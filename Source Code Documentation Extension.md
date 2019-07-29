@@ -29,7 +29,7 @@ params:
 ret: The string concatenated the requested number of times
 ```
 
-> If the `sig` has colons with spaces, make sure to use quotes around the value to conform to the 	`YAML` specification.  Alternatively , you can also use a multline string such as `sig: |` or `sig: >`.
+> If the `sig` has colons with trailing spaces, make sure to use quotes around the value to conform to the 	`YAML` specification.  Alternatively , you can also use a multline string such as `sig: |` or `sig: >`.
 
 We use `Typescript` notation to define the method signature.
 
@@ -65,6 +65,6 @@ The documentation can be displayed in a variety of ways by using templates and/o
 The documentation can be pushed into or extracted from the source code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjc5Njc5NDQsLTEwNTkyODg0NzNdfQ
-==
+eyJoaXN0b3J5IjpbODk4ODU2MzEwLC0xMTY3OTY3OTQ0LC0xMD
+U5Mjg4NDczXX0=
 -->
