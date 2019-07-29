@@ -70,7 +70,11 @@ a: string
 // comment
 b: string
 c: string // Inline comment
-/
+/*
+ Multiline
+ comment
+*/
+d: string
 }
 ```
 # Other Features (Pending)
@@ -79,7 +83,7 @@ The documentation can be displayed in a variety of ways by using templates and/o
 The documentation can be pushed into or extracted from the source code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMDM3NTk1OSwxNDc0MDU3NDE0LC0xOD
-UyODc5NzMzLDg5ODg1NjMxMCwtMTE2Nzk2Nzk0NCwtMTA1OTI4
-ODQ3M119
+eyJoaXN0b3J5IjpbLTEyMjg3Mzk4ODcsMTQ3NDA1NzQxNCwtMT
+g1Mjg3OTczMyw4OTg4NTYzMTAsLTExNjc5Njc5NDQsLTEwNTky
+ODg0NzNdfQ==
 -->
