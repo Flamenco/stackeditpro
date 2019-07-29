@@ -240,11 +240,11 @@ We have started converting the entire application to Typescript.
 ## Refactored Backend
 All server-based services that operate on documents have been moved to a separate backend service.  For development, this facilitates a better developer workflow.  For deployment, it offers higher availability and improved scaling.
 
-## Refactored Front End
-Removing the backend services made the front-end Docker image 4GB smaller.
-
 ### Removed AWS And Added MongoDB
 The backend code that managed user data was changed from Amazon to a self hosted MongoDB instance.
+
+## Refactored Front End
+Removing the backend services made the front-end Docker image 4GB smaller.
 
 ## Reworked Modal Dialogs
 Modal Dialogs look and behave better.  They now will always scroll to top when opened.  The close buttons no longer scroll out of view.
@@ -272,11 +272,11 @@ We removed the Gulp Prism script and replaced it with the Babel Prism Plugin.
 ## Ecosystem And Culture
 We get things done here.  Quickly and without ego.  We encourage feature and bug requests. We will not leave issues without responses for weeks, months, or years as seen in other projects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MzQwODk5NSwtODk0NTAyMzkxLC01ND
-AwNTU3MDUsMTIzNDkwNTkzMCwtMjE4MTQyNjc4LDIxODkwNDI1
-NywtMTY1OTE1NTY0LC0zMjI0Njc1OTcsLTE3NzgyMjY3OTEsOD
-Q0NTcyMzE2LDc2MTE5NTE5NywtMTc3NDc5NzMyLC0xMTE4NDI0
-MDEyLC0xNjM0OTY2MTUxLC0xNTQzMDQzMTMsLTU3ODk3MzM2NC
-wtNjg5Njk3NTQ3LDE2NjM2NTI4MDQsLTExMzYzNDQyODEsLTEz
-NDc5MTgyODBdfQ==
+eyJoaXN0b3J5IjpbMTgxNTI1ODMzLDExNjM0MDg5OTUsLTg5ND
+UwMjM5MSwtNTQwMDU1NzA1LDEyMzQ5MDU5MzAsLTIxODE0MjY3
+OCwyMTg5MDQyNTcsLTE2NTkxNTU2NCwtMzIyNDY3NTk3LC0xNz
+c4MjI2NzkxLDg0NDU3MjMxNiw3NjExOTUxOTcsLTE3NzQ3OTcz
+MiwtMTExODQyNDAxMiwtMTYzNDk2NjE1MSwtMTU0MzA0MzEzLC
+01Nzg5NzMzNjQsLTY4OTY5NzU0NywxNjYzNjUyODA0LC0xMTM2
+MzQ0MjgxXX0=
 -->
