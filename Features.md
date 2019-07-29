@@ -111,46 +111,9 @@ Each item has a list of actions that can be performed.  You can hide or filter a
 ## Actions Menu
 We added an *Actions Menu* to the *Main Menu*.  The actions menu lists all global and item actions added by the system and 3rd party plugins.
 
-The actions list can be filtered by action name.
+The folder actions list can be filtered by action name.
 
-### Global Actions
-#### Login
-#### Logout
-#### Sync Now
-#### Empty Trash
-#### Publish Shares
-#### Unpublish Shares
-
-### Folder And File Actions
-Several folder and file actions are available from the *Folder Overview*.
-
-#### Auto Number Files
-Add or recalculate numeric prefixes for all files in a folder.  Available on the *Folder Info* page.
-Numbering allows files to be manually sorted.
-
-If you want to move a file, give it a number of where you want it to be (e.g. 6 or 7.5) and then renumber the files again.
-
-#### Remove Numbering
-You can also remove the numbering and revert back to alphabetical order using the `Remove Numbering` action.
-
-#### Move
-Move a file or folder using an autocomplete dropdown menu.
-#### Delete
-Delete a file or folder.
-#### Rename
-Rename a file or folder.
-#### New File
-Creates a new file in the current folder.
-#### Insert New File After
-Creates a new file after the referenced file.  Numbering must be enabled for the folder.
-#### Download Folder (Zip File)
-This action downloads the selected folder as a zip file, including all subfolders and files.  The name of the zip file will be the name of the folder.
-#### Increase And Decrease Heading Level
-You can now increase or decrease all of your heading levels.  This is useful when move a section out of one outline and into another.
-#### Email Content
-Email a markdown document in a variety of formats.
-#### Email Link
-Email a link to markdown document.
+See [Actions](Actions.md)
 
 ## Recent Activity
 View and activate documents based on a *most recently modified* list.
@@ -277,11 +240,11 @@ We removed the Gulp Prism script and replaced it with the Babel Prism Plugin.
 ## Ecosystem And Culture
 We get things done here.  Quickly and without ego.  We encourage feature and bug requests. We will not leave issues without responses for weeks, months, or years as seen in other projects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyOTg5MzY4NCwxODE1MjU4MzMsMTE2Mz
-QwODk5NSwtODk0NTAyMzkxLC01NDAwNTU3MDUsMTIzNDkwNTkz
-MCwtMjE4MTQyNjc4LDIxODkwNDI1NywtMTY1OTE1NTY0LC0zMj
-I0Njc1OTcsLTE3NzgyMjY3OTEsODQ0NTcyMzE2LDc2MTE5NTE5
-NywtMTc3NDc5NzMyLC0xMTE4NDI0MDEyLC0xNjM0OTY2MTUxLC
-0xNTQzMDQzMTMsLTU3ODk3MzM2NCwtNjg5Njk3NTQ3LDE2NjM2
-NTI4MDRdfQ==
+eyJoaXN0b3J5IjpbMjk3Mjc1MDU4LDE2Mjk4OTM2ODQsMTgxNT
+I1ODMzLDExNjM0MDg5OTUsLTg5NDUwMjM5MSwtNTQwMDU1NzA1
+LDEyMzQ5MDU5MzAsLTIxODE0MjY3OCwyMTg5MDQyNTcsLTE2NT
+kxNTU2NCwtMzIyNDY3NTk3LC0xNzc4MjI2NzkxLDg0NDU3MjMx
+Niw3NjExOTUxOTcsLTE3NzQ3OTczMiwtMTExODQyNDAxMiwtMT
+YzNDk2NjE1MSwtMTU0MzA0MzEzLC01Nzg5NzMzNjQsLTY4OTY5
+NzU0N119
 -->
