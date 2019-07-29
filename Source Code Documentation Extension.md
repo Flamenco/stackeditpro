@@ -72,18 +72,18 @@ You do not need to use JavaDoc `/** ... **/` notation.
 ```ts
 //@doc
 interface CommentStyles extends Styles {
-// Single line comment
-a: string
-// Consecutive
-// line
-// comment
-b: string
-c: string // Inline comment
-/*
- Multiline
- comment
-*/
-d: string
+  // A single line comment
+  singleLine: string
+  // A consecutive
+  // line
+  // comment
+  consecutiveLine: string
+  inline: string // An inline comment
+  /*
+   A multiline
+   comment
+  */
+  multiLine: string
 }
 ```
 
@@ -97,8 +97,8 @@ The documentation can be displayed in a variety of ways by using templates and/o
 The documentation can be pushed into or extracted from the source code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwOTU1MTgyLDIzNzk2NDk1MSwtOTE5OT
-AxMzgxLDUwMTI1NDIxNSwtMTA0MTI1MDcxNiwtMTIyODczOTg4
-NywxNDc0MDU3NDE0LC0xODUyODc5NzMzLDg5ODg1NjMxMCwtMT
-E2Nzk2Nzk0NCwtMTA1OTI4ODQ3M119
+eyJoaXN0b3J5IjpbMTA5OTQ0MzkwLDEzMDk1NTE4MiwyMzc5Nj
+Q5NTEsLTkxOTkwMTM4MSw1MDEyNTQyMTUsLTEwNDEyNTA3MTYs
+LTEyMjg3Mzk4ODcsMTQ3NDA1NzQxNCwtMTg1Mjg3OTczMyw4OT
+g4NTYzMTAsLTExNjc5Njc5NDQsLTEwNTkyODg0NzNdfQ==
 -->
