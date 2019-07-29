@@ -32,6 +32,7 @@ ret: The string concatenated the requested number of times
 You can also use an 	`array` instead of `object` for `params`.  This will apply the descriptions in order of declaration, allow you to omit the parameter name.
 
 ```yml
+
 sig: "repeatString(text: string, times: number): string[]"
 desc: Repeats a string the specified number of times.
 params:
@@ -109,10 +110,10 @@ The documentation can be displayed in a variety of ways by using templates and/o
 The documentation can be pushed into or extracted from the source code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MDQ1OTU1MywxODIyNzQxODc0LC0yMT
-QxNzU5NDAsLTE5OTE5NTU3NTIsMTA5OTQ0MzkwLDEzMDk1NTE4
-MiwyMzc5NjQ5NTEsLTkxOTkwMTM4MSw1MDEyNTQyMTUsLTEwND
-EyNTA3MTYsLTEyMjg3Mzk4ODcsMTQ3NDA1NzQxNCwtMTg1Mjg3
-OTczMyw4OTg4NTYzMTAsLTExNjc5Njc5NDQsLTEwNTkyODg0Nz
-NdfQ==
+eyJoaXN0b3J5IjpbLTE2NDIyODY2MDUsMTA0MDQ1OTU1MywxOD
+IyNzQxODc0LC0yMTQxNzU5NDAsLTE5OTE5NTU3NTIsMTA5OTQ0
+MzkwLDEzMDk1NTE4MiwyMzc5NjQ5NTEsLTkxOTkwMTM4MSw1MD
+EyNTQyMTUsLTEwNDEyNTA3MTYsLTEyMjg3Mzk4ODcsMTQ3NDA1
+NzQxNCwtMTg1Mjg3OTczMyw4OTg4NTYzMTAsLTExNjc5Njc5ND
+QsLTEwNTkyODg0NzNdfQ==
 -->
