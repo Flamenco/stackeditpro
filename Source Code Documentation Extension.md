@@ -32,7 +32,7 @@ params:
 ret: The string concatenated the requested number of times
 ```
 
-You can also use an 	`array` instead of `object` for `params`.  This will apply the descriptions in order of declaration, allow you to omit the parameter name.
+You can also use an 	`array` instead of `object` for `params`.  This will apply the descriptions in order of declaration, allowing you to omit the parameter name.
 
 ```yml
 
@@ -111,10 +111,11 @@ The documentation can be displayed in a variety of ways by using templates and/o
 The documentation can be pushed into or extracted from the source code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MjA5NzE3OCwtMTY0MjI4NjYwNSwxMD
-QwNDU5NTUzLDE4MjI3NDE4NzQsLTIxNDE3NTk0MCwtMTk5MTk1
-NTc1MiwxMDk5NDQzOTAsMTMwOTU1MTgyLDIzNzk2NDk1MSwtOT
-E5OTAxMzgxLDUwMTI1NDIxNSwtMTA0MTI1MDcxNiwtMTIyODcz
-OTg4NywxNDc0MDU3NDE0LC0xODUyODc5NzMzLDg5ODg1NjMxMC
-wtMTE2Nzk2Nzk0NCwtMTA1OTI4ODQ3M119
+eyJoaXN0b3J5IjpbMTY0MzkxMjkyOCwxMTYyMDk3MTc4LC0xNj
+QyMjg2NjA1LDEwNDA0NTk1NTMsMTgyMjc0MTg3NCwtMjE0MTc1
+OTQwLC0xOTkxOTU1NzUyLDEwOTk0NDM5MCwxMzA5NTUxODIsMj
+M3OTY0OTUxLC05MTk5MDEzODEsNTAxMjU0MjE1LC0xMDQxMjUw
+NzE2LC0xMjI4NzM5ODg3LDE0NzQwNTc0MTQsLTE4NTI4Nzk3Mz
+MsODk4ODU2MzEwLC0xMTY3OTY3OTQ0LC0xMDU5Mjg4NDczXX0=
+
 -->
