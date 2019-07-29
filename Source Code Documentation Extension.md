@@ -1,15 +1,15 @@
-#Source-Code-Documentation Extension
+# Source-Code-Documentation Extension
 
-Document source code outside of your codebase and render it in as beautiful HTML.
+Document source code outside of your codebase and render it as beautiful HTML.
 
-#### Usage
+# Usage
 
 To trigger for the *Source Code Documentation Extension*, do one of the following:
 * Create a `yml` code fence having the first item named `sig`.
 * Create a `ts` code fence having the first item a comment of `//@doc`.
 
-#### Examples
-##### Single Method Documentation
+# Examples
+## Single Method Documentation
 ```yml
 sig: "repeatString(text: string, times: number): string[]"
 desc: Repeats a string the specified number of times.
@@ -33,7 +33,7 @@ ret: The string concatenated the requested number of times
 
 We use `Typescript` notation to define the method signature.
 
-##### Interface Documentation
+## Interface Documentation
 You can also generate Typescript interface documentation by including the special comment `//@doc` as the first line of the code fence.  Any single line comments preceding declared items will become descriptions.
 
 ```ts
@@ -59,11 +59,11 @@ interface Foo {
 }
 ```
 
-#### Other Features (Pending)
+# Other Features (Pending)
 The documentation can be displayed in a variety of ways by using templates and/or custom CSS.
 
 The documentation can be pushed into or extracted from the source code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTEzMDg1ODldfQ==
+eyJoaXN0b3J5IjpbLTEwNTkyODg0NzNdfQ==
 -->
