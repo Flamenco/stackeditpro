@@ -75,7 +75,7 @@ line 2
 
 ### Page-Names Extension
 
-We added a syntax for adding titles to your pages without having the page name added to the table of contents.
+We added a syntax for adding titles to your pages without needing to use a heading. This results in the page name not getting added contents, and allows for a page-title style.
 
 You can put a title between `[` and `]`, followed by a blank line.
 ```
@@ -269,10 +269,10 @@ We added the ability to link multiple workspaces to a single user ID.
 ## Ecosystem And Culture
 We get things done here.  Quickly and without ego.  We encourage feature and bug requests. We will not leave issues without responses for weeks, months, or years as seen in other projects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE4OTA0MjU3LC0xNjU5MTU1NjQsLTMyMj
-Q2NzU5NywtMTc3ODIyNjc5MSw4NDQ1NzIzMTYsNzYxMTk1MTk3
-LC0xNzc0Nzk3MzIsLTExMTg0MjQwMTIsLTE2MzQ5NjYxNTEsLT
-E1NDMwNDMxMywtNTc4OTczMzY0LC02ODk2OTc1NDcsMTY2MzY1
-MjgwNCwtMTEzNjM0NDI4MSwtMTM0NzkxODI4MCw2MDg1NzU4OT
-UsNzQ4MzU0Mzc2LC04NTc2NjM4OTZdfQ==
+eyJoaXN0b3J5IjpbMTUxNDgwNzMzMCwyMTg5MDQyNTcsLTE2NT
+kxNTU2NCwtMzIyNDY3NTk3LC0xNzc4MjI2NzkxLDg0NDU3MjMx
+Niw3NjExOTUxOTcsLTE3NzQ3OTczMiwtMTExODQyNDAxMiwtMT
+YzNDk2NjE1MSwtMTU0MzA0MzEzLC01Nzg5NzMzNjQsLTY4OTY5
+NzU0NywxNjYzNjUyODA0LC0xMTM2MzQ0MjgxLC0xMzQ3OTE4Mj
+gwLDYwODU3NTg5NSw3NDgzNTQzNzYsLTg1NzY2Mzg5Nl19
 -->
