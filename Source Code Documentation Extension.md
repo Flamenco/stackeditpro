@@ -4,8 +4,8 @@ Document source code outside of your codebase and render it as beautiful HTML.
 
 # Usage
 
-To trigger for the *Source Code Documentation Extension*, do one of the following:
-* Create a `yml` code fence having the first item named `sig`.
+To trigger the *Source Code Documentation Extension*, do one of the following:
+* Create a `yml` code fence having the first line an string item named `sig:`.
 * Create a `ts` code fence having the first item a comment of `//@doc`.
 
 # Examples
@@ -65,5 +65,6 @@ The documentation can be displayed in a variety of ways by using templates and/o
 The documentation can be pushed into or extracted from the source code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTkyODg0NzNdfQ==
+eyJoaXN0b3J5IjpbLTExNjc5Njc5NDQsLTEwNTkyODg0NzNdfQ
+==
 -->
