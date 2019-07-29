@@ -91,72 +91,7 @@ You can also dynamically use the actual page name by declaring  `[]` as your fir
 # Part 1
 # Part 2
 ```
-
-### Source-Code-Documentation Extension
-
-Document source code outside of your codebase and render it in as beautiful HTML.
-
-#### Usage
-
-To trigger for the *Source Code Documentation Extension*, do one of the following:
-* Create a `yml` code fence having the first item named `sig`.
-* Create a `ts` code fence having the first item a comment of `//@doc`.
-
-#### Examples
-##### Single Method Documentation
-```yml
-sig: "repeatString(text: string, times: number): string[]"
-desc: Repeats a string the specified number of times.
-params:
- text: The string you want to repeat.
- times: How many times to repeat.
-ret: The string concatenated the requested number of times
-```
-
-```yml
-
-sig: "repeatString(text: string, times: number): string[]"
-desc: Repeats a string the specified number of times.
-params:
- text: The string you want to repeat.
- times: How many times to repeat.
-ret: The string concatenated the requested number of times
-```
-
-> If the `sig` has colons with spaces, make sure to use quotes around the value to conform to the 	`YAML` specification.  Alternatively , you can also use a multline string such as `sig: |` or `sig: >`.
-
-We use `Typescript` notation to define the method signature.
-
-##### Interface Documentation
-You can also generate Typescript interface documentation by including the special comment `//@doc` as the first line of the code fence.  Any single line comments preceding declared items will become descriptions.
-
-```ts
-//@doc
-// This is an interface comment
-interface Foo {
-  // This is a property comment.
-  myProperty: string
-  // This is a function comment.
-  myFunction(myParam:string[]): string
-}
-```
-
-```ts
-
-//@doc
-// This is an interface comment
-interface Foo {
-  // This is a property comment.
-  myProperty: string
-  // This is a function comment.
-  myFunction(myParam:string[]): string
-}
-```
-
-#### Other Features (Pending)
-The documentation can be displayed in a variety of ways by using templates and/or custom CSS.
-
-The documentation can be pushed into or extracted from the source code.
+See [Source Code Doc Extension](.Source Code Doc Extension)
 
 ## Folder Overview
 We now display a folder overview when a folder is clicked in the navigator.
@@ -325,9 +260,9 @@ We added the ability to link multiple workspaces to a single user ID.
 ## Ecosystem And Culture
 We get things done here.  Quickly and without ego.  We encourage feature and bug requests. We will not leave issues without responses for weeks, months, or years as seen in other projects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzQ3OTczMiwtMTk2NDA5NjA0MiwtMT
-ExODQyNDAxMiwtMTYzNDk2NjE1MSwtMTU0MzA0MzEzLC01Nzg5
-NzMzNjQsLTY4OTY5NzU0NywxNjYzNjUyODA0LC0xMTM2MzQ0Mj
-gxLC0xMzQ3OTE4MjgwLDYwODU3NTg5NSw3NDgzNTQzNzYsLTg1
-NzY2Mzg5Nl19
+eyJoaXN0b3J5IjpbNzYxMTk1MTk3LC0xNzc0Nzk3MzIsLTE5Nj
+QwOTYwNDIsLTExMTg0MjQwMTIsLTE2MzQ5NjYxNTEsLTE1NDMw
+NDMxMywtNTc4OTczMzY0LC02ODk2OTc1NDcsMTY2MzY1MjgwNC
+wtMTEzNjM0NDI4MSwtMTM0NzkxODI4MCw2MDg1NzU4OTUsNzQ4
+MzU0Mzc2LC04NTc2NjM4OTZdfQ==
 -->
