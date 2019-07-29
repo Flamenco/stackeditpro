@@ -62,7 +62,9 @@ interface Foo {
 # Description Styles
 You can add descriptions to your Typescript interfaces by using comments.
 
-There are 4 comment styles supported:  `inline`
+There are 4 comment styles supported:  `single`, `consecutive`, `inline`, and `multiline`.
+
+You do not need to use JavaDoc `/** ... **/` notation.
 ```ts
 //@doc
 interface CommentStyles extends Styles {
@@ -86,7 +88,7 @@ The documentation can be displayed in a variety of ways by using templates and/o
 The documentation can be pushed into or extracted from the source code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMjg3MzI3MiwtMTA0MTI1MDcxNiwtMT
-IyODczOTg4NywxNDc0MDU3NDE0LC0xODUyODc5NzMzLDg5ODg1
-NjMxMCwtMTE2Nzk2Nzk0NCwtMTA1OTI4ODQ3M119
+eyJoaXN0b3J5IjpbNTAxMjU0MjE1LC0xMDQxMjUwNzE2LC0xMj
+I4NzM5ODg3LDE0NzQwNTc0MTQsLTE4NTI4Nzk3MzMsODk4ODU2
+MzEwLC0xMTY3OTY3OTQ0LC0xMDU5Mjg4NDczXX0=
 -->
