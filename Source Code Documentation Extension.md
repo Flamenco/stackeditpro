@@ -14,16 +14,7 @@ To trigger the *Source Code Documentation Extension*, do one of the following:
 Use `Typescript` notation to define the method or property signature.  You can include the following keys: `sig`, `desc`, `params`, and `ret`.
 
 ```yml
-sig: "repeatString(text: string, times: number): string[]"
-desc: Repeats a string the specified number of times.
-params:
- text: The string you want to repeat.
- times: How many times to repeat.
-ret: The string concatenated the requested number of times
-```
-
-```yml
-
+ 
 sig: "repeatString(text: string, times: number): string[]"
 desc: Repeats a string the specified number of times.
 params:
@@ -51,11 +42,11 @@ You can also generate documentation from a Typescript interface by including the
 
 Comments preceding declared items will become descriptions.
 ```ts
-//@doc
+ //@doc
 // This is an interface comment
 interface Foo {
   // This is a property comment.
-  myPro perty: string
+  myProperty: string
   // This is a function comment.
   myFunction(myParam:string[]): string
 }
@@ -98,11 +89,11 @@ The documentation can be displayed in a variety of ways by using templates and/o
 The documentation can be pushed into or extracted from the source code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjA5NDk4ODgsMTY0MzkxMjkyOCwxMT
-YyMDk3MTc4LC0xNjQyMjg2NjA1LDEwNDA0NTk1NTMsMTgyMjc0
-MTg3NCwtMjE0MTc1OTQwLC0xOTkxOTU1NzUyLDEwOTk0NDM5MC
-wxMzA5NTUxODIsMjM3OTY0OTUxLC05MTk5MDEzODEsNTAxMjU0
-MjE1LC0xMDQxMjUwNzE2LC0xMjI4NzM5ODg3LDE0NzQwNTc0MT
-QsLTE4NTI4Nzk3MzMsODk4ODU2MzEwLC0xMTY3OTY3OTQ0LC0x
-MDU5Mjg4NDczXX0=
+eyJoaXN0b3J5IjpbLTczNTI5NTUyOCwxNjQzOTEyOTI4LDExNj
+IwOTcxNzgsLTE2NDIyODY2MDUsMTA0MDQ1OTU1MywxODIyNzQx
+ODc0LC0yMTQxNzU5NDAsLTE5OTE5NTU3NTIsMTA5OTQ0MzkwLD
+EzMDk1NTE4MiwyMzc5NjQ5NTEsLTkxOTkwMTM4MSw1MDEyNTQy
+MTUsLTEwNDEyNTA3MTYsLTEyMjg3Mzk4ODcsMTQ3NDA1NzQxNC
+wtMTg1Mjg3OTczMyw4OTg4NTYzMTAsLTExNjc5Njc5NDQsLTEw
+NTkyODg0NzNdfQ==
 -->
