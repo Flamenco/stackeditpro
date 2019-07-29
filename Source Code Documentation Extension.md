@@ -9,7 +9,7 @@ To trigger the *Source Code Documentation Extension*, do one of the following:
 * Create a `ts` code fence having the first item a comment of `//@doc`.
 
 # Examples
-## Single Method Documentation
+## Method or Property Documentation (using YAML)
 ```yml
 sig: "repeatString(text: string, times: number): string[]"
 desc: Repeats a string the specified number of times.
@@ -29,9 +29,11 @@ params:
 ret: The string concatenated the requested number of times
 ```
 
-> If the `sig` has colons with trailing spaces, make sure to use quotes around the value to conform with the 	`YAML` specification.  Alternatively , you can also use a multline string such as `sig: |` or `sig: >`.
+You can also use an 	`array` instead of `object` for `params`.  This will apply the descriptions i
 
-We use `Typescript` notation to define the method signature.
+> If the `sig` has colons with trailing spaces, make sure to use quotes around the value to conform with the 	`YAML` specification.  Alternatively , you can also use a multiline string such as `sig: |` or `sig: >`.
+
+> We use `Typescript` notation to define the method signature.
 
 ## Interface Documentation
 You can also generate documentation from a Typescript interface by including the special comment `//@doc` as the first line of the code fence.
@@ -98,9 +100,10 @@ The documentation can be displayed in a variety of ways by using templates and/o
 The documentation can be pushed into or extracted from the source code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMjc0MTg3NCwtMjE0MTc1OTQwLC0xOT
-kxOTU1NzUyLDEwOTk0NDM5MCwxMzA5NTUxODIsMjM3OTY0OTUx
-LC05MTk5MDEzODEsNTAxMjU0MjE1LC0xMDQxMjUwNzE2LC0xMj
-I4NzM5ODg3LDE0NzQwNTc0MTQsLTE4NTI4Nzk3MzMsODk4ODU2
-MzEwLC0xMTY3OTY3OTQ0LC0xMDU5Mjg4NDczXX0=
+eyJoaXN0b3J5IjpbLTExMTE0MDI3NzIsMTgyMjc0MTg3NCwtMj
+E0MTc1OTQwLC0xOTkxOTU1NzUyLDEwOTk0NDM5MCwxMzA5NTUx
+ODIsMjM3OTY0OTUxLC05MTk5MDEzODEsNTAxMjU0MjE1LC0xMD
+QxMjUwNzE2LC0xMjI4NzM5ODg3LDE0NzQwNTc0MTQsLTE4NTI4
+Nzk3MzMsODk4ODU2MzEwLC0xMTY3OTY3OTQ0LC0xMDU5Mjg4ND
+czXX0=
 -->
