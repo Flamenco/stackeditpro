@@ -34,7 +34,9 @@ ret: The string concatenated the requested number of times
 We use `Typescript` notation to define the method signature.
 
 ## Interface Documentation
-You can also generate documentation from a Typescript interface by including the special comment `//@doc` as the first line of the code fence.  Any single line comments preceding declared items will become descriptions.
+You can also generate documentation from a Typescript interface by including the special comment `//@doc` as the first line of the code fence.
+
+Comments preceding declared items will become descriptions.
 
 ```ts
 //@doc
@@ -93,8 +95,8 @@ The documentation can be displayed in a variety of ways by using templates and/o
 The documentation can be pushed into or extracted from the source code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxOTkwMTM4MSw1MDEyNTQyMTUsLTEwND
-EyNTA3MTYsLTEyMjg3Mzk4ODcsMTQ3NDA1NzQxNCwtMTg1Mjg3
-OTczMyw4OTg4NTYzMTAsLTExNjc5Njc5NDQsLTEwNTkyODg0Nz
-NdfQ==
+eyJoaXN0b3J5IjpbMjM3OTY0OTUxLC05MTk5MDEzODEsNTAxMj
+U0MjE1LC0xMDQxMjUwNzE2LC0xMjI4NzM5ODg3LDE0NzQwNTc0
+MTQsLTE4NTI4Nzk3MzMsODk4ODU2MzEwLC0xMTY3OTY3OTQ0LC
+0xMDU5Mjg4NDczXX0=
 -->
