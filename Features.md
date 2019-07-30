@@ -187,7 +187,7 @@ This was an issue when rendering in the background, creating dynamically updatin
 This feature also opens the door to Canvas-To-JPEG conversions for exports.
 
 ## CSS Injection For Extensions
-Extensions can now inject custom CSS into exported documents.
+Extensions can now inject custom CSS into exported documents.  We automatically export code fence CSS too, so your exported source code is styled.
 
 ## Default Table Alignment Property
 Tables will now vertically align their cell content to the top.
@@ -247,11 +247,11 @@ We removed the Gulp Prism script and replaced it with the Babel Prism Plugin.
 ## Ecosystem And Culture
 We get things done here.  Quickly and without ego.  We encourage feature and bug requests. We will not leave issues without responses for weeks, months, or years as seen in other projects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNzAyNjgwMSwyMDM5MTMxNzAwLC0yMD
-YzOTE4OTYyLC0xODA2MTQ2OTMwLC0yMzI3OTExNjAsMjk3Mjc1
-MDU4LDE2Mjk4OTM2ODQsMTgxNTI1ODMzLDExNjM0MDg5OTUsLT
-g5NDUwMjM5MSwtNTQwMDU1NzA1LDEyMzQ5MDU5MzAsLTIxODE0
-MjY3OCwyMTg5MDQyNTcsLTE2NTkxNTU2NCwtMzIyNDY3NTk3LC
-0xNzc4MjI2NzkxLDg0NDU3MjMxNiw3NjExOTUxOTcsLTE3NzQ3
-OTczMl19
+eyJoaXN0b3J5IjpbMTYxNDcwMTIxMiwxODA3MDI2ODAxLDIwMz
+kxMzE3MDAsLTIwNjM5MTg5NjIsLTE4MDYxNDY5MzAsLTIzMjc5
+MTE2MCwyOTcyNzUwNTgsMTYyOTg5MzY4NCwxODE1MjU4MzMsMT
+E2MzQwODk5NSwtODk0NTAyMzkxLC01NDAwNTU3MDUsMTIzNDkw
+NTkzMCwtMjE4MTQyNjc4LDIxODkwNDI1NywtMTY1OTE1NTY0LC
+0zMjI0Njc1OTcsLTE3NzgyMjY3OTEsODQ0NTcyMzE2LDc2MTE5
+NTE5N119
 -->
