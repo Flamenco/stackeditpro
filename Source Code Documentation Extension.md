@@ -54,7 +54,7 @@ interface Foo {
 }
 ```
 
-# Description
+# Descriptions
 You can add descriptions to your Typescript interfaces by using comments.
 Several comment styles are supported, including  `single`, `consecutive`, `inline`, and `multiline`.
 
@@ -91,11 +91,11 @@ The documentation can be displayed in a variety of ways by using templates and/o
 The documentation can be pushed into or extracted from the source code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYxNTY4MzI2LDU3MzQ1OTg4OCwtNzM1Mj
-k1NTI4LDE2NDM5MTI5MjgsMTE2MjA5NzE3OCwtMTY0MjI4NjYw
-NSwxMDQwNDU5NTUzLDE4MjI3NDE4NzQsLTIxNDE3NTk0MCwtMT
-k5MTk1NTc1MiwxMDk5NDQzOTAsMTMwOTU1MTgyLDIzNzk2NDk1
-MSwtOTE5OTAxMzgxLDUwMTI1NDIxNSwtMTA0MTI1MDcxNiwtMT
-IyODczOTg4NywxNDc0MDU3NDE0LC0xODUyODc5NzMzLDg5ODg1
-NjMxMF19
+eyJoaXN0b3J5IjpbLTE4ODc0MTgxMjksMjYxNTY4MzI2LDU3Mz
+Q1OTg4OCwtNzM1Mjk1NTI4LDE2NDM5MTI5MjgsMTE2MjA5NzE3
+OCwtMTY0MjI4NjYwNSwxMDQwNDU5NTUzLDE4MjI3NDE4NzQsLT
+IxNDE3NTk0MCwtMTk5MTk1NTc1MiwxMDk5NDQzOTAsMTMwOTU1
+MTgyLDIzNzk2NDk1MSwtOTE5OTAxMzgxLDUwMTI1NDIxNSwtMT
+A0MTI1MDcxNiwtMTIyODczOTg4NywxNDc0MDU3NDE0LC0xODUy
+ODc5NzMzXX0=
 -->
