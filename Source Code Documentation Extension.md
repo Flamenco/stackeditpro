@@ -35,7 +35,7 @@ params:
 ret: The string concatenated the requested number of times
 ```
 
-> If the `sig` has colons with trailing spaces, make sure to use quotes around the value to conform with the 	`YAML` specification.  Alternatively , you can also use a multiline string such as `sig: |` or `sig: >`.
+> If the `sig` has colons with trailing spaces, make sure to use quotes around the value to conform with the 	`YAML` specification.  Alternatively, you can also use a multiline string such as `sig: |` or `sig: >`.
 
 ## Interface Documentation
 You can also generate documentation from a Typescript interface by including the special comment `//@doc` as the first line of the code fence.
@@ -89,11 +89,11 @@ The documentation can be displayed in a variety of ways by using templates and/o
 The documentation can be pushed into or extracted from the source code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNTI5NTUyOCwxNjQzOTEyOTI4LDExNj
-IwOTcxNzgsLTE2NDIyODY2MDUsMTA0MDQ1OTU1MywxODIyNzQx
-ODc0LC0yMTQxNzU5NDAsLTE5OTE5NTU3NTIsMTA5OTQ0MzkwLD
-EzMDk1NTE4MiwyMzc5NjQ5NTEsLTkxOTkwMTM4MSw1MDEyNTQy
-MTUsLTEwNDEyNTA3MTYsLTEyMjg3Mzk4ODcsMTQ3NDA1NzQxNC
-wtMTg1Mjg3OTczMyw4OTg4NTYzMTAsLTExNjc5Njc5NDQsLTEw
-NTkyODg0NzNdfQ==
+eyJoaXN0b3J5IjpbNTczNDU5ODg4LC03MzUyOTU1MjgsMTY0Mz
+kxMjkyOCwxMTYyMDk3MTc4LC0xNjQyMjg2NjA1LDEwNDA0NTk1
+NTMsMTgyMjc0MTg3NCwtMjE0MTc1OTQwLC0xOTkxOTU1NzUyLD
+EwOTk0NDM5MCwxMzA5NTUxODIsMjM3OTY0OTUxLC05MTk5MDEz
+ODEsNTAxMjU0MjE1LC0xMDQxMjUwNzE2LC0xMjI4NzM5ODg3LD
+E0NzQwNTc0MTQsLTE4NTI4Nzk3MzMsODk4ODU2MzEwLC0xMTY3
+OTY3OTQ0XX0=
 -->
