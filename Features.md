@@ -103,7 +103,7 @@ pro:
 
 Document source code outside of your codebase and render it as beautiful HTML.
 
-See [Source Code Documentation Extension](Source Code Documentation Extension.md)
+See [Source Code Documentation Extension](Source%20Code%20Documentation%20Extension.md)
 
 ## Folder Overview
 We now display a folder overview, shown when a folder is selected in the navigator.
@@ -247,11 +247,11 @@ We removed the Gulp Prism script and replaced it with the Babel Prism Plugin.
 ## Ecosystem And Culture
 We get things done here.  Quickly and without ego.  We encourage feature and bug requests. We will not leave issues without responses for weeks, months, or years as seen in other projects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzOTEzMTcwMCwtMjA2MzkxODk2MiwtMT
-gwNjE0NjkzMCwtMjMyNzkxMTYwLDI5NzI3NTA1OCwxNjI5ODkz
-Njg0LDE4MTUyNTgzMywxMTYzNDA4OTk1LC04OTQ1MDIzOTEsLT
-U0MDA1NTcwNSwxMjM0OTA1OTMwLC0yMTgxNDI2NzgsMjE4OTA0
-MjU3LC0xNjU5MTU1NjQsLTMyMjQ2NzU5NywtMTc3ODIyNjc5MS
-w4NDQ1NzIzMTYsNzYxMTk1MTk3LC0xNzc0Nzk3MzIsLTExMTg0
-MjQwMTJdfQ==
+eyJoaXN0b3J5IjpbMTgwNzAyNjgwMSwyMDM5MTMxNzAwLC0yMD
+YzOTE4OTYyLC0xODA2MTQ2OTMwLC0yMzI3OTExNjAsMjk3Mjc1
+MDU4LDE2Mjk4OTM2ODQsMTgxNTI1ODMzLDExNjM0MDg5OTUsLT
+g5NDUwMjM5MSwtNTQwMDU1NzA1LDEyMzQ5MDU5MzAsLTIxODE0
+MjY3OCwyMTg5MDQyNTcsLTE2NTkxNTU2NCwtMzIyNDY3NTk3LC
+0xNzc4MjI2NzkxLDg0NDU3MjMxNiw3NjExOTUxOTcsLTE3NzQ3
+OTczMl19
 -->
