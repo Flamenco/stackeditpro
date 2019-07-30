@@ -44,7 +44,7 @@ Links use the document or folder id;  Renaming or moving a document will not bre
 You can now navigate your workspace by either visited history or natural document order.
 
 ### Arrow Navigation
-*Previous Document* and *Next Document* links have been added to the Navigation Bar.  This allows you to navigate within your document tree using natural document order.
+*Previous Document* and *Next Document* links have been added to the Navigation Bar.  This allows you to navigate within your document tree using *natural document order*.
 
 ### History Mode
 You can now use the browser's forward and back buttons to revisit your document and folder navigation sequence.
@@ -247,11 +247,11 @@ We removed the Gulp Prism script and replaced it with the Babel Prism Plugin.
 ## Ecosystem And Culture
 We get things done here.  Quickly and without ego.  We encourage feature and bug requests. We will not leave issues without responses for weeks, months, or years as seen in other projects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDYxNDY5MzAsLTIzMjc5MTE2MCwyOT
-cyNzUwNTgsMTYyOTg5MzY4NCwxODE1MjU4MzMsMTE2MzQwODk5
-NSwtODk0NTAyMzkxLC01NDAwNTU3MDUsMTIzNDkwNTkzMCwtMj
-E4MTQyNjc4LDIxODkwNDI1NywtMTY1OTE1NTY0LC0zMjI0Njc1
-OTcsLTE3NzgyMjY3OTEsODQ0NTcyMzE2LDc2MTE5NTE5NywtMT
-c3NDc5NzMyLC0xMTE4NDI0MDEyLC0xNjM0OTY2MTUxLC0xNTQz
-MDQzMTNdfQ==
+eyJoaXN0b3J5IjpbLTIwNjM5MTg5NjIsLTE4MDYxNDY5MzAsLT
+IzMjc5MTE2MCwyOTcyNzUwNTgsMTYyOTg5MzY4NCwxODE1MjU4
+MzMsMTE2MzQwODk5NSwtODk0NTAyMzkxLC01NDAwNTU3MDUsMT
+IzNDkwNTkzMCwtMjE4MTQyNjc4LDIxODkwNDI1NywtMTY1OTE1
+NTY0LC0zMjI0Njc1OTcsLTE3NzgyMjY3OTEsODQ0NTcyMzE2LD
+c2MTE5NTE5NywtMTc3NDc5NzMyLC0xMTE4NDI0MDEyLC0xNjM0
+OTY2MTUxXX0=
 -->
