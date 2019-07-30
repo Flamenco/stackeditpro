@@ -11,7 +11,9 @@ To trigger the *Source Code Documentation Extension*, do one of the following:
 # Examples
 ## Method or Property Documentation (using YAML)
 
-Use `Typescript` notation to define the method or property signature.  You can include the following keys: `sig`, `desc`, `params`, and `ret`.
+You can include the following keys: `sig`, `desc`, `params`, and `ret`.
+
+Use `Typescript` notation to define the method or property signature.  
 
 ```yml
  
@@ -89,11 +91,11 @@ The documentation can be displayed in a variety of ways by using templates and/o
 The documentation can be pushed into or extracted from the source code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTczNDU5ODg4LC03MzUyOTU1MjgsMTY0Mz
-kxMjkyOCwxMTYyMDk3MTc4LC0xNjQyMjg2NjA1LDEwNDA0NTk1
-NTMsMTgyMjc0MTg3NCwtMjE0MTc1OTQwLC0xOTkxOTU1NzUyLD
-EwOTk0NDM5MCwxMzA5NTUxODIsMjM3OTY0OTUxLC05MTk5MDEz
-ODEsNTAxMjU0MjE1LC0xMDQxMjUwNzE2LC0xMjI4NzM5ODg3LD
-E0NzQwNTc0MTQsLTE4NTI4Nzk3MzMsODk4ODU2MzEwLC0xMTY3
-OTY3OTQ0XX0=
+eyJoaXN0b3J5IjpbMjYxNTY4MzI2LDU3MzQ1OTg4OCwtNzM1Mj
+k1NTI4LDE2NDM5MTI5MjgsMTE2MjA5NzE3OCwtMTY0MjI4NjYw
+NSwxMDQwNDU5NTUzLDE4MjI3NDE4NzQsLTIxNDE3NTk0MCwtMT
+k5MTk1NTc1MiwxMDk5NDQzOTAsMTMwOTU1MTgyLDIzNzk2NDk1
+MSwtOTE5OTAxMzgxLDUwMTI1NDIxNSwtMTA0MTI1MDcxNiwtMT
+IyODczOTg4NywxNDc0MDU3NDE0LC0xODUyODc5NzMzLDg5ODg1
+NjMxMF19
 -->
