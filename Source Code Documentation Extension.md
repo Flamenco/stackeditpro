@@ -1,4 +1,4 @@
-[]
+# Source-Code-Documentation Extension
 
 Document source code outside of your codebase and render it as beautiful HTML.
 
@@ -91,11 +91,11 @@ The documentation can be displayed in a variety of ways by using templates and/o
 The documentation can be pushed into or extracted from the source code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzQ2Mzg2MjUsLTE4ODc0MTgxMjksMj
-YxNTY4MzI2LDU3MzQ1OTg4OCwtNzM1Mjk1NTI4LDE2NDM5MTI5
-MjgsMTE2MjA5NzE3OCwtMTY0MjI4NjYwNSwxMDQwNDU5NTUzLD
-E4MjI3NDE4NzQsLTIxNDE3NTk0MCwtMTk5MTk1NTc1MiwxMDk5
-NDQzOTAsMTMwOTU1MTgyLDIzNzk2NDk1MSwtOTE5OTAxMzgxLD
-UwMTI1NDIxNSwtMTA0MTI1MDcxNiwtMTIyODczOTg4NywxNDc0
-MDU3NDE0XX0=
+eyJoaXN0b3J5IjpbLTE4ODc0MTgxMjksLTEwMzQ2Mzg2MjUsLT
+E4ODc0MTgxMjksMjYxNTY4MzI2LDU3MzQ1OTg4OCwtNzM1Mjk1
+NTI4LDE2NDM5MTI5MjgsMTE2MjA5NzE3OCwtMTY0MjI4NjYwNS
+wxMDQwNDU5NTUzLDE4MjI3NDE4NzQsLTIxNDE3NTk0MCwtMTk5
+MTk1NTc1MiwxMDk5NDQzOTAsMTMwOTU1MTgyLDIzNzk2NDk1MS
+wtOTE5OTAxMzgxLDUwMTI1NDIxNSwtMTA0MTI1MDcxNiwtMTIy
+ODczOTg4N119
 -->
