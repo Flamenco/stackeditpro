@@ -101,6 +101,8 @@ pro:
   showAll: true
 ```
 
+If you do not explicitly specify a page name, and the page is README, the parent folder is added to the rendered title.
+
 ### Source-Code-Documentation-Extension
 
 Document source code outside of your codebase and render it as beautiful HTML.
@@ -249,11 +251,11 @@ We removed the Gulp Prism script and replaced it with the Babel Prism Plugin.
 ## Ecosystem And Culture
 We get things done here.  Quickly and without ego.  We encourage feature and bug requests. We will not leave issues without responses for weeks, months, or years as seen in other projects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE3NDQxOTMyLC0xMTExMTA4MTk0LDExMz
-k2MzAxMTAsMTYxNDcwMTIxMiwxODA3MDI2ODAxLDIwMzkxMzE3
-MDAsLTIwNjM5MTg5NjIsLTE4MDYxNDY5MzAsLTIzMjc5MTE2MC
-wyOTcyNzUwNTgsMTYyOTg5MzY4NCwxODE1MjU4MzMsMTE2MzQw
-ODk5NSwtODk0NTAyMzkxLC01NDAwNTU3MDUsMTIzNDkwNTkzMC
-wtMjE4MTQyNjc4LDIxODkwNDI1NywtMTY1OTE1NTY0LC0zMjI0
-Njc1OTddfQ==
+eyJoaXN0b3J5IjpbNzI2NjQyNzAsLTExMTExMDgxOTQsMTEzOT
+YzMDExMCwxNjE0NzAxMjEyLDE4MDcwMjY4MDEsMjAzOTEzMTcw
+MCwtMjA2MzkxODk2MiwtMTgwNjE0NjkzMCwtMjMyNzkxMTYwLD
+I5NzI3NTA1OCwxNjI5ODkzNjg0LDE4MTUyNTgzMywxMTYzNDA4
+OTk1LC04OTQ1MDIzOTEsLTU0MDA1NTcwNSwxMjM0OTA1OTMwLC
+0yMTgxNDI2NzgsMjE4OTA0MjU3LC0xNjU5MTU1NjQsLTMyMjQ2
+NzU5N119
 -->
