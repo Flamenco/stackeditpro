@@ -75,11 +75,11 @@ line 2
 
 ### Page-Title Extension
 
-We added a syntax for adding titles to your pages without needing to use a heading. This results in the having a nice page name that does not get added in your heading or table of contents. I also allows for an additional *page-title* CSS style.
+We added a syntax for adding titles to your pages without needing to use a heading. This results in the having a nice page name that does not get added in your heading or table of contents. It also allows for a separate *page-title* CSS style.
 
-Page titles add a nice look to your documents, especially when using the navigation arrows to read multiple pages.
+Page titles add a nice look to your documents, especially when using the navigation arrows to read across multiple pages.
 
-You can put a title as your first line, between `[` and `]`, followed by a blank line.
+You specify a title as your first line using text between `[` and `]`, followed by a blank line.
 ```
 [My Great Page] 
 
@@ -249,11 +249,11 @@ We removed the Gulp Prism script and replaced it with the Babel Prism Plugin.
 ## Ecosystem And Culture
 We get things done here.  Quickly and without ego.  We encourage feature and bug requests. We will not leave issues without responses for weeks, months, or years as seen in other projects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTExMDgxOTQsMTEzOTYzMDExMCwxNj
-E0NzAxMjEyLDE4MDcwMjY4MDEsMjAzOTEzMTcwMCwtMjA2Mzkx
-ODk2MiwtMTgwNjE0NjkzMCwtMjMyNzkxMTYwLDI5NzI3NTA1OC
-wxNjI5ODkzNjg0LDE4MTUyNTgzMywxMTYzNDA4OTk1LC04OTQ1
-MDIzOTEsLTU0MDA1NTcwNSwxMjM0OTA1OTMwLC0yMTgxNDI2Nz
-gsMjE4OTA0MjU3LC0xNjU5MTU1NjQsLTMyMjQ2NzU5NywtMTc3
-ODIyNjc5MV19
+eyJoaXN0b3J5IjpbMjE3NDQxOTMyLC0xMTExMTA4MTk0LDExMz
+k2MzAxMTAsMTYxNDcwMTIxMiwxODA3MDI2ODAxLDIwMzkxMzE3
+MDAsLTIwNjM5MTg5NjIsLTE4MDYxNDY5MzAsLTIzMjc5MTE2MC
+wyOTcyNzUwNTgsMTYyOTg5MzY4NCwxODE1MjU4MzMsMTE2MzQw
+ODk5NSwtODk0NTAyMzkxLC01NDAwNTU3MDUsMTIzNDkwNTkzMC
+wtMjE4MTQyNjc4LDIxODkwNDI1NywtMTY1OTE1NTY0LC0zMjI0
+Njc1OTddfQ==
 -->
