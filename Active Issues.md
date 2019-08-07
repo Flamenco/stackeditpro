@@ -15,14 +15,12 @@ The sharing server does not render mermaid, fences, or other canvas-based extens
 # Feature Requests
 * Add scrolling divs (or toolbar popup) to toolbar.  Tools are not available on a narrow device.
 * Export canvas as png.
-* Extract selection to new document.
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU5OTcwMzQ2LC0xODAwMTczMDk2LDY1NT
-g1MDUxNSwtNTMxNDAxNTgxLC0yNDU4NTkwNSwtMTMyNzMxMzEy
-MiwtMTk1NzkxODU3Nyw3ODY3MzE4ODksNzk0NTAyNTgzLDExNj
-U4MDcyMjIsMTg5MzQxOTIzOCwtMTg2ODM4OTEzNiwxNTU2NTg5
-NTQ1LDYxNjM5NDcyNCwtODk1NTYxMjgsLTE4ODcxNTY1ODAsLT
-E0MjI5NzM3MjYsMTI4MDMyODU5NSwtMTY5MjIwNTgzMywxNDAw
-Mzc4NTc1XX0=
+eyJoaXN0b3J5IjpbMTcyMzcwNDEwMSwyNTk5NzAzNDYsLTE4MD
+AxNzMwOTYsNjU1ODUwNTE1LC01MzE0MDE1ODEsLTI0NTg1OTA1
+LC0xMzI3MzEzMTIyLC0xOTU3OTE4NTc3LDc4NjczMTg4OSw3OT
+Q1MDI1ODMsMTE2NTgwNzIyMiwxODkzNDE5MjM4LC0xODY4Mzg5
+MTM2LDE1NTY1ODk1NDUsNjE2Mzk0NzI0LC04OTU1NjEyOCwtMT
+g4NzE1NjU4MCwtMTQyMjk3MzcyNiwxMjgwMzI4NTk1LC0xNjky
+MjA1ODMzXX0=
 -->
