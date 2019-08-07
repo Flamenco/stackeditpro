@@ -148,6 +148,9 @@ You can now login to StackEditPro CloudServices, even if you have not linked a w
 ## Email Documents
 You can now email document content and links.
 
+## Extract Selection To New Document
+You can now select any text in one document and then create a new sibling document from it.  This is equiviant to cut
+
 # Fixes
 ## IOS
 ### Cut, Copy, Paste, and Select - Fixed On iOS
@@ -251,11 +254,11 @@ We removed the Gulp Prism script and replaced it with the Babel Prism Plugin.
 ## Ecosystem And Culture
 We get things done here.  Quickly and without ego.  We encourage feature and bug requests. We will not leave issues without responses for weeks, months, or years as seen in other projects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI2NjQyNzAsLTExMTExMDgxOTQsMTEzOT
-YzMDExMCwxNjE0NzAxMjEyLDE4MDcwMjY4MDEsMjAzOTEzMTcw
-MCwtMjA2MzkxODk2MiwtMTgwNjE0NjkzMCwtMjMyNzkxMTYwLD
-I5NzI3NTA1OCwxNjI5ODkzNjg0LDE4MTUyNTgzMywxMTYzNDA4
-OTk1LC04OTQ1MDIzOTEsLTU0MDA1NTcwNSwxMjM0OTA1OTMwLC
-0yMTgxNDI2NzgsMjE4OTA0MjU3LC0xNjU5MTU1NjQsLTMyMjQ2
-NzU5N119
+eyJoaXN0b3J5IjpbLTI3MDczNzQxMSwtMTExMTEwODE5NCwxMT
+M5NjMwMTEwLDE2MTQ3MDEyMTIsMTgwNzAyNjgwMSwyMDM5MTMx
+NzAwLC0yMDYzOTE4OTYyLC0xODA2MTQ2OTMwLC0yMzI3OTExNj
+AsMjk3Mjc1MDU4LDE2Mjk4OTM2ODQsMTgxNTI1ODMzLDExNjM0
+MDg5OTUsLTg5NDUwMjM5MSwtNTQwMDU1NzA1LDEyMzQ5MDU5Mz
+AsLTIxODE0MjY3OCwyMTg5MDQyNTcsLTE2NTkxNTU2NCwtMzIy
+NDY3NTk3XX0=
 -->
