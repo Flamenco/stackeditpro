@@ -151,9 +151,13 @@ You can now email document content and links.  You must have a verified account 
 ## Extract Selection To New Document
 You can now select any text in one document and create a new sibling document from it.
 
-This procedure is equivalent to cutting the selected code, creating a new document, pasting the code, and renaming the new document, and adding a page link to the original document.
+This procedure is equivalent to:
+* Cutting the selected code
+* Creating a new document using the selected code's heading for a name
+* Pasting the code into the new document
+* Adding a heading and page link to the original document.
 
-> You will be presented with an *Extract Text confirmation dialog* when executing this action.
+> You will be presented with an *Extract Text confirmation dialog* when executing this action.  This dialog allows you
 
 # Fixes
 ## IOS
@@ -258,11 +262,11 @@ We removed the Gulp Prism script and replaced it with the Babel Prism Plugin.
 ## Ecosystem And Culture
 We get things done here.  Quickly and without ego.  We encourage feature and bug requests. We will not leave issues without responses for weeks, months, or years as seen in other projects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNTE1NTI1MCwxMjI2Mjc5NzA3LDU1Mz
-g1NTg0MCw1OTcxOTc2OTYsLTExMTExMDgxOTQsMTEzOTYzMDEx
-MCwxNjE0NzAxMjEyLDE4MDcwMjY4MDEsMjAzOTEzMTcwMCwtMj
-A2MzkxODk2MiwtMTgwNjE0NjkzMCwtMjMyNzkxMTYwLDI5NzI3
-NTA1OCwxNjI5ODkzNjg0LDE4MTUyNTgzMywxMTYzNDA4OTk1LC
-04OTQ1MDIzOTEsLTU0MDA1NTcwNSwxMjM0OTA1OTMwLC0yMTgx
-NDI2NzhdfQ==
+eyJoaXN0b3J5IjpbODExNDYyOTc1LDEyMjUxNTUyNTAsMTIyNj
+I3OTcwNyw1NTM4NTU4NDAsNTk3MTk3Njk2LC0xMTExMTA4MTk0
+LDExMzk2MzAxMTAsMTYxNDcwMTIxMiwxODA3MDI2ODAxLDIwMz
+kxMzE3MDAsLTIwNjM5MTg5NjIsLTE4MDYxNDY5MzAsLTIzMjc5
+MTE2MCwyOTcyNzUwNTgsMTYyOTg5MzY4NCwxODE1MjU4MzMsMT
+E2MzQwODk5NSwtODk0NTAyMzkxLC01NDAwNTU3MDUsMTIzNDkw
+NTkzMF19
 -->
