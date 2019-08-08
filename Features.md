@@ -146,7 +146,7 @@ We added a section to the *More Sidebar* that displays workspace information, in
 You can now login to StackEditPro CloudServices, even if you have not linked a workspace.
 
 ## Email Documents
-You can now email document content and links.
+You can now email document content and links.  You must have a verified account email address to access this feature.
 
 ## Extract Selection To New Document
 You can now select any text in one document and create a new sibling document from it.
@@ -258,11 +258,11 @@ We removed the Gulp Prism script and replaced it with the Babel Prism Plugin.
 ## Ecosystem And Culture
 We get things done here.  Quickly and without ego.  We encourage feature and bug requests. We will not leave issues without responses for weeks, months, or years as seen in other projects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNjI3OTcwNyw1NTM4NTU4NDAsNTk3MT
-k3Njk2LC0xMTExMTA4MTk0LDExMzk2MzAxMTAsMTYxNDcwMTIx
-MiwxODA3MDI2ODAxLDIwMzkxMzE3MDAsLTIwNjM5MTg5NjIsLT
-E4MDYxNDY5MzAsLTIzMjc5MTE2MCwyOTcyNzUwNTgsMTYyOTg5
-MzY4NCwxODE1MjU4MzMsMTE2MzQwODk5NSwtODk0NTAyMzkxLC
-01NDAwNTU3MDUsMTIzNDkwNTkzMCwtMjE4MTQyNjc4LDIxODkw
-NDI1N119
+eyJoaXN0b3J5IjpbMTIyNTE1NTI1MCwxMjI2Mjc5NzA3LDU1Mz
+g1NTg0MCw1OTcxOTc2OTYsLTExMTExMDgxOTQsMTEzOTYzMDEx
+MCwxNjE0NzAxMjEyLDE4MDcwMjY4MDEsMjAzOTEzMTcwMCwtMj
+A2MzkxODk2MiwtMTgwNjE0NjkzMCwtMjMyNzkxMTYwLDI5NzI3
+NTA1OCwxNjI5ODkzNjg0LDE4MTUyNTgzMywxMTYzNDA4OTk1LC
+04OTQ1MDIzOTEsLTU0MDA1NTcwNSwxMjM0OTA1OTMwLC0yMTgx
+NDI2NzhdfQ==
 -->
