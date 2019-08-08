@@ -216,57 +216,17 @@ It's all free now.  Well, almost free.  After our beta period we will be chargin
 ## Landing Page Removed
 The default landing page now takes you right into the editor.  No more shameless self promotion.  We would rather make our app more useful for existing users, versus trying to ring in new users.
 
+
 # Internal Changes
 
-## All Software Updated To Latest Versions
-Node on the backend now uses `NodeJS 12`.
-All `npm` packages are now current, too.
-* Babel was upgraded from 6.x to 7.x
-* Mermaid now uses 8.1.0.
+See [Internal Changes](Internal%20Changes.md).
 
-## Typescript Support
-We have started converting the entire application to Typescript.
-
-## Refactored Backend
-All server-based services that operate on documents have been moved to a separate backend service.  For development, this facilitates a better developer workflow.  For deployment, it offers higher availability and improved scaling.
-
-### Removed AWS And Added MongoDB
-The backend code that managed user data was changed from Amazon to a self hosted MongoDB instance.
-
-## Refactored Front End
-Removing the backend services made the front-end Docker image 4GB smaller.
-
-## Reworked Modal Dialogs
-Modal Dialogs look and behave better.  They now will always scroll to top when opened.  The close buttons no longer scroll out of view.
-
-We also added the ability to specify buttons when invoking a dialog.
-
-## Jentify Integration
-We have added the **Jentify Runtime Overlay** to help manage the growing complexity of the application model and UI.  This separates the actions from the UI, unifies dialogs, and provides a CLI.
-
-## Jentify Security Integration
-We added the Jentify Security Module to manage logins, authentication, and authorization.
-
-## StackEdit 4 Support Removed
-We no longer support StackEdit 4 and the overhead that accompanied it. 
-
-## Recently Modified
-There is was no *last-modified* data associated with files, so we could not sort and filter by that field.  We added a synced data object that now contains when, by whom, the device, and geo-location the modification was made.
-
-## StackEditPro User ID
-We added the ability to link multiple workspaces to a single user ID.
-
-## Babel Prism Plugin
-We removed the Gulp Prism script and replaced it with the Babel Prism Plugin.
-
-## Ecosystem And Culture
-We get things done here.  Quickly and without ego.  We encourage feature and bug requests. We will not leave issues without responses for weeks, months, or years as seen in other projects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwODQ5OTkwOSwxMjI1MTU1MjUwLDEyMj
-YyNzk3MDcsNTUzODU1ODQwLDU5NzE5NzY5NiwtMTExMTEwODE5
-NCwxMTM5NjMwMTEwLDE2MTQ3MDEyMTIsMTgwNzAyNjgwMSwyMD
-M5MTMxNzAwLC0yMDYzOTE4OTYyLC0xODA2MTQ2OTMwLC0yMzI3
-OTExNjAsMjk3Mjc1MDU4LDE2Mjk4OTM2ODQsMTgxNTI1ODMzLD
-ExNjM0MDg5OTUsLTg5NDUwMjM5MSwtNTQwMDU1NzA1LDEyMzQ5
-MDU5MzBdfQ==
+eyJoaXN0b3J5IjpbLTcxNjY5NDIxLDIwMDg0OTk5MDksMTIyNT
+E1NTI1MCwxMjI2Mjc5NzA3LDU1Mzg1NTg0MCw1OTcxOTc2OTYs
+LTExMTExMDgxOTQsMTEzOTYzMDExMCwxNjE0NzAxMjEyLDE4MD
+cwMjY4MDEsMjAzOTEzMTcwMCwtMjA2MzkxODk2MiwtMTgwNjE0
+NjkzMCwtMjMyNzkxMTYwLDI5NzI3NTA1OCwxNjI5ODkzNjg0LD
+E4MTUyNTgzMywxMTYzNDA4OTk1LC04OTQ1MDIzOTEsLTU0MDA1
+NTcwNV19
 -->
