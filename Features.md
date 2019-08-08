@@ -149,11 +149,11 @@ You can now login to StackEditPro CloudServices, even if you have not linked a w
 You can now email document content and links.
 
 ## Extract Selection To New Document
-You can now select any text in one document and then create a new sibling document from it.
+You can now select any text in one document and create a new sibling document from it.
 
-This procedure is equivalent to cutting the selected code, creating a new document, pasting the code, and then renaming the new document.
+This procedure is equivalent to cutting the selected code, creating a new document, pasting the code, and renaming the new document, and adding a page link to the original document.
 
-You will be presented with a *page-name confirmation dialog* when executing this action.
+> You will be presented with an *Extract Text confirmation dialog* when executing this action.
 
 # Fixes
 ## IOS
@@ -258,11 +258,11 @@ We removed the Gulp Prism script and replaced it with the Babel Prism Plugin.
 ## Ecosystem And Culture
 We get things done here.  Quickly and without ego.  We encourage feature and bug requests. We will not leave issues without responses for weeks, months, or years as seen in other projects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUzODU1ODQwLDU5NzE5NzY5NiwtMTExMT
-EwODE5NCwxMTM5NjMwMTEwLDE2MTQ3MDEyMTIsMTgwNzAyNjgw
-MSwyMDM5MTMxNzAwLC0yMDYzOTE4OTYyLC0xODA2MTQ2OTMwLC
-0yMzI3OTExNjAsMjk3Mjc1MDU4LDE2Mjk4OTM2ODQsMTgxNTI1
-ODMzLDExNjM0MDg5OTUsLTg5NDUwMjM5MSwtNTQwMDU1NzA1LD
-EyMzQ5MDU5MzAsLTIxODE0MjY3OCwyMTg5MDQyNTcsLTE2NTkx
-NTU2NF19
+eyJoaXN0b3J5IjpbMTIyNjI3OTcwNyw1NTM4NTU4NDAsNTk3MT
+k3Njk2LC0xMTExMTA4MTk0LDExMzk2MzAxMTAsMTYxNDcwMTIx
+MiwxODA3MDI2ODAxLDIwMzkxMzE3MDAsLTIwNjM5MTg5NjIsLT
+E4MDYxNDY5MzAsLTIzMjc5MTE2MCwyOTcyNzUwNTgsMTYyOTg5
+MzY4NCwxODE1MjU4MzMsMTE2MzQwODk5NSwtODk0NTAyMzkxLC
+01NDAwNTU3MDUsMTIzNDkwNTkzMCwtMjE4MTQyNjc4LDIxODkw
+NDI1N119
 -->
