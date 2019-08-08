@@ -157,7 +157,7 @@ This procedure is equivalent to:
 * Pasting the code into the new document
 * Adding a heading and page link to the original document.
 
-> You will be presented with an *Extract Text confirmation dialog* when executing this action.  This dialog allows you
+> You will be presented with an *Extract Text confirmation dialog* when executing this action.  This dialog allows you to specify the new name if different than the first heading of the selection.
 
 # Fixes
 ## IOS
@@ -262,11 +262,11 @@ We removed the Gulp Prism script and replaced it with the Babel Prism Plugin.
 ## Ecosystem And Culture
 We get things done here.  Quickly and without ego.  We encourage feature and bug requests. We will not leave issues without responses for weeks, months, or years as seen in other projects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODExNDYyOTc1LDEyMjUxNTUyNTAsMTIyNj
-I3OTcwNyw1NTM4NTU4NDAsNTk3MTk3Njk2LC0xMTExMTA4MTk0
-LDExMzk2MzAxMTAsMTYxNDcwMTIxMiwxODA3MDI2ODAxLDIwMz
-kxMzE3MDAsLTIwNjM5MTg5NjIsLTE4MDYxNDY5MzAsLTIzMjc5
-MTE2MCwyOTcyNzUwNTgsMTYyOTg5MzY4NCwxODE1MjU4MzMsMT
-E2MzQwODk5NSwtODk0NTAyMzkxLC01NDAwNTU3MDUsMTIzNDkw
-NTkzMF19
+eyJoaXN0b3J5IjpbMjAwODQ5OTkwOSwxMjI1MTU1MjUwLDEyMj
+YyNzk3MDcsNTUzODU1ODQwLDU5NzE5NzY5NiwtMTExMTEwODE5
+NCwxMTM5NjMwMTEwLDE2MTQ3MDEyMTIsMTgwNzAyNjgwMSwyMD
+M5MTMxNzAwLC0yMDYzOTE4OTYyLC0xODA2MTQ2OTMwLC0yMzI3
+OTExNjAsMjk3Mjc1MDU4LDE2Mjk4OTM2ODQsMTgxNTI1ODMzLD
+ExNjM0MDg5OTUsLTg5NDUwMjM5MSwtNTQwMDU1NzA1LDEyMzQ5
+MDU5MzBdfQ==
 -->
