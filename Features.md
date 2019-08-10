@@ -148,7 +148,7 @@ You can now login to StackEditPro CloudServices, even if you have not linked a w
 ## Email Documents
 You can now email document content and links.  You must have a verified account email address to access this feature.
 
-# Document Refactoring
+## Document Refactoring
 ### Extract Selection To New Document
 You can now select any text in one document and create a new sibling document from it.
 
@@ -223,11 +223,11 @@ The default landing page now takes you right into the editor.  No more shameless
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzQyNjA3NjQsLTcxNjY5NDIxLDIwMD
-g0OTk5MDksMTIyNTE1NTI1MCwxMjI2Mjc5NzA3LDU1Mzg1NTg0
-MCw1OTcxOTc2OTYsLTExMTExMDgxOTQsMTEzOTYzMDExMCwxNj
-E0NzAxMjEyLDE4MDcwMjY4MDEsMjAzOTEzMTcwMCwtMjA2Mzkx
-ODk2MiwtMTgwNjE0NjkzMCwtMjMyNzkxMTYwLDI5NzI3NTA1OC
-wxNjI5ODkzNjg0LDE4MTUyNTgzMywxMTYzNDA4OTk1LC04OTQ1
-MDIzOTFdfQ==
+eyJoaXN0b3J5IjpbLTkwMjY2NTQ3NSwtMTk3NDI2MDc2NCwtNz
+E2Njk0MjEsMjAwODQ5OTkwOSwxMjI1MTU1MjUwLDEyMjYyNzk3
+MDcsNTUzODU1ODQwLDU5NzE5NzY5NiwtMTExMTEwODE5NCwxMT
+M5NjMwMTEwLDE2MTQ3MDEyMTIsMTgwNzAyNjgwMSwyMDM5MTMx
+NzAwLC0yMDYzOTE4OTYyLC0xODA2MTQ2OTMwLC0yMzI3OTExNj
+AsMjk3Mjc1MDU4LDE2Mjk4OTM2ODQsMTgxNTI1ODMzLDExNjM0
+MDg5OTVdfQ==
 -->
