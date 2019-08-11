@@ -75,7 +75,7 @@ line 2
 
 ### Page-Title Extension
 
-We added a syntax for adding titles to your pages without needing to use a heading. This results in the having a nice page name that does not get added in your heading or table of contents. It also allows for a separate *page-title* CSS style.
+We added a syntax for adding titles to your pages without needing to use  headin Tis results in the having a nice page name that does not get added in your heading or table of contents. It also allows for a separate *page-title* CSS style.
 
 Page titles add a nice look to your documents, especially when using the navigation arrows to read across multiple pages.
 
@@ -94,7 +94,7 @@ You can also dynamically use the actual page name by declaring  `[]` as your fir
 # Part 2
 ```
 
-Finally, you can add page titles to all your pages by setting a global property under `settings`.
+Finally, you can  page titles to all your pages by setting a global property under `settings`.
 ```yml
 pro:
  pageTitle:
@@ -103,7 +103,7 @@ pro:
 
 If you do not explicitly specify a page name, and the page is README, the parent folder is added to the rendered title.
 
-### Source-Code-Documentation-Extension
+### SourceCodeDocumentationExtension
 
 Document source code outside of your codebase and render it as beautiful HTML.
 
@@ -111,7 +111,7 @@ See [Source Code Documentation Extension](Source%20Code%20Documentation%20Extens
 
 ## Folder Overview
 We now display a folder overview, shown when a folder is selected in the navigator.
-You can view the folder contents by name or accessed date.
+ou can view the folder contents by name or accessed date.
 
 If there are items in the trash folder, and the trash folder is selected, an *Empty Trash Now* button will be enabled.
 
@@ -220,14 +220,13 @@ The default landing page now takes you right into the editor.  No more shameless
 
 # Internal Changes
 
-See [Internal Changes](Internal%20Changes.md).
-
+See [Internal Changes](Internal%20Ch
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMjY2NTQ3NSwtMTk3NDI2MDc2NCwtNz
-E2Njk0MjEsMjAwODQ5OTkwOSwxMjI1MTU1MjUwLDEyMjYyNzk3
-MDcsNTUzODU1ODQwLDU5NzE5NzY5NiwtMTExMTEwODE5NCwxMT
-M5NjMwMTEwLDE2MTQ3MDEyMTIsMTgwNzAyNjgwMSwyMDM5MTMx
-NzAwLC0yMDYzOTE4OTYyLC0xODA2MTQ2OTMwLC0yMzI3OTExNj
-AsMjk3Mjc1MDU4LDE2Mjk4OTM2ODQsMTgxNTI1ODMzLDExNjM0
-MDg5OTVdfQ==
+eyJoaXN0b3J5IjpbODUwODQyMTU0LC05MDI2NjU0NzUsLTE5Nz
+QyNjA3NjQsLTcxNjY5NDIxLDIwMDg0OTk5MDksMTIyNTE1NTI1
+MCwxMjI2Mjc5NzA3LDU1Mzg1NTg0MCw1OTcxOTc2OTYsLTExMT
+ExMDgxOTQsMTEzOTYzMDExMCwxNjE0NzAxMjEyLDE4MDcwMjY4
+MDEsMjAzOTEzMTcwMCwtMjA2MzkxODk2MiwtMTgwNjE0NjkzMC
+wtMjMyNzkxMTYwLDI5NzI3NTA1OCwxNjI5ODkzNjg0LDE4MTUy
+NTgzM119
 -->
