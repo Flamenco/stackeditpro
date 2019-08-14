@@ -13,7 +13,7 @@ We have started converting the entire application to Typescript.
 All server-based services that operate on documents have been moved to a separate backend service.  For development, this facilitates a better developer workflow.  For deployment, it offers higher availability and improved scaling.
 
 ## i18n Support
-We added support for internationalization.
+We added internal support for internationalization.
 
 ### Removed AWS And Added MongoDB
 The backend code that managed user data was changed from Amazon to a self hosted MongoDB instance.
@@ -50,5 +50,6 @@ We removed the Gulp Prism script and replaced it with the Babel Prism Plugin.
 ## Ecosystem And Culture
 We get things done here.  Quickly and without ego.  We encourage feature and bug requests. We will not leave issues without responses for weeks, months, or years as seen in other projects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNzM5MTQ1Nyw3OTMxMDgzODldfQ==
+eyJoaXN0b3J5IjpbMTczMTA3NzQsLTIzNzM5MTQ1Nyw3OTMxMD
+gzODldfQ==
 -->
