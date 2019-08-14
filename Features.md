@@ -40,13 +40,6 @@ You can now add links to workspace documents and folders from other documents.  
 
 Links use the document or folder id;  Renaming or moving a document will not break the link. 
 
-## Language Support
-We have added support for setting your language.  You can access the language select under `sidebar : actions : set language`
-
-Languages are stored as a browser setting, not a workspace setting.
-
-> Not all forms and menus have been translated yet.
-
 ## Navigation
 You can now navigate your workspace by either visited history or natural document order.
 
@@ -61,6 +54,13 @@ Your current document is now stored in the URL.  You can easy create bookmarks t
 
 ## Implemented *Empty Trash*
 We fixed logic that prevented un-synced workspaces from emptying trash, and added an **Empty Now** action.  You can find this action in the _More... Menu_, and the *Folder Details View* when the `trash` folder is selected.
+
+## Language Support
+We have added support for setting your language.  You can access the language select under `sidebar : actions : set language`
+
+Languages are stored as a browser setting, not a workspace setting.
+
+> Not all forms and menus have been translated yet.
 
 ## New Markdown Extensions
 
@@ -82,7 +82,7 @@ line 2
 
 ### Page-Title Extension
 
-We added a syntax for adding titles to your pages without needing to use  headin Tis results in the having a nice page name that does not get added in your heading or table of contents. It also allows for a separate *page-title* CSS style.
+We added a syntax for adding titles to your pages without needing to use a heading. This results in the having a nice page name that does not get added in your heading or table of contents. It also allows for a separate *page-title* CSS style.
 
 Page titles add a nice look to your documents, especially when using the navigation arrows to read across multiple pages.
 
@@ -101,7 +101,7 @@ You can also dynamically use the actual page name by declaring  `[]` as your fir
 # Part 2
 ```
 
-Finally, you can  page titles to all your pages by setting a global property under `settings`.
+Finally, you can add page titles to all your pages by setting a global property under `settings`.
 ```yml
 pro:
  pageTitle:
@@ -110,7 +110,7 @@ pro:
 
 If you do not explicitly specify a page name, and the page is README, the parent folder is added to the rendered title.
 
-### SourceCodeDocumentationExtension
+### Source-Code-Documentation-Extension
 
 Document source code outside of your codebase and render it as beautiful HTML.
 
@@ -118,7 +118,7 @@ See [Source Code Documentation Extension](Source%20Code%20Documentation%20Extens
 
 ## Folder Overview
 We now display a folder overview, shown when a folder is selected in the navigator.
-ou can view the folder contents by name or accessed date.
+You can view the folder contents by name or accessed date.
 
 If there are items in the trash folder, and the trash folder is selected, an *Empty Trash Now* button will be enabled.
 
@@ -227,13 +227,14 @@ The default landing page now takes you right into the editor.  No more shameless
 
 # Internal Changes
 
-See [Internal Changes](Internal%20Ch
+See [Internal Changes](Internal%20Changes.md).
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4OTMxNjA2Nyw4NTA4NDIxNTQsLTkwMj
-Y2NTQ3NSwtMTk3NDI2MDc2NCwtNzE2Njk0MjEsMjAwODQ5OTkw
-OSwxMjI1MTU1MjUwLDEyMjYyNzk3MDcsNTUzODU1ODQwLDU5Nz
-E5NzY5NiwtMTExMTEwODE5NCwxMTM5NjMwMTEwLDE2MTQ3MDEy
-MTIsMTgwNzAyNjgwMSwyMDM5MTMxNzAwLC0yMDYzOTE4OTYyLC
-0xODA2MTQ2OTMwLC0yMzI3OTExNjAsMjk3Mjc1MDU4LDE2Mjk4
-OTM2ODRdfQ==
+eyJoaXN0b3J5IjpbLTEwOTU2MTI4NzQsMTk4OTMxNjA2Nyw4NT
+A4NDIxNTQsLTkwMjY2NTQ3NSwtMTk3NDI2MDc2NCwtNzE2Njk0
+MjEsMjAwODQ5OTkwOSwxMjI1MTU1MjUwLDEyMjYyNzk3MDcsNT
+UzODU1ODQwLDU5NzE5NzY5NiwtMTExMTEwODE5NCwxMTM5NjMw
+MTEwLDE2MTQ3MDEyMTIsMTgwNzAyNjgwMSwyMDM5MTMxNzAwLC
+0yMDYzOTE4OTYyLC0xODA2MTQ2OTMwLC0yMzI3OTExNjAsMjk3
+Mjc1MDU4XX0=
 -->
