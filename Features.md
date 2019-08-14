@@ -41,7 +41,9 @@ You can now add links to workspace documents and folders from other documents.  
 Links use the document or folder id;  Renaming or moving a document will not break the link. 
 
 ## Language Support
-We have added support for setting your language.  You can access the language select under `sidebar/actions/set language
+We have added support for setting your language.  You can access the language select under `sidebar : actions : set language`
+
+Languages are stored as a browser setting, not a workspace setting.
 
 > Not all forms and menus have been translated yet.
 
@@ -227,7 +229,7 @@ The default landing page now takes you right into the editor.  No more shameless
 
 See [Internal Changes](Internal%20Ch
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMjY3Njc4MSw4NTA4NDIxNTQsLTkwMj
+eyJoaXN0b3J5IjpbMTk4OTMxNjA2Nyw4NTA4NDIxNTQsLTkwMj
 Y2NTQ3NSwtMTk3NDI2MDc2NCwtNzE2Njk0MjEsMjAwODQ5OTkw
 OSwxMjI1MTU1MjUwLDEyMjYyNzk3MDcsNTUzODU1ODQwLDU5Nz
 E5NzY5NiwtMTExMTEwODE5NCwxMTM5NjMwMTEwLDE2MTQ3MDEy
