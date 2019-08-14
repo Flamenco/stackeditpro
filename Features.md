@@ -56,7 +56,7 @@ Your current document is now stored in the URL.  You can easy create bookmarks t
 We fixed logic that prevented un-synced workspaces from emptying trash, and added an **Empty Now** action.  You can find this action in the _More... Menu_, and the *Folder Details View* when the `trash` folder is selected.
 
 ## Language Support
-We have added support for setting your language.  You can access the language select under `sidebar : actions : set language`
+We have added support for setting a default language.  You can access the language select under the *main menu* `set language` or  `sidebar : actions : set language`
 
 Languages are stored as a browser setting, not a workspace setting.
 
@@ -230,11 +230,11 @@ The default landing page now takes you right into the editor.  No more shameless
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTU2MTI4NzQsMTk4OTMxNjA2Nyw4NT
-A4NDIxNTQsLTkwMjY2NTQ3NSwtMTk3NDI2MDc2NCwtNzE2Njk0
-MjEsMjAwODQ5OTkwOSwxMjI1MTU1MjUwLDEyMjYyNzk3MDcsNT
-UzODU1ODQwLDU5NzE5NzY5NiwtMTExMTEwODE5NCwxMTM5NjMw
-MTEwLDE2MTQ3MDEyMTIsMTgwNzAyNjgwMSwyMDM5MTMxNzAwLC
-0yMDYzOTE4OTYyLC0xODA2MTQ2OTMwLC0yMzI3OTExNjAsMjk3
-Mjc1MDU4XX0=
+eyJoaXN0b3J5IjpbLTExNDA2MDE0ODUsLTEwOTU2MTI4NzQsMT
+k4OTMxNjA2Nyw4NTA4NDIxNTQsLTkwMjY2NTQ3NSwtMTk3NDI2
+MDc2NCwtNzE2Njk0MjEsMjAwODQ5OTkwOSwxMjI1MTU1MjUwLD
+EyMjYyNzk3MDcsNTUzODU1ODQwLDU5NzE5NzY5NiwtMTExMTEw
+ODE5NCwxMTM5NjMwMTEwLDE2MTQ3MDEyMTIsMTgwNzAyNjgwMS
+wyMDM5MTMxNzAwLC0yMDYzOTE4OTYyLC0xODA2MTQ2OTMwLC0y
+MzI3OTExNjBdfQ==
 -->
