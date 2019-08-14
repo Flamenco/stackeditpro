@@ -40,6 +40,11 @@ You can now add links to workspace documents and folders from other documents.  
 
 Links use the document or folder id;  Renaming or moving a document will not break the link. 
 
+## Language Support
+We have added support for setting your language.  You can access the language select under `sidebar/actions/set language
+
+> Not all forms and menus have been translated yet.
+
 ## Navigation
 You can now navigate your workspace by either visited history or natural document order.
 
@@ -222,11 +227,11 @@ The default landing page now takes you right into the editor.  No more shameless
 
 See [Internal Changes](Internal%20Ch
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUwODQyMTU0LC05MDI2NjU0NzUsLTE5Nz
-QyNjA3NjQsLTcxNjY5NDIxLDIwMDg0OTk5MDksMTIyNTE1NTI1
-MCwxMjI2Mjc5NzA3LDU1Mzg1NTg0MCw1OTcxOTc2OTYsLTExMT
-ExMDgxOTQsMTEzOTYzMDExMCwxNjE0NzAxMjEyLDE4MDcwMjY4
-MDEsMjAzOTEzMTcwMCwtMjA2MzkxODk2MiwtMTgwNjE0NjkzMC
-wtMjMyNzkxMTYwLDI5NzI3NTA1OCwxNjI5ODkzNjg0LDE4MTUy
-NTgzM119
+eyJoaXN0b3J5IjpbMTAyMjY3Njc4MSw4NTA4NDIxNTQsLTkwMj
+Y2NTQ3NSwtMTk3NDI2MDc2NCwtNzE2Njk0MjEsMjAwODQ5OTkw
+OSwxMjI1MTU1MjUwLDEyMjYyNzk3MDcsNTUzODU1ODQwLDU5Nz
+E5NzY5NiwtMTExMTEwODE5NCwxMTM5NjMwMTEwLDE2MTQ3MDEy
+MTIsMTgwNzAyNjgwMSwyMDM5MTMxNzAwLC0yMDYzOTE4OTYyLC
+0xODA2MTQ2OTMwLC0yMzI3OTExNjAsMjk3Mjc1MDU4LDE2Mjk4
+OTM2ODRdfQ==
 -->
