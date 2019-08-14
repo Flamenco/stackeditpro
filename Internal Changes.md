@@ -12,11 +12,17 @@ We have started converting the entire application to Typescript.
 ## Refactored Backend
 All server-based services that operate on documents have been moved to a separate backend service.  For development, this facilitates a better developer workflow.  For deployment, it offers higher availability and improved scaling.
 
+## i18n Support
+We added support for internationalization.
+
 ### Removed AWS And Added MongoDB
 The backend code that managed user data was changed from Amazon to a self hosted MongoDB instance.
 
 ## Refactored Front End
 Removing the backend services made the front-end Docker image 4GB smaller.
+
+## i18n Support
+We added support for internationalization.
 
 ## Reworked Modal Dialogs
 Modal Dialogs look and behave better.  They now will always scroll to top when opened.  The close buttons no longer scroll out of view.
@@ -44,5 +50,5 @@ We removed the Gulp Prism script and replaced it with the Babel Prism Plugin.
 ## Ecosystem And Culture
 We get things done here.  Quickly and without ego.  We encourage feature and bug requests. We will not leave issues without responses for weeks, months, or years as seen in other projects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkzMTA4Mzg5XX0=
+eyJoaXN0b3J5IjpbLTIzNzM5MTQ1Nyw3OTMxMDgzODldfQ==
 -->
