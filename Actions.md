@@ -27,7 +27,7 @@ Rename a file or folder.
 ## New File
 Creates a new file in the current folder.
 ## New Sibling File
-Creates a new file next to the current file.
+Creates a new file next to the current file or folder.
 ## Insert New File After
 Creates a new file after the referenced file.  Numbering must be enabled for the folder.
 ## Download Folder (Zip File)
@@ -40,5 +40,6 @@ Email a markdown document in a variety of formats.
 Email a link to markdown document.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU5MzAzNTc1LDQ1NTk4NjU4NV19
+eyJoaXN0b3J5IjpbNDIzMDA1NzA4LDk1OTMwMzU3NSw0NTU5OD
+Y1ODVdfQ==
 -->
