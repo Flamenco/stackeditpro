@@ -7,7 +7,7 @@
 ## Unpublish Shares
 
 # Folder And File Actions
-Several folder and file actions are available from the *Folder Overview*.
+Several folder and file actions are available from the *Folder Overview* and the *Actions Menu*.
 
 ## Auto Number Files
 Add or recalculate numeric prefixes for all files in a folder.  Available on the *Folder Info* page.
@@ -26,6 +26,8 @@ Delete a file or folder.
 Rename a file or folder.
 ## New File
 Creates a new file in the current folder.
+## New Sibling File
+Creates a new file next to the current file.
 ## Insert New File After
 Creates a new file after the referenced file.  Numbering must be enabled for the folder.
 ## Download Folder (Zip File)
@@ -38,5 +40,5 @@ Email a markdown document in a variety of formats.
 Email a link to markdown document.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU1OTg2NTg1XX0=
+eyJoaXN0b3J5IjpbOTU5MzAzNTc1LDQ1NTk4NjU4NV19
 -->
