@@ -63,7 +63,11 @@ Languages are stored as a browser setting, not a workspace setting.
 > Not all forms and menus have been translated yet.
 
 ## Task And To-Do Reports
-Search your workspace for markdown task items and  `~todo~` blocks.
+Search your workspace for markdown task items `- [ ] xyx` and  `~todo~` blocks.
+
+A report with all of your uncompleted tasks and to-do items will open.
+The report lists each task along with the associated file and line number.
+You can click the filename to navigate to it.
 
 ```
 - [ ] Water Plants
@@ -72,10 +76,6 @@ Search your workspace for markdown task items and  `~todo~` blocks.
 
 ~todo Take out the trash.~
 ```
-
-A report with all of your uncompleted tasks and to-do items will open.
-The report lists each task along with the associated file and line number.
-You can click the filename to navigate to it.
 
 ## New Markdown Extensions
 
@@ -247,11 +247,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMTE2NjU0OSwtMTM4NzUyODMxMSwxMj
-Y4OTY0NDE0LDQ1MTIzMjU3MSwxNjg2NjEwMjYxLC0xMTczODcw
-MjQyLDEwNzkxMzcxMiwtODE2Mjg0ODA0LC0xMTQwNjAxNDg1LC
-0xMDk1NjEyODc0LDE5ODkzMTYwNjcsODUwODQyMTU0LC05MDI2
-NjU0NzUsLTE5NzQyNjA3NjQsLTcxNjY5NDIxLDIwMDg0OTk5MD
-ksMTIyNTE1NTI1MCwxMjI2Mjc5NzA3LDU1Mzg1NTg0MCw1OTcx
-OTc2OTZdfQ==
+eyJoaXN0b3J5IjpbMTk5NjA1MjA5OSwxNzExMTY2NTQ5LC0xMz
+g3NTI4MzExLDEyNjg5NjQ0MTQsNDUxMjMyNTcxLDE2ODY2MTAy
+NjEsLTExNzM4NzAyNDIsMTA3OTEzNzEyLC04MTYyODQ4MDQsLT
+ExNDA2MDE0ODUsLTEwOTU2MTI4NzQsMTk4OTMxNjA2Nyw4NTA4
+NDIxNTQsLTkwMjY2NTQ3NSwtMTk3NDI2MDc2NCwtNzE2Njk0Mj
+EsMjAwODQ5OTkwOSwxMjI1MTU1MjUwLDEyMjYyNzk3MDcsNTUz
+ODU1ODQwXX0=
 -->
