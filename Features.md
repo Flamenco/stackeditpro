@@ -74,7 +74,8 @@ Search your workspace for markdown task items and  `~todo~` blocks.
 ```
 
 A report with all of your uncompleted tasks and to-do items will open.
-You can click a link to open the document that contains the item.
+The report lists each task along with the associated file and line number.
+You can click the filename to navigate to it.
 
 ## New Markdown Extensions
 
@@ -246,11 +247,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODc1MjgzMTEsMTI2ODk2NDQxNCw0NT
-EyMzI1NzEsMTY4NjYxMDI2MSwtMTE3Mzg3MDI0MiwxMDc5MTM3
-MTIsLTgxNjI4NDgwNCwtMTE0MDYwMTQ4NSwtMTA5NTYxMjg3NC
-wxOTg5MzE2MDY3LDg1MDg0MjE1NCwtOTAyNjY1NDc1LC0xOTc0
-MjYwNzY0LC03MTY2OTQyMSwyMDA4NDk5OTA5LDEyMjUxNTUyNT
-AsMTIyNjI3OTcwNyw1NTM4NTU4NDAsNTk3MTk3Njk2LC0xMTEx
-MTA4MTk0XX0=
+eyJoaXN0b3J5IjpbMTcxMTE2NjU0OSwtMTM4NzUyODMxMSwxMj
+Y4OTY0NDE0LDQ1MTIzMjU3MSwxNjg2NjEwMjYxLC0xMTczODcw
+MjQyLDEwNzkxMzcxMiwtODE2Mjg0ODA0LC0xMTQwNjAxNDg1LC
+0xMDk1NjEyODc0LDE5ODkzMTYwNjcsODUwODQyMTU0LC05MDI2
+NjU0NzUsLTE5NzQyNjA3NjQsLTcxNjY5NDIxLDIwMDg0OTk5MD
+ksMTIyNTE1NTI1MCwxMjI2Mjc5NzA3LDU1Mzg1NTg0MCw1OTcx
+OTc2OTZdfQ==
 -->
