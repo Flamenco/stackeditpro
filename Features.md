@@ -73,7 +73,7 @@ Search your workspace for markdown task items and  `~todo~` blocks.
 ~todo Take out the trash.~
 ```
 
-A report with all of your uncompleted tasks and todo items will open.
+A report with all of your uncompleted tasks and to-do items will open.
 You can click a link to open the document that contains the item.
 
 ## New Markdown Extensions
@@ -244,11 +244,11 @@ The default landing page now takes you right into the editor.  No more shameless
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUxMjMyNTcxLDE2ODY2MTAyNjEsLTExNz
-M4NzAyNDIsMTA3OTEzNzEyLC04MTYyODQ4MDQsLTExNDA2MDE0
-ODUsLTEwOTU2MTI4NzQsMTk4OTMxNjA2Nyw4NTA4NDIxNTQsLT
-kwMjY2NTQ3NSwtMTk3NDI2MDc2NCwtNzE2Njk0MjEsMjAwODQ5
-OTkwOSwxMjI1MTU1MjUwLDEyMjYyNzk3MDcsNTUzODU1ODQwLD
-U5NzE5NzY5NiwtMTExMTEwODE5NCwxMTM5NjMwMTEwLDE2MTQ3
-MDEyMTJdfQ==
+eyJoaXN0b3J5IjpbMTI2ODk2NDQxNCw0NTEyMzI1NzEsMTY4Nj
+YxMDI2MSwtMTE3Mzg3MDI0MiwxMDc5MTM3MTIsLTgxNjI4NDgw
+NCwtMTE0MDYwMTQ4NSwtMTA5NTYxMjg3NCwxOTg5MzE2MDY3LD
+g1MDg0MjE1NCwtOTAyNjY1NDc1LC0xOTc0MjYwNzY0LC03MTY2
+OTQyMSwyMDA4NDk5OTA5LDEyMjUxNTUyNTAsMTIyNjI3OTcwNy
+w1NTM4NTU4NDAsNTk3MTk3Njk2LC0xMTExMTA4MTk0LDExMzk2
+MzAxMTBdfQ==
 -->
