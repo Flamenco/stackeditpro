@@ -45,11 +45,11 @@ There is was no *last-modified* data associated with files, so we could not sort
 We added the ability to link multiple workspaces to a single user ID.
 
 ## Babel Prism Plugin
-We removed the Gulp Prism script and replaced it with the Babel Prism Plugin.
+We removed the Gulp Prism script and replaced it with the Babel Prism Plugin.  We updated the default languages to include *Go* and *Typescript*.
 
 ## Ecosystem And Culture
 We get things done here.  Quickly and without ego.  We encourage feature and bug requests. We will not leave issues without responses for weeks, months, or years as seen in other projects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMTA3NzQsLTIzNzM5MTQ1Nyw3OTMxMD
-gzODldfQ==
+eyJoaXN0b3J5IjpbLTEzNDQwMjM4MzksMTczMTA3NzQsLTIzNz
+M5MTQ1Nyw3OTMxMDgzODldfQ==
 -->
