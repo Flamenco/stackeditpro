@@ -62,6 +62,9 @@ Languages are stored as a browser setting, not a workspace setting.
 
 > Not all forms and menus have been translated yet.
 
+## TODO search
+Search your workspace for `~todo~` markers.
+
 ## New Markdown Extensions
 
 ### Copy-Code-Fence-To-Clipboard Extension
@@ -230,11 +233,11 @@ The default landing page now takes you right into the editor.  No more shameless
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNjI4NDgwNCwtMTE0MDYwMTQ4NSwtMT
-A5NTYxMjg3NCwxOTg5MzE2MDY3LDg1MDg0MjE1NCwtOTAyNjY1
-NDc1LC0xOTc0MjYwNzY0LC03MTY2OTQyMSwyMDA4NDk5OTA5LD
-EyMjUxNTUyNTAsMTIyNjI3OTcwNyw1NTM4NTU4NDAsNTk3MTk3
-Njk2LC0xMTExMTA4MTk0LDExMzk2MzAxMTAsMTYxNDcwMTIxMi
-wxODA3MDI2ODAxLDIwMzkxMzE3MDAsLTIwNjM5MTg5NjIsLTE4
-MDYxNDY5MzBdfQ==
+eyJoaXN0b3J5IjpbMTA3OTEzNzEyLC04MTYyODQ4MDQsLTExND
+A2MDE0ODUsLTEwOTU2MTI4NzQsMTk4OTMxNjA2Nyw4NTA4NDIx
+NTQsLTkwMjY2NTQ3NSwtMTk3NDI2MDc2NCwtNzE2Njk0MjEsMj
+AwODQ5OTkwOSwxMjI1MTU1MjUwLDEyMjYyNzk3MDcsNTUzODU1
+ODQwLDU5NzE5NzY5NiwtMTExMTEwODE5NCwxMTM5NjMwMTEwLD
+E2MTQ3MDEyMTIsMTgwNzAyNjgwMSwyMDM5MTMxNzAwLC0yMDYz
+OTE4OTYyXX0=
 -->
