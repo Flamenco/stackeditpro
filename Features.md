@@ -238,17 +238,19 @@ It's all free now.  Well, almost free.  After our beta period we will be chargin
 ## Landing Page Removed
 The default landing page now takes you right into the editor.  No more shameless self promotion.  We would rather make our app more useful for existing users, versus trying to ring in new users.
 
+## CSS Cleanup
+We cleaned up the standard CSS for headings and such.  This affects user interface and document rendering.
 
 # Internal Changes
 
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2ODk2NDQxNCw0NTEyMzI1NzEsMTY4Nj
-YxMDI2MSwtMTE3Mzg3MDI0MiwxMDc5MTM3MTIsLTgxNjI4NDgw
-NCwtMTE0MDYwMTQ4NSwtMTA5NTYxMjg3NCwxOTg5MzE2MDY3LD
-g1MDg0MjE1NCwtOTAyNjY1NDc1LC0xOTc0MjYwNzY0LC03MTY2
-OTQyMSwyMDA4NDk5OTA5LDEyMjUxNTUyNTAsMTIyNjI3OTcwNy
-w1NTM4NTU4NDAsNTk3MTk3Njk2LC0xMTExMTA4MTk0LDExMzk2
-MzAxMTBdfQ==
+eyJoaXN0b3J5IjpbLTEzODc1MjgzMTEsMTI2ODk2NDQxNCw0NT
+EyMzI1NzEsMTY4NjYxMDI2MSwtMTE3Mzg3MDI0MiwxMDc5MTM3
+MTIsLTgxNjI4NDgwNCwtMTE0MDYwMTQ4NSwtMTA5NTYxMjg3NC
+wxOTg5MzE2MDY3LDg1MDg0MjE1NCwtOTAyNjY1NDc1LC0xOTc0
+MjYwNzY0LC03MTY2OTQyMSwyMDA4NDk5OTA5LDEyMjUxNTUyNT
+AsMTIyNjI3OTcwNyw1NTM4NTU4NDAsNTk3MTk3Njk2LC0xMTEx
+MTA4MTk0XX0=
 -->
