@@ -70,6 +70,7 @@ The report lists each task along with the associated file and line number.
 You can click the filename to navigate to it.
 
 ```
+[Task Syntax Examples]
 - [ ] Water Plants
 - [ ] Feed Dogs
 - [x] Walk Dogs
@@ -247,11 +248,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NjA1MjA5OSwxNzExMTY2NTQ5LC0xMz
-g3NTI4MzExLDEyNjg5NjQ0MTQsNDUxMjMyNTcxLDE2ODY2MTAy
-NjEsLTExNzM4NzAyNDIsMTA3OTEzNzEyLC04MTYyODQ4MDQsLT
-ExNDA2MDE0ODUsLTEwOTU2MTI4NzQsMTk4OTMxNjA2Nyw4NTA4
-NDIxNTQsLTkwMjY2NTQ3NSwtMTk3NDI2MDc2NCwtNzE2Njk0Mj
-EsMjAwODQ5OTkwOSwxMjI1MTU1MjUwLDEyMjYyNzk3MDcsNTUz
-ODU1ODQwXX0=
+eyJoaXN0b3J5IjpbLTEzNzMyNTg5NCwxOTk2MDUyMDk5LDE3MT
+ExNjY1NDksLTEzODc1MjgzMTEsMTI2ODk2NDQxNCw0NTEyMzI1
+NzEsMTY4NjYxMDI2MSwtMTE3Mzg3MDI0MiwxMDc5MTM3MTIsLT
+gxNjI4NDgwNCwtMTE0MDYwMTQ4NSwtMTA5NTYxMjg3NCwxOTg5
+MzE2MDY3LDg1MDg0MjE1NCwtOTAyNjY1NDc1LC0xOTc0MjYwNz
+Y0LC03MTY2OTQyMSwyMDA4NDk5OTA5LDEyMjUxNTUyNTAsMTIy
+NjI3OTcwN119
 -->
