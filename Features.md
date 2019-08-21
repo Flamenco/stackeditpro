@@ -68,6 +68,7 @@ Search your workspace for markdown task items and  `~todo~` blocks.
 ```
 - [ ] Water Plants
 - [ ] Feed Dogs
+- [x] Walk Dogs
 
 ~todo Take out the trash.~
 ```
@@ -243,11 +244,11 @@ The default landing page now takes you right into the editor.  No more shameless
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzM4NzAyNDIsMTA3OTEzNzEyLC04MT
-YyODQ4MDQsLTExNDA2MDE0ODUsLTEwOTU2MTI4NzQsMTk4OTMx
-NjA2Nyw4NTA4NDIxNTQsLTkwMjY2NTQ3NSwtMTk3NDI2MDc2NC
-wtNzE2Njk0MjEsMjAwODQ5OTkwOSwxMjI1MTU1MjUwLDEyMjYy
-Nzk3MDcsNTUzODU1ODQwLDU5NzE5NzY5NiwtMTExMTEwODE5NC
-wxMTM5NjMwMTEwLDE2MTQ3MDEyMTIsMTgwNzAyNjgwMSwyMDM5
-MTMxNzAwXX0=
+eyJoaXN0b3J5IjpbMTY4NjYxMDI2MSwtMTE3Mzg3MDI0MiwxMD
+c5MTM3MTIsLTgxNjI4NDgwNCwtMTE0MDYwMTQ4NSwtMTA5NTYx
+Mjg3NCwxOTg5MzE2MDY3LDg1MDg0MjE1NCwtOTAyNjY1NDc1LC
+0xOTc0MjYwNzY0LC03MTY2OTQyMSwyMDA4NDk5OTA5LDEyMjUx
+NTUyNTAsMTIyNjI3OTcwNyw1NTM4NTU4NDAsNTk3MTk3Njk2LC
+0xMTExMTA4MTk0LDExMzk2MzAxMTAsMTYxNDcwMTIxMiwxODA3
+MDI2ODAxXX0=
 -->
