@@ -62,7 +62,7 @@ Languages are stored as a browser setting, not a workspace setting.
 
 > Not all forms and menus have been translated yet.
 
-## Task And TODO search
+## Task And To-Do Reports
 Search your workspace for markdown task items and  `~todo~` blocks.
 
 ```
@@ -244,11 +244,11 @@ The default landing page now takes you right into the editor.  No more shameless
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NjYxMDI2MSwtMTE3Mzg3MDI0MiwxMD
-c5MTM3MTIsLTgxNjI4NDgwNCwtMTE0MDYwMTQ4NSwtMTA5NTYx
-Mjg3NCwxOTg5MzE2MDY3LDg1MDg0MjE1NCwtOTAyNjY1NDc1LC
-0xOTc0MjYwNzY0LC03MTY2OTQyMSwyMDA4NDk5OTA5LDEyMjUx
-NTUyNTAsMTIyNjI3OTcwNyw1NTM4NTU4NDAsNTk3MTk3Njk2LC
-0xMTExMTA4MTk0LDExMzk2MzAxMTAsMTYxNDcwMTIxMiwxODA3
-MDI2ODAxXX0=
+eyJoaXN0b3J5IjpbNDUxMjMyNTcxLDE2ODY2MTAyNjEsLTExNz
+M4NzAyNDIsMTA3OTEzNzEyLC04MTYyODQ4MDQsLTExNDA2MDE0
+ODUsLTEwOTU2MTI4NzQsMTk4OTMxNjA2Nyw4NTA4NDIxNTQsLT
+kwMjY2NTQ3NSwtMTk3NDI2MDc2NCwtNzE2Njk0MjEsMjAwODQ5
+OTkwOSwxMjI1MTU1MjUwLDEyMjYyNzk3MDcsNTUzODU1ODQwLD
+U5NzE5NzY5NiwtMTExMTEwODE5NCwxMTM5NjMwMTEwLDE2MTQ3
+MDEyMTJdfQ==
 -->
