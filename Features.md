@@ -135,8 +135,7 @@ See [Source Code Documentation Extension](Source%20Code%20Documentation%20Extens
 ### Frontmatter Extension
 Format and edit frontmatter.
 
-Frontmatter a YAML markdown header between `---` and `---<newline`.  It is used to configure the following markdown document.
-
+Frontmatter a  Markdown header written in YAML, and contained between `<start-of-file>---` and `<start-of-line>---<empty-line>`.  It is used to configure the  Markdown document.
 
 ## Folder Overview
 We now display a folder overview, shown when a folder is selected in the navigator.
@@ -254,7 +253,7 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MzMxNjQyNiwtMTM3MzI1ODk0LDE5OT
+eyJoaXN0b3J5IjpbMTAyNTM2ODUyOSwtMTM3MzI1ODk0LDE5OT
 YwNTIwOTksMTcxMTE2NjU0OSwtMTM4NzUyODMxMSwxMjY4OTY0
 NDE0LDQ1MTIzMjU3MSwxNjg2NjEwMjYxLC0xMTczODcwMjQyLD
 EwNzkxMzcxMiwtODE2Mjg0ODA0LC0xMTQwNjAxNDg1LC0xMDk1
