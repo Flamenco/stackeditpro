@@ -132,6 +132,12 @@ Document source code outside of your codebase and render it as beautiful HTML.
 
 See [Source Code Documentation Extension](Source%20Code%20Documentation%20Extension.md).
 
+### Frontmatter Extension
+Format and edit frontmatter.
+
+Frontmatter a YAML markdown header between `---` and `---<newline`.  It is used to configure the following markdown document.
+
+
 ## Folder Overview
 We now display a folder overview, shown when a folder is selected in the navigator.
 You can view the folder contents by name or accessed date.
@@ -248,11 +254,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzMyNTg5NCwxOTk2MDUyMDk5LDE3MT
-ExNjY1NDksLTEzODc1MjgzMTEsMTI2ODk2NDQxNCw0NTEyMzI1
-NzEsMTY4NjYxMDI2MSwtMTE3Mzg3MDI0MiwxMDc5MTM3MTIsLT
-gxNjI4NDgwNCwtMTE0MDYwMTQ4NSwtMTA5NTYxMjg3NCwxOTg5
-MzE2MDY3LDg1MDg0MjE1NCwtOTAyNjY1NDc1LC0xOTc0MjYwNz
-Y0LC03MTY2OTQyMSwyMDA4NDk5OTA5LDEyMjUxNTUyNTAsMTIy
-NjI3OTcwN119
+eyJoaXN0b3J5IjpbMTU0MzMxNjQyNiwtMTM3MzI1ODk0LDE5OT
+YwNTIwOTksMTcxMTE2NjU0OSwtMTM4NzUyODMxMSwxMjY4OTY0
+NDE0LDQ1MTIzMjU3MSwxNjg2NjEwMjYxLC0xMTczODcwMjQyLD
+EwNzkxMzcxMiwtODE2Mjg0ODA0LC0xMTQwNjAxNDg1LC0xMDk1
+NjEyODc0LDE5ODkzMTYwNjcsODUwODQyMTU0LC05MDI2NjU0Nz
+UsLTE5NzQyNjA3NjQsLTcxNjY5NDIxLDIwMDg0OTk5MDksMTIy
+NTE1NTI1MF19
 -->
