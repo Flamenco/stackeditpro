@@ -172,7 +172,8 @@ Columns are sortable by *name* or *last modified*.
 Each item has a list of actions that can be performed.  You can hide or filter actions using the filters located at the top of the overview.
 
 ## Actions Menu
-We added an *Actions Menu* to the *Main Menu*. 
+We added an *Actions Menu* to the *Main Menu*.
+The is also a shortcut on the *Navigation Bar*.
 The actions menu lists all global and select item actions.
 The folder actions list can be filtered by action name.
 
@@ -279,11 +280,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTA3MDc1MSwtOTcwMTgyMzg0LC0xMj
-M5NzY4MzQ3LDYzMzE2MzUzMiwyNzAxNjczODcsLTE2NDM4OTg5
-NzcsLTE5MDcyOTM3NDcsMjAwODY0MDM1NCwtODY3OTE5MzcwLD
-E3NDE1MDY1MjMsMjA3ODU2NTcwNiwtMTAzNDQ3NTYyOSwxMDI1
-MzY4NTI5LC0xMzczMjU4OTQsMTk5NjA1MjA5OSwxNzExMTY2NT
-Q5LC0xMzg3NTI4MzExLDEyNjg5NjQ0MTQsNDUxMjMyNTcxLDE2
-ODY2MTAyNjFdfQ==
+eyJoaXN0b3J5IjpbLTcyMzg2Njc4NywtMTQ1MDcwNzUxLC05Nz
+AxODIzODQsLTEyMzk3NjgzNDcsNjMzMTYzNTMyLDI3MDE2NzM4
+NywtMTY0Mzg5ODk3NywtMTkwNzI5Mzc0NywyMDA4NjQwMzU0LC
+04Njc5MTkzNzAsMTc0MTUwNjUyMywyMDc4NTY1NzA2LC0xMDM0
+NDc1NjI5LDEwMjUzNjg1MjksLTEzNzMyNTg5NCwxOTk2MDUyMD
+k5LDE3MTExNjY1NDksLTEzODc1MjgzMTEsMTI2ODk2NDQxNCw0
+NTEyMzI1NzFdfQ==
 -->
