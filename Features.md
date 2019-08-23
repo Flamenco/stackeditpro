@@ -162,6 +162,10 @@ folder: The path to your workspace folder.
 ```
 
 You will need to install and configure the *StackEditPro Connector* on your Grav site.
+* Install CORS plugin
+	* Enable `GET` and POST
+* Install the `StackEditPro Connector Plugin`.
+* Add `header("Access-Control-Allow-Headers: *");` to `index.php`.
 
 ## Folder Overview
 We now display a folder overview, shown when a folder is selected in the navigator.
@@ -282,11 +286,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyOTg2MDg2MSwtNzIzODY2Nzg3LC0xND
-UwNzA3NTEsLTk3MDE4MjM4NCwtMTIzOTc2ODM0Nyw2MzMxNjM1
-MzIsMjcwMTY3Mzg3LC0xNjQzODk4OTc3LC0xOTA3MjkzNzQ3LD
-IwMDg2NDAzNTQsLTg2NzkxOTM3MCwxNzQxNTA2NTIzLDIwNzg1
-NjU3MDYsLTEwMzQ0NzU2MjksMTAyNTM2ODUyOSwtMTM3MzI1OD
-k0LDE5OTYwNTIwOTksMTcxMTE2NjU0OSwtMTM4NzUyODMxMSwx
-MjY4OTY0NDE0XX0=
+eyJoaXN0b3J5IjpbMTQyOTI1ODU2MSwyMDI5ODYwODYxLC03Mj
+M4NjY3ODcsLTE0NTA3MDc1MSwtOTcwMTgyMzg0LC0xMjM5NzY4
+MzQ3LDYzMzE2MzUzMiwyNzAxNjczODcsLTE2NDM4OTg5NzcsLT
+E5MDcyOTM3NDcsMjAwODY0MDM1NCwtODY3OTE5MzcwLDE3NDE1
+MDY1MjMsMjA3ODU2NTcwNiwtMTAzNDQ3NTYyOSwxMDI1MzY4NT
+I5LC0xMzczMjU4OTQsMTk5NjA1MjA5OSwxNzExMTY2NTQ5LC0x
+Mzg3NTI4MzExXX0=
 -->
