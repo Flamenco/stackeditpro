@@ -170,7 +170,7 @@ You will need to install and configure our *StackEditPro Connector* on your Grav
 	* Enable `GET` and `POST`.
 * Install the `StackEditPro Connector plugin`.
 * Set your access password in the `StackEditPro Connector` settings.
-* Add `header("Access-Control-Allow-Headers: *");` to `index.php`.  There is no cpl
+* Add `header("Access-Control-Allow-Headers: content-type");` to  your Grav installations `index.php`.  There is no Grav plugin available for this.
 
 ## Folder Overview
 We now display a folder overview, shown when a folder is selected in the navigator.
@@ -291,7 +291,7 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NjE5OTI4MSwxNDMxODkxOTE1LDIwMj
+eyJoaXN0b3J5IjpbLTEzOTE5OTk4MSwxNDMxODkxOTE1LDIwMj
 k4NjA4NjEsLTcyMzg2Njc4NywtMTQ1MDcwNzUxLC05NzAxODIz
 ODQsLTEyMzk3NjgzNDcsNjMzMTYzNTMyLDI3MDE2NzM4NywtMT
 Y0Mzg5ODk3NywtMTkwNzI5Mzc0NywyMDA4NjQwMzU0LC04Njc5
