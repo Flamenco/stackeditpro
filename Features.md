@@ -165,12 +165,17 @@ folder: The path to your workspace folder.
 Grav websites have a directory for each web page.  The directory contains a markdown file using a name that determines a template to use for rendering the page.  The page may also contain a *Frontmatter Header*.
 
 ### Usage
+
+#### Configure Grav Site
 You will need to install and configure our *StackEditPro Connector* on your Grav site.  The connector is available from Grav's Plugin Repository.
 * Install `Grav CORS plugin`
 	* Enable `GET` and `POST`.
 * Install the `StackEditPro Connector plugin`.
 * Set your access key in the `StackEditPro Connector` settings.
-* Add `header("Access-Control-Allow-Headers: content-type");` to  your Grav installations `index.php`.  There is no Grav plugin available for this.
+* Add `header("Access-Control-Allow-Headers: content-type");` to  your Grav installations `index.php`.  There is no Grav plugin (like the CORS plugin) available for this.
+
+#### Download Your Grav Site To StackEditPro Workspace
+* Select
 
 ## Folder Overview
 We now display a folder overview, shown when a folder is selected in the navigator.
@@ -291,7 +296,7 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NTUxMDczNCwtMTM5MTk5OTgxLDE0Mz
+eyJoaXN0b3J5IjpbMTA1MTUwNDQxMSwtMTM5MTk5OTgxLDE0Mz
 E4OTE5MTUsMjAyOTg2MDg2MSwtNzIzODY2Nzg3LC0xNDUwNzA3
 NTEsLTk3MDE4MjM4NCwtMTIzOTc2ODM0Nyw2MzMxNjM1MzIsMj
 cwMTY3Mzg3LC0xNjQzODk4OTc3LC0xOTA3MjkzNzQ3LDIwMDg2
