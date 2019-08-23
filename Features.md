@@ -189,7 +189,7 @@ The browser-tab title now displays the name of the current document.  It also al
 The name of your current workspace is now displayed in the status bar at the bottom of the editor or viewer.
 
 ## More Programming Languages Added
-We added additional languages to your code fences.
+We added additional languages, such as `Go`, to your code fences.
 
 ## Workspace Information Added
 We added a section to the *More Sidebar* that displays workspace information, including folder and file counts,  workspace synchronization details, network connectivity, and more.
@@ -277,11 +277,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzk3NjgzNDcsNjMzMTYzNTMyLDI3MD
-E2NzM4NywtMTY0Mzg5ODk3NywtMTkwNzI5Mzc0NywyMDA4NjQw
-MzU0LC04Njc5MTkzNzAsMTc0MTUwNjUyMywyMDc4NTY1NzA2LC
-0xMDM0NDc1NjI5LDEwMjUzNjg1MjksLTEzNzMyNTg5NCwxOTk2
-MDUyMDk5LDE3MTExNjY1NDksLTEzODc1MjgzMTEsMTI2ODk2ND
-QxNCw0NTEyMzI1NzEsMTY4NjYxMDI2MSwtMTE3Mzg3MDI0Miwx
-MDc5MTM3MTJdfQ==
+eyJoaXN0b3J5IjpbLTk3MDE4MjM4NCwtMTIzOTc2ODM0Nyw2Mz
+MxNjM1MzIsMjcwMTY3Mzg3LC0xNjQzODk4OTc3LC0xOTA3Mjkz
+NzQ3LDIwMDg2NDAzNTQsLTg2NzkxOTM3MCwxNzQxNTA2NTIzLD
+IwNzg1NjU3MDYsLTEwMzQ0NzU2MjksMTAyNTM2ODUyOSwtMTM3
+MzI1ODk0LDE5OTYwNTIwOTksMTcxMTE2NjU0OSwtMTM4NzUyOD
+MxMSwxMjY4OTY0NDE0LDQ1MTIzMjU3MSwxNjg2NjEwMjYxLC0x
+MTczODcwMjQyXX0=
 -->
