@@ -149,7 +149,7 @@ This is the page content.
 Frontmatter Syntax:  See https://jekyllrb.com/docs/front-matter/.
 
 ## Grav Connector
-Import and Export Grav sites to and from workspace folders.
+Import and export *Grav* websites to and from workspace folders.
 
 ## Folder Overview
 We now display a folder overview, shown when a folder is selected in the navigator.
@@ -267,11 +267,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NzkxOTM3MCwxNzQxNTA2NTIzLDIwNz
-g1NjU3MDYsLTEwMzQ0NzU2MjksMTAyNTM2ODUyOSwtMTM3MzI1
-ODk0LDE5OTYwNTIwOTksMTcxMTE2NjU0OSwtMTM4NzUyODMxMS
-wxMjY4OTY0NDE0LDQ1MTIzMjU3MSwxNjg2NjEwMjYxLC0xMTcz
-ODcwMjQyLDEwNzkxMzcxMiwtODE2Mjg0ODA0LC0xMTQwNjAxND
-g1LC0xMDk1NjEyODc0LDE5ODkzMTYwNjcsODUwODQyMTU0LC05
-MDI2NjU0NzVdfQ==
+eyJoaXN0b3J5IjpbMjAwODY0MDM1NCwtODY3OTE5MzcwLDE3ND
+E1MDY1MjMsMjA3ODU2NTcwNiwtMTAzNDQ3NTYyOSwxMDI1MzY4
+NTI5LC0xMzczMjU4OTQsMTk5NjA1MjA5OSwxNzExMTY2NTQ5LC
+0xMzg3NTI4MzExLDEyNjg5NjQ0MTQsNDUxMjMyNTcxLDE2ODY2
+MTAyNjEsLTExNzM4NzAyNDIsMTA3OTEzNzEyLC04MTYyODQ4MD
+QsLTExNDA2MDE0ODUsLTEwOTU2MTI4NzQsMTk4OTMxNjA2Nyw4
+NTA4NDIxNTRdfQ==
 -->
