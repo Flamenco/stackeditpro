@@ -175,7 +175,8 @@ You will need to install and configure our *StackEditPro Connector* on your Grav
 * Add `header("Access-Control-Allow-Headers: content-type");` to  your Grav installations `index.php`.  There is no Grav plugin (like the CORS plugin) available for this.
 
 #### Download Your Grav Site To StackEditPro Workspace
-* Select
+* Select the `Get Grav` action.
+* Enter your site URL.
 
 ## Folder Overview
 We now display a folder overview, shown when a folder is selected in the navigator.
@@ -296,7 +297,7 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MTUwNDQxMSwtMTM5MTk5OTgxLDE0Mz
+eyJoaXN0b3J5IjpbMTYyNzAzMDUwOSwtMTM5MTk5OTgxLDE0Mz
 E4OTE5MTUsMjAyOTg2MDg2MSwtNzIzODY2Nzg3LC0xNDUwNzA3
 NTEsLTk3MDE4MjM4NCwtMTIzOTc2ODM0Nyw2MzMxNjM1MzIsMj
 cwMTY3Mzg3LC0xNjQzODk4OTc3LC0xOTA3MjkzNzQ3LDIwMDg2
