@@ -135,7 +135,16 @@ See [Source Code Documentation Extension](Source%20Code%20Documentation%20Extens
 ### Frontmatter Extension
 Format and edit frontmatter.
 
-Frontmatter a  Markdown header written in YAML, and contained between `<start-of-file>---` and `<start-of-line>---<empty-line>`.  It is used to configure the  Markdown document.
+Frontmatter a  Markdown header written in YAML, and contained between lines of `---`.
+It is used to configure the  Markdown document.
+
+```markdown
+---
+title: Hello World
+private: true
+---
+This is the page content.
+```
 
 Frontmatter Syntax:  See https://jekyllrb.com/docs/front-matter/.
 
@@ -256,11 +265,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzQ0NzU2MjksMTAyNTM2ODUyOSwtMT
-M3MzI1ODk0LDE5OTYwNTIwOTksMTcxMTE2NjU0OSwtMTM4NzUy
-ODMxMSwxMjY4OTY0NDE0LDQ1MTIzMjU3MSwxNjg2NjEwMjYxLC
-0xMTczODcwMjQyLDEwNzkxMzcxMiwtODE2Mjg0ODA0LC0xMTQw
-NjAxNDg1LC0xMDk1NjEyODc0LDE5ODkzMTYwNjcsODUwODQyMT
-U0LC05MDI2NjU0NzUsLTE5NzQyNjA3NjQsLTcxNjY5NDIxLDIw
-MDg0OTk5MDldfQ==
+eyJoaXN0b3J5IjpbMjA3ODU2NTcwNiwtMTAzNDQ3NTYyOSwxMD
+I1MzY4NTI5LC0xMzczMjU4OTQsMTk5NjA1MjA5OSwxNzExMTY2
+NTQ5LC0xMzg3NTI4MzExLDEyNjg5NjQ0MTQsNDUxMjMyNTcxLD
+E2ODY2MTAyNjEsLTExNzM4NzAyNDIsMTA3OTEzNzEyLC04MTYy
+ODQ4MDQsLTExNDA2MDE0ODUsLTEwOTU2MTI4NzQsMTk4OTMxNj
+A2Nyw4NTA4NDIxNTQsLTkwMjY2NTQ3NSwtMTk3NDI2MDc2NCwt
+NzE2Njk0MjFdfQ==
 -->
