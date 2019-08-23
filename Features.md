@@ -137,7 +137,7 @@ See [Source Code Documentation Extension](Source%20Code%20Documentation%20Extens
 ### Frontmatter Extension
 Format, edit, and syntax highlight frontmatter.
 
-Frontmatter a  Markdown header written in YAML, and contained between lines of `---`.
+Frontmatter is a  Markdown header written in YAML, and contained between lines of `---`.
 It is used to configure a  Markdown document.
 
 ```markdown
@@ -148,7 +148,8 @@ private: true
 This is the page content.
 ```
 
-Frontmatter Syntax:  See https://jekyllrb.com/docs/front-matter/.
+#### Frontmatter Syntax
+See https://jekyllrb.com/docs/front-matter/.
 
 ## Grav Connector
 Import and export *Grav* websites to and from workspace folders.
@@ -269,11 +270,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MzI0MTIzMSwtMTY0Mzg5ODk3NywtMT
-kwNzI5Mzc0NywyMDA4NjQwMzU0LC04Njc5MTkzNzAsMTc0MTUw
-NjUyMywyMDc4NTY1NzA2LC0xMDM0NDc1NjI5LDEwMjUzNjg1Mj
-ksLTEzNzMyNTg5NCwxOTk2MDUyMDk5LDE3MTExNjY1NDksLTEz
-ODc1MjgzMTEsMTI2ODk2NDQxNCw0NTEyMzI1NzEsMTY4NjYxMD
-I2MSwtMTE3Mzg3MDI0MiwxMDc5MTM3MTIsLTgxNjI4NDgwNCwt
-MTE0MDYwMTQ4NV19
+eyJoaXN0b3J5IjpbMjcwMTY3Mzg3LC0xNjQzODk4OTc3LC0xOT
+A3MjkzNzQ3LDIwMDg2NDAzNTQsLTg2NzkxOTM3MCwxNzQxNTA2
+NTIzLDIwNzg1NjU3MDYsLTEwMzQ0NzU2MjksMTAyNTM2ODUyOS
+wtMTM3MzI1ODk0LDE5OTYwNTIwOTksMTcxMTE2NjU0OSwtMTM4
+NzUyODMxMSwxMjY4OTY0NDE0LDQ1MTIzMjU3MSwxNjg2NjEwMj
+YxLC0xMTczODcwMjQyLDEwNzkxMzcxMiwtODE2Mjg0ODA0LC0x
+MTQwNjAxNDg1XX0=
 -->
