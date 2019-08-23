@@ -148,7 +148,7 @@ private: true
 This is the page content.
 ```
 
-The editor and viewer will syntax highlight frontmatter.  You optionally collapse hide the frontmatter
+The editor and viewer will syntax highlight frontmatter.  You optionally collapse or hide the frontmatter in the preview.
 
 #### Frontmatter Syntax
 See https://jekyllrb.com/docs/front-matter/.
@@ -272,7 +272,7 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQzODM4NTI1LDI3MDE2NzM4NywtMTY0Mz
+eyJoaXN0b3J5IjpbNjMzMTYzNTMyLDI3MDE2NzM4NywtMTY0Mz
 g5ODk3NywtMTkwNzI5Mzc0NywyMDA4NjQwMzU0LC04Njc5MTkz
 NzAsMTc0MTUwNjUyMywyMDc4NTY1NzA2LC0xMDM0NDc1NjI5LD
 EwMjUzNjg1MjksLTEzNzMyNTg5NCwxOTk2MDUyMDk5LDE3MTEx
