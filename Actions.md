@@ -1,8 +1,14 @@
+
+# General
+## Set Language
+## Sync Now
+## Empty Trash
+
 # Global Actions
 ## Login
 ## Logout
-## Sync Now
-## Empty Trash
+
+
 ## Publish Shares
 ## Unpublish Shares
 
@@ -43,6 +49,7 @@ Email a markdown document in a variety of formats.
 Email a link to markdown document.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgxNDk0ODUsMTI3MTg2Nzc4Miw0MjMwMD
-U3MDgsOTU5MzAzNTc1LDQ1NTk4NjU4NV19
+eyJoaXN0b3J5IjpbNDkyNjc0MjIwLDU4MTQ5NDg1LDEyNzE4Nj
+c3ODIsNDIzMDA1NzA4LDk1OTMwMzU3NSw0NTU5ODY1ODVdfQ==
+
 -->
