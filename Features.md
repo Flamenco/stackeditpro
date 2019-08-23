@@ -133,7 +133,7 @@ Document source code outside of your codebase and render it as beautiful HTML.
 See [Source Code Documentation Extension](Source%20Code%20Documentation%20Extension.md).
 
 ### Frontmatter Extension
-Format and edit frontmatter.
+Format, edit, and syntax highlight frontmatter.
 
 Frontmatter a  Markdown header written in YAML, and contained between lines of `---`.
 It is used to configure the  Markdown document.
@@ -265,11 +265,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3ODU2NTcwNiwtMTAzNDQ3NTYyOSwxMD
-I1MzY4NTI5LC0xMzczMjU4OTQsMTk5NjA1MjA5OSwxNzExMTY2
-NTQ5LC0xMzg3NTI4MzExLDEyNjg5NjQ0MTQsNDUxMjMyNTcxLD
-E2ODY2MTAyNjEsLTExNzM4NzAyNDIsMTA3OTEzNzEyLC04MTYy
-ODQ4MDQsLTExNDA2MDE0ODUsLTEwOTU2MTI4NzQsMTk4OTMxNj
-A2Nyw4NTA4NDIxNTQsLTkwMjY2NTQ3NSwtMTk3NDI2MDc2NCwt
-NzE2Njk0MjFdfQ==
+eyJoaXN0b3J5IjpbMTc0MTUwNjUyMywyMDc4NTY1NzA2LC0xMD
+M0NDc1NjI5LDEwMjUzNjg1MjksLTEzNzMyNTg5NCwxOTk2MDUy
+MDk5LDE3MTExNjY1NDksLTEzODc1MjgzMTEsMTI2ODk2NDQxNC
+w0NTEyMzI1NzEsMTY4NjYxMDI2MSwtMTE3Mzg3MDI0MiwxMDc5
+MTM3MTIsLTgxNjI4NDgwNCwtMTE0MDYwMTQ4NSwtMTA5NTYxMj
+g3NCwxOTg5MzE2MDY3LDg1MDg0MjE1NCwtOTAyNjY1NDc1LC0x
+OTc0MjYwNzY0XX0=
 -->
