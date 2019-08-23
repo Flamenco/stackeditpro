@@ -63,7 +63,8 @@ Languages are stored as a browser setting, not a workspace setting.
 > Not all forms and menus have been translated yet.
 
 ## Task And To-Do Reports
-Search your workspace for markdown task items `- [ ] xyx` and  `~todo~` blocks.
+`Actions/Find Tasks`
+Search your workspace for markdown task items `- [ ] An Item` and  `~todo a description~` blocks.
 
 A report with all of your uncompleted tasks and to-do items will open.
 The report lists each task along with the associated file and line number.
@@ -267,11 +268,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwODY0MDM1NCwtODY3OTE5MzcwLDE3ND
-E1MDY1MjMsMjA3ODU2NTcwNiwtMTAzNDQ3NTYyOSwxMDI1MzY4
-NTI5LC0xMzczMjU4OTQsMTk5NjA1MjA5OSwxNzExMTY2NTQ5LC
-0xMzg3NTI4MzExLDEyNjg5NjQ0MTQsNDUxMjMyNTcxLDE2ODY2
-MTAyNjEsLTExNzM4NzAyNDIsMTA3OTEzNzEyLC04MTYyODQ4MD
-QsLTExNDA2MDE0ODUsLTEwOTU2MTI4NzQsMTk4OTMxNjA2Nyw4
-NTA4NDIxNTRdfQ==
+eyJoaXN0b3J5IjpbLTE5MDcyOTM3NDcsMjAwODY0MDM1NCwtOD
+Y3OTE5MzcwLDE3NDE1MDY1MjMsMjA3ODU2NTcwNiwtMTAzNDQ3
+NTYyOSwxMDI1MzY4NTI5LC0xMzczMjU4OTQsMTk5NjA1MjA5OS
+wxNzExMTY2NTQ5LC0xMzg3NTI4MzExLDEyNjg5NjQ0MTQsNDUx
+MjMyNTcxLDE2ODY2MTAyNjEsLTExNzM4NzAyNDIsMTA3OTEzNz
+EyLC04MTYyODQ4MDQsLTExNDA2MDE0ODUsLTEwOTU2MTI4NzQs
+MTk4OTMxNjA2N119
 -->
