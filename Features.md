@@ -177,6 +177,7 @@ You will need to install and configure our *StackEditPro Connector* on your Grav
 #### Download Your Grav Site To StackEditPro Workspace
 * Select the `Get Grav` action.
 * Enter your site URL.
+* You Grav website will be downloaded to a top level folder with the site name.
 
 ## Folder Overview
 We now display a folder overview, shown when a folder is selected in the navigator.
@@ -297,11 +298,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNzAzMDUwOSwtMTM5MTk5OTgxLDE0Mz
-E4OTE5MTUsMjAyOTg2MDg2MSwtNzIzODY2Nzg3LC0xNDUwNzA3
-NTEsLTk3MDE4MjM4NCwtMTIzOTc2ODM0Nyw2MzMxNjM1MzIsMj
-cwMTY3Mzg3LC0xNjQzODk4OTc3LC0xOTA3MjkzNzQ3LDIwMDg2
-NDAzNTQsLTg2NzkxOTM3MCwxNzQxNTA2NTIzLDIwNzg1NjU3MD
-YsLTEwMzQ0NzU2MjksMTAyNTM2ODUyOSwtMTM3MzI1ODk0LDE5
-OTYwNTIwOTldfQ==
+eyJoaXN0b3J5IjpbLTU5NTc4MDIwMywxNjI3MDMwNTA5LC0xMz
+kxOTk5ODEsMTQzMTg5MTkxNSwyMDI5ODYwODYxLC03MjM4NjY3
+ODcsLTE0NTA3MDc1MSwtOTcwMTgyMzg0LC0xMjM5NzY4MzQ3LD
+YzMzE2MzUzMiwyNzAxNjczODcsLTE2NDM4OTg5NzcsLTE5MDcy
+OTM3NDcsMjAwODY0MDM1NCwtODY3OTE5MzcwLDE3NDE1MDY1Mj
+MsMjA3ODU2NTcwNiwtMTAzNDQ3NTYyOSwxMDI1MzY4NTI5LC0x
+MzczMjU4OTRdfQ==
 -->
