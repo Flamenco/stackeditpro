@@ -162,9 +162,9 @@ folder: The path to your workspace folder.
 ```
 
 You will need to install and configure the *StackEditPro Connector* on your Grav site.
-* Install CORS plugin
-	* Enable `GET` and POST
-* Install the `StackEditPro Connector Plugin`.
+* Install `Grav CORS plugin`
+	* Enable `GET` and `POST`.
+* Install the `StackEditPro Connector plugin`.
 * Add `header("Access-Control-Allow-Headers: *");` to `index.php`.
 
 ## Folder Overview
@@ -286,7 +286,7 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyOTI1ODU2MSwyMDI5ODYwODYxLC03Mj
+eyJoaXN0b3J5IjpbMTQzMTg5MTkxNSwyMDI5ODYwODYxLC03Mj
 M4NjY3ODcsLTE0NTA3MDc1MSwtOTcwMTgyMzg0LC0xMjM5NzY4
 MzQ3LDYzMzE2MzUzMiwyNzAxNjczODcsLTE2NDM4OTg5NzcsLT
 E5MDcyOTM3NDcsMjAwODY0MDM1NCwtODY3OTE5MzcwLDE3NDE1
