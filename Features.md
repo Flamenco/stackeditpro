@@ -161,11 +161,16 @@ url:  The admin url tp your Grav site.
 folder: The path to your workspace folder.
 ```
 
-You will need to install and configure the *StackEditPro Connector* on your Grav site.
+### Grav Structure
+Grav websites have a directory for each web page.  The directory contains a markdown file using a name that determines a template to use for rendering the page.  The page may also contain a *Frontmatter Header*.
+
+### Usage
+You will need to install and configure our *StackEditPro Connector* on your Grav site.  The connector is available on Grav's Plugin Repository.
 * Install `Grav CORS plugin`
 	* Enable `GET` and `POST`.
 * Install the `StackEditPro Connector plugin`.
-* Add `header("Access-Control-Allow-Headers: *");` to `index.php`.
+* Set your access password in the `StackEditPro Connector` settings.
+* Add `header("Access-Control-Allow-Headers: *");` to `index.php`.  There is no cpl
 
 ## Folder Overview
 We now display a folder overview, shown when a folder is selected in the navigator.
@@ -286,11 +291,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMTg5MTkxNSwyMDI5ODYwODYxLC03Mj
-M4NjY3ODcsLTE0NTA3MDc1MSwtOTcwMTgyMzg0LC0xMjM5NzY4
-MzQ3LDYzMzE2MzUzMiwyNzAxNjczODcsLTE2NDM4OTg5NzcsLT
-E5MDcyOTM3NDcsMjAwODY0MDM1NCwtODY3OTE5MzcwLDE3NDE1
-MDY1MjMsMjA3ODU2NTcwNiwtMTAzNDQ3NTYyOSwxMDI1MzY4NT
-I5LC0xMzczMjU4OTQsMTk5NjA1MjA5OSwxNzExMTY2NTQ5LC0x
-Mzg3NTI4MzExXX0=
+eyJoaXN0b3J5IjpbMTc5NjE5OTI4MSwxNDMxODkxOTE1LDIwMj
+k4NjA4NjEsLTcyMzg2Njc4NywtMTQ1MDcwNzUxLC05NzAxODIz
+ODQsLTEyMzk3NjgzNDcsNjMzMTYzNTMyLDI3MDE2NzM4NywtMT
+Y0Mzg5ODk3NywtMTkwNzI5Mzc0NywyMDA4NjQwMzU0LC04Njc5
+MTkzNzAsMTc0MTUwNjUyMywyMDc4NTY1NzA2LC0xMDM0NDc1Nj
+I5LDEwMjUzNjg1MjksLTEzNzMyNTg5NCwxOTk2MDUyMDk5LDE3
+MTExNjY1NDldfQ==
 -->
