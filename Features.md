@@ -161,6 +161,8 @@ url:  The admin url tp your Grav site.
 folder: The path to your workspace folder.
 ```
 
+You will need to install and configure the *StackEditPro Connector* on your Grav site.
+
 ## Folder Overview
 We now display a folder overview, shown when a folder is selected in the navigator.
 You can view the folder contents by name or accessed date.
@@ -280,11 +282,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMzg2Njc4NywtMTQ1MDcwNzUxLC05Nz
-AxODIzODQsLTEyMzk3NjgzNDcsNjMzMTYzNTMyLDI3MDE2NzM4
-NywtMTY0Mzg5ODk3NywtMTkwNzI5Mzc0NywyMDA4NjQwMzU0LC
-04Njc5MTkzNzAsMTc0MTUwNjUyMywyMDc4NTY1NzA2LC0xMDM0
-NDc1NjI5LDEwMjUzNjg1MjksLTEzNzMyNTg5NCwxOTk2MDUyMD
-k5LDE3MTExNjY1NDksLTEzODc1MjgzMTEsMTI2ODk2NDQxNCw0
-NTEyMzI1NzFdfQ==
+eyJoaXN0b3J5IjpbMjAyOTg2MDg2MSwtNzIzODY2Nzg3LC0xND
+UwNzA3NTEsLTk3MDE4MjM4NCwtMTIzOTc2ODM0Nyw2MzMxNjM1
+MzIsMjcwMTY3Mzg3LC0xNjQzODk4OTc3LC0xOTA3MjkzNzQ3LD
+IwMDg2NDAzNTQsLTg2NzkxOTM3MCwxNzQxNTA2NTIzLDIwNzg1
+NjU3MDYsLTEwMzQ0NzU2MjksMTAyNTM2ODUyOSwtMTM3MzI1OD
+k0LDE5OTYwNTIwOTksMTcxMTE2NjU0OSwtMTM4NzUyODMxMSwx
+MjY4OTY0NDE0XX0=
 -->
