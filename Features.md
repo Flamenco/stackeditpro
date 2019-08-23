@@ -156,6 +156,11 @@ See https://jekyllrb.com/docs/front-matter/.
 ## Grav Connector
 Import and export *Grav* websites to and from workspace folders.
 
+```yml
+url:  The admin url tp your Grav site.
+folder: The path to your workspace folder.
+```
+
 ## Folder Overview
 We now display a folder overview, shown when a folder is selected in the navigator.
 You can view the folder contents by name or accessed date.
@@ -272,11 +277,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMzMTYzNTMyLDI3MDE2NzM4NywtMTY0Mz
-g5ODk3NywtMTkwNzI5Mzc0NywyMDA4NjQwMzU0LC04Njc5MTkz
-NzAsMTc0MTUwNjUyMywyMDc4NTY1NzA2LC0xMDM0NDc1NjI5LD
-EwMjUzNjg1MjksLTEzNzMyNTg5NCwxOTk2MDUyMDk5LDE3MTEx
-NjY1NDksLTEzODc1MjgzMTEsMTI2ODk2NDQxNCw0NTEyMzI1Nz
-EsMTY4NjYxMDI2MSwtMTE3Mzg3MDI0MiwxMDc5MTM3MTIsLTgx
-NjI4NDgwNF19
+eyJoaXN0b3J5IjpbLTEyMzk3NjgzNDcsNjMzMTYzNTMyLDI3MD
+E2NzM4NywtMTY0Mzg5ODk3NywtMTkwNzI5Mzc0NywyMDA4NjQw
+MzU0LC04Njc5MTkzNzAsMTc0MTUwNjUyMywyMDc4NTY1NzA2LC
+0xMDM0NDc1NjI5LDEwMjUzNjg1MjksLTEzNzMyNTg5NCwxOTk2
+MDUyMDk5LDE3MTExNjY1NDksLTEzODc1MjgzMTEsMTI2ODk2ND
+QxNCw0NTEyMzI1NzEsMTY4NjYxMDI2MSwtMTE3Mzg3MDI0Miwx
+MDc5MTM3MTJdfQ==
 -->
