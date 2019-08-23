@@ -6,6 +6,9 @@
 ## Publish Shares
 ## Unpublish Shares
 
+# Workspace
+## Search...
+## Find Tasks...
 # Folder And File Actions
 Several folder and file actions are available from the *Folder Overview* and the *Actions Menu*.
 
@@ -40,6 +43,6 @@ Email a markdown document in a variety of formats.
 Email a link to markdown document.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MTg2Nzc4Miw0MjMwMDU3MDgsOTU5Mz
-AzNTc1LDQ1NTk4NjU4NV19
+eyJoaXN0b3J5IjpbNTgxNDk0ODUsMTI3MTg2Nzc4Miw0MjMwMD
+U3MDgsOTU5MzAzNTc1LDQ1NTk4NjU4NV19
 -->
