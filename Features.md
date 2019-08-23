@@ -137,6 +137,9 @@ Format and edit frontmatter.
 
 Frontmatter a  Markdown header written in YAML, and contained between `<start-of-file>---` and `<start-of-line>---<empty-line>`.  It is used to configure the  Markdown document.
 
+Frontmatter Syntax:  See https://jekyllrb.com/docs/front-matter/.
+
+
 ## Folder Overview
 We now display a folder overview, shown when a folder is selected in the navigator.
 You can view the folder contents by name or accessed date.
@@ -253,11 +256,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNTM2ODUyOSwtMTM3MzI1ODk0LDE5OT
-YwNTIwOTksMTcxMTE2NjU0OSwtMTM4NzUyODMxMSwxMjY4OTY0
-NDE0LDQ1MTIzMjU3MSwxNjg2NjEwMjYxLC0xMTczODcwMjQyLD
-EwNzkxMzcxMiwtODE2Mjg0ODA0LC0xMTQwNjAxNDg1LC0xMDk1
-NjEyODc0LDE5ODkzMTYwNjcsODUwODQyMTU0LC05MDI2NjU0Nz
-UsLTE5NzQyNjA3NjQsLTcxNjY5NDIxLDIwMDg0OTk5MDksMTIy
-NTE1NTI1MF19
+eyJoaXN0b3J5IjpbLTEwMzQ0NzU2MjksMTAyNTM2ODUyOSwtMT
+M3MzI1ODk0LDE5OTYwNTIwOTksMTcxMTE2NjU0OSwtMTM4NzUy
+ODMxMSwxMjY4OTY0NDE0LDQ1MTIzMjU3MSwxNjg2NjEwMjYxLC
+0xMTczODcwMjQyLDEwNzkxMzcxMiwtODE2Mjg0ODA0LC0xMTQw
+NjAxNDg1LC0xMDk1NjEyODc0LDE5ODkzMTYwNjcsODUwODQyMT
+U0LC05MDI2NjU0NzUsLTE5NzQyNjA3NjQsLTcxNjY5NDIxLDIw
+MDg0OTk5MDldfQ==
 -->
