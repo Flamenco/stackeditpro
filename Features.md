@@ -154,7 +154,7 @@ The editor and viewer will both syntax highlight frontmatter.  You optionally co
 See https://jekyllrb.com/docs/front-matter/.
 
 ## Grav Connector
-Import and export *Grav* websites to and from any workspace folder.
+Import and synchronize *Grav* websites to and from any workspace folder.
 
 See [Grav Connector](Grav%20Connector.md).
 
@@ -277,11 +277,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MjU2MDQwNSw5MjcxMjM3NCwtNTI2ND
-EyNjI2LDExNDI1ODU3OTIsMTI2Mjg1MzQ2NCwtNTk1NzgwMjAz
-LDE2MjcwMzA1MDksLTEzOTE5OTk4MSwxNDMxODkxOTE1LDIwMj
-k4NjA4NjEsLTcyMzg2Njc4NywtMTQ1MDcwNzUxLC05NzAxODIz
-ODQsLTEyMzk3NjgzNDcsNjMzMTYzNTMyLDI3MDE2NzM4NywtMT
-Y0Mzg5ODk3NywtMTkwNzI5Mzc0NywyMDA4NjQwMzU0LC04Njc5
-MTkzNzBdfQ==
+eyJoaXN0b3J5IjpbMTAyMjA1NTYyNSwxMjUyNTYwNDA1LDkyNz
+EyMzc0LC01MjY0MTI2MjYsMTE0MjU4NTc5MiwxMjYyODUzNDY0
+LC01OTU3ODAyMDMsMTYyNzAzMDUwOSwtMTM5MTk5OTgxLDE0Mz
+E4OTE5MTUsMjAyOTg2MDg2MSwtNzIzODY2Nzg3LC0xNDUwNzA3
+NTEsLTk3MDE4MjM4NCwtMTIzOTc2ODM0Nyw2MzMxNjM1MzIsMj
+cwMTY3Mzg3LC0xNjQzODk4OTc3LC0xOTA3MjkzNzQ3LDIwMDg2
+NDAzNTRdfQ==
 -->
