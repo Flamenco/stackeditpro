@@ -15,7 +15,7 @@ Grav websites have a directory for each web page.  The directories name is the p
 			- default
 ```
 
-> The  StackEditPro `Page Title Extension` will use the folder title when displaying the web page.
+> The  StackEditPro `Page Title Extension` will use the folder title when displaying the page preview.
 
 # Usage
 
@@ -40,5 +40,5 @@ The report show what has been added, removed, and modified.
 
 ## Push Your Changes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNDAwMDc0N119
+eyJoaXN0b3J5IjpbLTIxNDM5NDI4NDEsMTMxNDAwMDc0N119
 -->
