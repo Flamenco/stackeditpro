@@ -1,5 +1,10 @@
 Import and export *Grav* websites to and from any workspace folder.
 
+# Overview
+You can import any number of Grav websites into your Grav workspace.
+Each imported site will sync to all of your workspace devices, so you can download the site on one device,
+and then edit it from any other device.
+
 # Grav Website Structure
 Grav websites have a directory for each web page.  The directory name is the page name, and it contains a markdown file for the page content.  The filename determines the content template used for rendering the page, not the page name.  The page content may also contain a *Frontmatter Header*.  Pages can contain nested pages.
 
@@ -41,7 +46,7 @@ The report show what has been added, removed, and modified.
 ## Push Your Changes
 Only new and modified files and directories on the StackEditPro workspace will be updated on the Grav server.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAxOTE3NjU5LDE4NTM2MjQxMywtMTc5MT
-g1MzA3LC0xODU1MjUyOTg2LC0yMTQzOTQyODQxLDEzMTQwMDA3
-NDddfQ==
+eyJoaXN0b3J5IjpbLTE4NDUyNzU5ODUsODAxOTE3NjU5LDE4NT
+M2MjQxMywtMTc5MTg1MzA3LC0xODU1MjUyOTg2LC0yMTQzOTQy
+ODQxLDEzMTQwMDA3NDddfQ==
 -->
