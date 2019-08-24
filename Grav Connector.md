@@ -39,7 +39,8 @@ You can add new folders, subfolders, and template files.  If you need to delete 
 The report show what has been added, removed, and modified.
 
 ## Push Your Changes
+Only new and modified changes will be updated on the server.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTE4NTMwNywtMTg1NTI1Mjk4NiwtMj
-E0Mzk0Mjg0MSwxMzE0MDAwNzQ3XX0=
+eyJoaXN0b3J5IjpbMTg1MzYyNDEzLC0xNzkxODUzMDcsLTE4NT
+UyNTI5ODYsLTIxNDM5NDI4NDEsMTMxNDAwMDc0N119
 -->
