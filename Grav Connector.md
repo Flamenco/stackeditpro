@@ -50,10 +50,14 @@ The report show what has been added, removed, and modified.
 
 ## Push Your Changes
 Only new and modified files and directories on the StackEditPro workspace will be updated on the Grav server.
+
+# TODO
+* Allow deleting, renaming, and moving pages from StackEditPro.
+* Add refactoring features.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIzMTQxNDQ3LDI2NjYxNDA5NiwzMzg4OT
-g3MDQsLTYxOTY0MTkwNCw2ODIwMTI0NjgsLTI1OTg2MDY3Mywt
-MTg0NTI3NTk4NSw4MDE5MTc2NTksMTg1MzYyNDEzLC0xNzkxOD
-UzMDcsLTE4NTUyNTI5ODYsLTIxNDM5NDI4NDEsMTMxNDAwMDc0
-N119
+eyJoaXN0b3J5IjpbMTA5NDYyNzI3OCw1MjMxNDE0NDcsMjY2Nj
+E0MDk2LDMzODg5ODcwNCwtNjE5NjQxOTA0LDY4MjAxMjQ2OCwt
+MjU5ODYwNjczLC0xODQ1Mjc1OTg1LDgwMTkxNzY1OSwxODUzNj
+I0MTMsLTE3OTE4NTMwNywtMTg1NTI1Mjk4NiwtMjE0Mzk0Mjg0
+MSwxMzE0MDAwNzQ3XX0=
 -->
