@@ -31,9 +31,10 @@ Pages can contain nested pages.
 ## Configure Grav Site
 You will need to install and configure our *StackEditPro Connector* on your Grav site.  The connector is available from Grav's Plugin Repository.
 * Install `Grav CORS plugin`
-	* Enable `GET` and `POST`.
+	* Enable allow-method `GET` and `POST`.
+	* Enable allow-header `content-type`
 * Install the `StackEditPro Connector plugin`.
-* Set your access key in the `StackEditPro Connector` settings.
+	* Set your access key in the `StackEditPro Connector` settings.
 * ~~Add `header("Access-Control-Allow-Headers: content-type");` to  your Grav installations `index.php`.  There is no Grav plugin (like the CORS plugin) available for this.~~
 
 ## Download Your Grav Site To StackEditPro Workspace
@@ -50,8 +51,9 @@ The report show what has been added, removed, and modified.
 ## Push Your Changes
 Only new and modified files and directories on the StackEditPro workspace will be updated on the Grav server.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY2NjE0MDk2LDMzODg5ODcwNCwtNjE5Nj
-QxOTA0LDY4MjAxMjQ2OCwtMjU5ODYwNjczLC0xODQ1Mjc1OTg1
-LDgwMTkxNzY1OSwxODUzNjI0MTMsLTE3OTE4NTMwNywtMTg1NT
-I1Mjk4NiwtMjE0Mzk0Mjg0MSwxMzE0MDAwNzQ3XX0=
+eyJoaXN0b3J5IjpbNTIzMTQxNDQ3LDI2NjYxNDA5NiwzMzg4OT
+g3MDQsLTYxOTY0MTkwNCw2ODIwMTI0NjgsLTI1OTg2MDY3Mywt
+MTg0NTI3NTk4NSw4MDE5MTc2NTksMTg1MzYyNDEzLC0xNzkxOD
+UzMDcsLTE4NTUyNTI5ODYsLTIxNDM5NDI4NDEsMTMxNDAwMDc0
+N119
 -->
