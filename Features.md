@@ -158,7 +158,7 @@ Import and export *Grav* websites to and from workspace folders.
 
 
 ### Grav Website Structure
-Grav websites have a directory for each web page.  The directories name is the page name, and it contains a markdown file for the page content.  Thas file uses a name that determines the content template used for rendering the page.  The page content may also contain a *Frontmatter Header*.
+Grav websites have a directory for each web page.  The directories name is the page name, and it contains a markdown file for the page content.  Thas file uses a name that determines the content template used for rendering the page.  The page content may also contain a *Frontmatter Header*.  Pages can contain nested pages.
 
 ```text
 - https://www.foo.com
@@ -166,6 +166,10 @@ Grav websites have a directory for each web page.  The directories name is the p
 		- default
 	- Page 2
 		- default
+		- Page 3
+			- default
+		- Page 4
+			- default
 ```
 
 ### Usage
@@ -302,11 +306,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNjQxMjYyNiwxMTQyNTg1NzkyLDEyNj
-I4NTM0NjQsLTU5NTc4MDIwMywxNjI3MDMwNTA5LC0xMzkxOTk5
-ODEsMTQzMTg5MTkxNSwyMDI5ODYwODYxLC03MjM4NjY3ODcsLT
-E0NTA3MDc1MSwtOTcwMTgyMzg0LC0xMjM5NzY4MzQ3LDYzMzE2
-MzUzMiwyNzAxNjczODcsLTE2NDM4OTg5NzcsLTE5MDcyOTM3ND
-csMjAwODY0MDM1NCwtODY3OTE5MzcwLDE3NDE1MDY1MjMsMjA3
-ODU2NTcwNl19
+eyJoaXN0b3J5IjpbOTI3MTIzNzQsLTUyNjQxMjYyNiwxMTQyNT
+g1NzkyLDEyNjI4NTM0NjQsLTU5NTc4MDIwMywxNjI3MDMwNTA5
+LC0xMzkxOTk5ODEsMTQzMTg5MTkxNSwyMDI5ODYwODYxLC03Mj
+M4NjY3ODcsLTE0NTA3MDc1MSwtOTcwMTgyMzg0LC0xMjM5NzY4
+MzQ3LDYzMzE2MzUzMiwyNzAxNjczODcsLTE2NDM4OTg5NzcsLT
+E5MDcyOTM3NDcsMjAwODY0MDM1NCwtODY3OTE5MzcwLDE3NDE1
+MDY1MjNdfQ==
 -->
