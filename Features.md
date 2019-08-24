@@ -138,7 +138,7 @@ See [Source Code Documentation Extension](Source%20Code%20Documentation%20Extens
 Format, edit, and syntax highlight frontmatter.
 
 Frontmatter is a  Markdown header written in YAML, and contained between lines of `---`.
-It is used to configure a  Markdown document.
+It is used to configure a Markdown document with metadata.
 
 ```markdown
 ---
@@ -298,11 +298,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NTc4MDIwMywxNjI3MDMwNTA5LC0xMz
-kxOTk5ODEsMTQzMTg5MTkxNSwyMDI5ODYwODYxLC03MjM4NjY3
-ODcsLTE0NTA3MDc1MSwtOTcwMTgyMzg0LC0xMjM5NzY4MzQ3LD
-YzMzE2MzUzMiwyNzAxNjczODcsLTE2NDM4OTg5NzcsLTE5MDcy
-OTM3NDcsMjAwODY0MDM1NCwtODY3OTE5MzcwLDE3NDE1MDY1Mj
-MsMjA3ODU2NTcwNiwtMTAzNDQ3NTYyOSwxMDI1MzY4NTI5LC0x
-MzczMjU4OTRdfQ==
+eyJoaXN0b3J5IjpbMTI2Mjg1MzQ2NCwtNTk1NzgwMjAzLDE2Mj
+cwMzA1MDksLTEzOTE5OTk4MSwxNDMxODkxOTE1LDIwMjk4NjA4
+NjEsLTcyMzg2Njc4NywtMTQ1MDcwNzUxLC05NzAxODIzODQsLT
+EyMzk3NjgzNDcsNjMzMTYzNTMyLDI3MDE2NzM4NywtMTY0Mzg5
+ODk3NywtMTkwNzI5Mzc0NywyMDA4NjQwMzU0LC04Njc5MTkzNz
+AsMTc0MTUwNjUyMywyMDc4NTY1NzA2LC0xMDM0NDc1NjI5LDEw
+MjUzNjg1MjldfQ==
 -->
