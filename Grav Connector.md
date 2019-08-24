@@ -34,7 +34,7 @@ You will need to install and configure our *StackEditPro Connector* on your Grav
 	* Enable `GET` and `POST`.
 * Install the `StackEditPro Connector plugin`.
 * Set your access key in the `StackEditPro Connector` settings.
-* Add `header("Access-Control-Allow-Headers: content-type");` to  your Grav installations `index.php`.  There is no Grav plugin (like the CORS plugin) available for this.
+* ~~Add `header("Access-Control-Allow-Headers: content-type");` to  your Grav installations `index.php`.  There is no Grav plugin (like the CORS plugin) available for this.~~
 
 ## Download Your Grav Site To StackEditPro Workspace
 * Select the `Get Grav` action.
@@ -50,8 +50,8 @@ The report show what has been added, removed, and modified.
 ## Push Your Changes
 Only new and modified files and directories on the StackEditPro workspace will be updated on the Grav server.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM4ODk4NzA0LC02MTk2NDE5MDQsNjgyMD
-EyNDY4LC0yNTk4NjA2NzMsLTE4NDUyNzU5ODUsODAxOTE3NjU5
-LDE4NTM2MjQxMywtMTc5MTg1MzA3LC0xODU1MjUyOTg2LC0yMT
-QzOTQyODQxLDEzMTQwMDA3NDddfQ==
+eyJoaXN0b3J5IjpbMjY2NjE0MDk2LDMzODg5ODcwNCwtNjE5Nj
+QxOTA0LDY4MjAxMjQ2OCwtMjU5ODYwNjczLC0xODQ1Mjc1OTg1
+LDgwMTkxNzY1OSwxODUzNjI0MTMsLTE3OTE4NTMwNywtMTg1NT
+I1Mjk4NiwtMjE0Mzk0Mjg0MSwxMzE0MDAwNzQ3XX0=
 -->
