@@ -148,7 +148,7 @@ private: true
 This is the page content.
 ```
 
-The editor and viewer will syntax highlight frontmatter.  You optionally collapse or hide the frontmatter in the preview.
+The editor and viewer will both syntax highlight frontmatter.  You optionally collapse or hide the frontmatter in the preview.
 
 #### Frontmatter Syntax
 See https://jekyllrb.com/docs/front-matter/.
@@ -156,13 +156,9 @@ See https://jekyllrb.com/docs/front-matter/.
 ## Grav Connector
 Import and export *Grav* websites to and from workspace folders.
 
-```yml
-url:  The admin url tp your Grav site.
-folder: The path to your workspace folder.
-```
 
-### Grav Structure
-Grav websites have a directory for each web page.  The directory contains a markdown file using a name that determines a template to use for rendering the page.  The page may also contain a *Frontmatter Header*.
+### Grav Website Structure
+Grav websites have a directory for each web page.  The directories name is the page name, and it contains a markdown file for the page contentusing a name that determines a template to use for rendering the page.  The page may also contain a *Frontmatter Header*.
 
 ### Usage
 
@@ -298,11 +294,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2Mjg1MzQ2NCwtNTk1NzgwMjAzLDE2Mj
-cwMzA1MDksLTEzOTE5OTk4MSwxNDMxODkxOTE1LDIwMjk4NjA4
-NjEsLTcyMzg2Njc4NywtMTQ1MDcwNzUxLC05NzAxODIzODQsLT
-EyMzk3NjgzNDcsNjMzMTYzNTMyLDI3MDE2NzM4NywtMTY0Mzg5
-ODk3NywtMTkwNzI5Mzc0NywyMDA4NjQwMzU0LC04Njc5MTkzNz
-AsMTc0MTUwNjUyMywyMDc4NTY1NzA2LC0xMDM0NDc1NjI5LDEw
-MjUzNjg1MjldfQ==
+eyJoaXN0b3J5IjpbLTIwNTM3NDIzMzMsMTI2Mjg1MzQ2NCwtNT
+k1NzgwMjAzLDE2MjcwMzA1MDksLTEzOTE5OTk4MSwxNDMxODkx
+OTE1LDIwMjk4NjA4NjEsLTcyMzg2Njc4NywtMTQ1MDcwNzUxLC
+05NzAxODIzODQsLTEyMzk3NjgzNDcsNjMzMTYzNTMyLDI3MDE2
+NzM4NywtMTY0Mzg5ODk3NywtMTkwNzI5Mzc0NywyMDA4NjQwMz
+U0LC04Njc5MTkzNzAsMTc0MTUwNjUyMywyMDc4NTY1NzA2LC0x
+MDM0NDc1NjI5XX0=
 -->
