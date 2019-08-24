@@ -161,7 +161,7 @@ Import and export *Grav* websites to and from workspace folders.
 Grav websites have a directory for each web page.  The directories name is the page name, and it contains a markdown file for the page content.  Thas file uses a name that determines the content template used for rendering the page.  The page content may also contain a *Frontmatter Header*.
 
 ```text
-- site
+- https://www.foo.com
 	- Page 1
 		- default
 	- Page 2
@@ -302,11 +302,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MjU4NTc5MiwxMjYyODUzNDY0LC01OT
-U3ODAyMDMsMTYyNzAzMDUwOSwtMTM5MTk5OTgxLDE0MzE4OTE5
-MTUsMjAyOTg2MDg2MSwtNzIzODY2Nzg3LC0xNDUwNzA3NTEsLT
-k3MDE4MjM4NCwtMTIzOTc2ODM0Nyw2MzMxNjM1MzIsMjcwMTY3
-Mzg3LC0xNjQzODk4OTc3LC0xOTA3MjkzNzQ3LDIwMDg2NDAzNT
-QsLTg2NzkxOTM3MCwxNzQxNTA2NTIzLDIwNzg1NjU3MDYsLTEw
-MzQ0NzU2MjldfQ==
+eyJoaXN0b3J5IjpbLTUyNjQxMjYyNiwxMTQyNTg1NzkyLDEyNj
+I4NTM0NjQsLTU5NTc4MDIwMywxNjI3MDMwNTA5LC0xMzkxOTk5
+ODEsMTQzMTg5MTkxNSwyMDI5ODYwODYxLC03MjM4NjY3ODcsLT
+E0NTA3MDc1MSwtOTcwMTgyMzg0LC0xMjM5NzY4MzQ3LDYzMzE2
+MzUzMiwyNzAxNjczODcsLTE2NDM4OTg5NzcsLTE5MDcyOTM3ND
+csMjAwODY0MDM1NCwtODY3OTE5MzcwLDE3NDE1MDY1MjMsMjA3
+ODU2NTcwNl19
 -->
