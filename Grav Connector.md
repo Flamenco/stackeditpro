@@ -39,8 +39,9 @@ You can add new folders, subfolders, and template files.  If you need to delete 
 The report show what has been added, removed, and modified.
 
 ## Push Your Changes
-Only new and modified changes will be updated on the server.
+Only new and modified files and directories on the StackEditPro workspace will be updated on the Grav server.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MzYyNDEzLC0xNzkxODUzMDcsLTE4NT
-UyNTI5ODYsLTIxNDM5NDI4NDEsMTMxNDAwMDc0N119
+eyJoaXN0b3J5IjpbODAxOTE3NjU5LDE4NTM2MjQxMywtMTc5MT
+g1MzA3LC0xODU1MjUyOTg2LC0yMTQzOTQyODQxLDEzMTQwMDA3
+NDddfQ==
 -->
