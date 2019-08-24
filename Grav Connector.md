@@ -6,7 +6,7 @@ Each imported site will sync to all of your workspace devices; You can download 
 and then edit it from any other device.
 
 # Grav Website Structure
-Grav websites have a directory for each web page.  The directory name is the page name, and it contains a markdown file for the page content.  The filename determines the content template used for rendering the page, not the page name.  The page content may also contain a *Frontmatter Header*.  Pages can contain nested pages.
+Grav websites have a directory for each web page.  The directory name is the page name, and it contains a markdown file for the page content.  The markdown file filename determines the content template used for rendering the page, and not the page name.  The page content may also contain a *Frontmatter Header*.  Pages can contain nested pages.
 
 ```text
 - https://www.foo.com
@@ -46,8 +46,8 @@ The report show what has been added, removed, and modified.
 ## Push Your Changes
 Only new and modified files and directories on the StackEditPro workspace will be updated on the Grav server.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgyMDEyNDY4LC0yNTk4NjA2NzMsLTE4ND
-UyNzU5ODUsODAxOTE3NjU5LDE4NTM2MjQxMywtMTc5MTg1MzA3
-LC0xODU1MjUyOTg2LC0yMTQzOTQyODQxLDEzMTQwMDA3NDddfQ
-==
+eyJoaXN0b3J5IjpbLTYxOTY0MTkwNCw2ODIwMTI0NjgsLTI1OT
+g2MDY3MywtMTg0NTI3NTk4NSw4MDE5MTc2NTksMTg1MzYyNDEz
+LC0xNzkxODUzMDcsLTE4NTUyNTI5ODYsLTIxNDM5NDI4NDEsMT
+MxNDAwMDc0N119
 -->
