@@ -1,3 +1,4 @@
+The page lists the standard actions provided by StackEditPro.
 
 # General
 ## Set Language
@@ -49,7 +50,7 @@ Email a markdown document in a variety of formats.
 Email a link to markdown document.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkyNjc0MjIwLDU4MTQ5NDg1LDEyNzE4Nj
-c3ODIsNDIzMDA1NzA4LDk1OTMwMzU3NSw0NTU5ODY1ODVdfQ==
-
+eyJoaXN0b3J5IjpbLTk5OTA0OTM0NSw0OTI2NzQyMjAsNTgxND
+k0ODUsMTI3MTg2Nzc4Miw0MjMwMDU3MDgsOTU5MzAzNTc1LDQ1
+NTk4NjU4NV19
 -->
