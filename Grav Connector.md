@@ -1,3 +1,5 @@
+Import and export *Grav* websites to and from any workspace folder.
+
 # Grav Website Structure
 Grav websites have a directory for each web page.  The directories name is the page name, and it contains a markdown file for the page content.  Thas file uses a name that determines the content template used for rendering the page.  The page content may also contain a *Frontmatter Header*.  Pages can contain nested pages.
 
@@ -13,7 +15,7 @@ Grav websites have a directory for each web page.  The directories name is the p
 			- default
 ```
 
-The  StackEditPro `Page Title Extension` will used the folder title whe
+> The  StackEditPro `Page Title Extension` will use the folder title when displaying the web page.
 
 # Usage
 
@@ -38,5 +40,5 @@ The report show what has been added, removed, and modified.
 
 ## Push Your Changes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjk3ODM0NDZdfQ==
+eyJoaXN0b3J5IjpbMTMxNDAwMDc0N119
 -->
