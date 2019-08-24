@@ -2,7 +2,7 @@ Import and synchronize *Grav* websites to and from any workspace folder.
 
 # Overview
 You can import any number of Grav websites into your Grav workspace.
-Each imported site will sync to all of your workspace devices, so you can download the site on one device,
+Each imported site will sync to all of your workspace devices; You can download the site on one device,
 and then edit it from any other device.
 
 # Grav Website Structure
@@ -46,7 +46,8 @@ The report show what has been added, removed, and modified.
 ## Push Your Changes
 Only new and modified files and directories on the StackEditPro workspace will be updated on the Grav server.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1OTg2MDY3MywtMTg0NTI3NTk4NSw4MD
-E5MTc2NTksMTg1MzYyNDEzLC0xNzkxODUzMDcsLTE4NTUyNTI5
-ODYsLTIxNDM5NDI4NDEsMTMxNDAwMDc0N119
+eyJoaXN0b3J5IjpbNjgyMDEyNDY4LC0yNTk4NjA2NzMsLTE4ND
+UyNzU5ODUsODAxOTE3NjU5LDE4NTM2MjQxMywtMTc5MTg1MzA3
+LC0xODU1MjUyOTg2LC0yMTQzOTQyODQxLDEzMTQwMDA3NDddfQ
+==
 -->
