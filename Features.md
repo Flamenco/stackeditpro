@@ -154,46 +154,9 @@ The editor and viewer will both syntax highlight frontmatter.  You optionally co
 See https://jekyllrb.com/docs/front-matter/.
 
 ## Grav Connector
-Import and export *Grav* websites to and from workspace folders.
+Import and export *Grav* websites to and from any workspace folder.
 
-
-### Grav Website Structure
-Grav websites have a directory for each web page.  The directories name is the page name, and it contains a markdown file for the page content.  Thas file uses a name that determines the content template used for rendering the page.  The page content may also contain a *Frontmatter Header*.  Pages can contain nested pages.
-
-```text
-- https://www.foo.com
-	- Page 1
-		- default
-	- Page 2
-		- default
-		- Page 3
-			- default
-		- Page 4
-			- default
-```
-
-### Usage
-
-#### Configure Grav Site
-You will need to install and configure our *StackEditPro Connector* on your Grav site.  The connector is available from Grav's Plugin Repository.
-* Install `Grav CORS plugin`
-	* Enable `GET` and `POST`.
-* Install the `StackEditPro Connector plugin`.
-* Set your access key in the `StackEditPro Connector` settings.
-* Add `header("Access-Control-Allow-Headers: content-type");` to  your Grav installations `index.php`.  There is no Grav plugin (like the CORS plugin) available for this.
-
-#### Download Your Grav Site To StackEditPro Workspace
-* Select the `Get Grav` action.
-* Enter your site URL.
-* You Grav website will be downloaded to a top level folder with the site's host name.
-
-#### Make Changes In Your Workspace
-You can add new folders, subfolders, and template files.  If you need to delete a file or folder, you must do that on the Grav site directly.
-
-#### View A Difference Report
-The report show what has been added, removed, and modified.
-
-#### Push Your Changes
+See [Grav Connector](Grav%20Connector.md).
 
 ## Folder Overview
 We now display a folder overview, shown when a folder is selected in the navigator.
@@ -314,7 +277,7 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MzkyODMxMCw5MjcxMjM3NCwtNTI2ND
+eyJoaXN0b3J5IjpbMTI1MjU2MDQwNSw5MjcxMjM3NCwtNTI2ND
 EyNjI2LDExNDI1ODU3OTIsMTI2Mjg1MzQ2NCwtNTk1NzgwMjAz
 LDE2MjcwMzA1MDksLTEzOTE5OTk4MSwxNDMxODkxOTE1LDIwMj
 k4NjA4NjEsLTcyMzg2Njc4NywtMTQ1MDcwNzUxLC05NzAxODIz
