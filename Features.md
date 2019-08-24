@@ -187,12 +187,13 @@ You will need to install and configure our *StackEditPro Connector* on your Grav
 * Enter your site URL.
 * You Grav website will be downloaded to a top level folder with the site's host name.
 
-#### Make changes in your workspace
+#### Make Changes In Your Workspace
 You can add new folders, subfolders, and template files.  If you need to delete a file or folder, you must do that on the Grav site directly.
 
+#### View A Difference Report
+The report show what has been added, removed, and modified.
 
-#
-#### Push you changes
+#### Push Your Changes
 
 ## Folder Overview
 We now display a folder overview, shown when a folder is selected in the navigator.
@@ -313,11 +314,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDI4NTIxNTQsOTI3MTIzNzQsLTUyNj
-QxMjYyNiwxMTQyNTg1NzkyLDEyNjI4NTM0NjQsLTU5NTc4MDIw
-MywxNjI3MDMwNTA5LC0xMzkxOTk5ODEsMTQzMTg5MTkxNSwyMD
-I5ODYwODYxLC03MjM4NjY3ODcsLTE0NTA3MDc1MSwtOTcwMTgy
-Mzg0LC0xMjM5NzY4MzQ3LDYzMzE2MzUzMiwyNzAxNjczODcsLT
-E2NDM4OTg5NzcsLTE5MDcyOTM3NDcsMjAwODY0MDM1NCwtODY3
-OTE5MzcwXX0=
+eyJoaXN0b3J5IjpbLTc4MzkyODMxMCw5MjcxMjM3NCwtNTI2ND
+EyNjI2LDExNDI1ODU3OTIsMTI2Mjg1MzQ2NCwtNTk1NzgwMjAz
+LDE2MjcwMzA1MDksLTEzOTE5OTk4MSwxNDMxODkxOTE1LDIwMj
+k4NjA4NjEsLTcyMzg2Njc4NywtMTQ1MDcwNzUxLC05NzAxODIz
+ODQsLTEyMzk3NjgzNDcsNjMzMTYzNTMyLDI3MDE2NzM4NywtMT
+Y0Mzg5ODk3NywtMTkwNzI5Mzc0NywyMDA4NjQwMzU0LC04Njc5
+MTkzNzBdfQ==
 -->
