@@ -1,4 +1,4 @@
-Import and export *Grav* websites to and from any workspace folder.
+Import and synchronize *Grav* websites to and from any workspace folder.
 
 # Overview
 You can import any number of Grav websites into your Grav workspace.
@@ -46,7 +46,7 @@ The report show what has been added, removed, and modified.
 ## Push Your Changes
 Only new and modified files and directories on the StackEditPro workspace will be updated on the Grav server.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDUyNzU5ODUsODAxOTE3NjU5LDE4NT
-M2MjQxMywtMTc5MTg1MzA3LC0xODU1MjUyOTg2LC0yMTQzOTQy
-ODQxLDEzMTQwMDA3NDddfQ==
+eyJoaXN0b3J5IjpbLTI1OTg2MDY3MywtMTg0NTI3NTk4NSw4MD
+E5MTc2NTksMTg1MzYyNDEzLC0xNzkxODUzMDcsLTE4NTUyNTI5
+ODYsLTIxNDM5NDI4NDEsMTMxNDAwMDc0N119
 -->
