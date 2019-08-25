@@ -54,12 +54,13 @@ The report show what has been added, removed, and modified.
 Only new and modified files and directories on the StackEditPro workspace will be updated on the Grav server.
 
 # Issues
-* Grav sites must support https.
+* Grav sites must support valid https.  
 # TODO
 * Allow deleting, renaming, and moving pages from StackEditPro.
+* Show server-only files.
 * Add refactoring features.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MzYzMTY2NiwxMDk0NjI3Mjc4LDUyMz
+eyJoaXN0b3J5IjpbLTMxNjcyNTU4MiwxMDk0NjI3Mjc4LDUyMz
 E0MTQ0NywyNjY2MTQwOTYsMzM4ODk4NzA0LC02MTk2NDE5MDQs
 NjgyMDEyNDY4LC0yNTk4NjA2NzMsLTE4NDUyNzU5ODUsODAxOT
 E3NjU5LDE4NTM2MjQxMywtMTc5MTg1MzA3LC0xODU1MjUyOTg2
