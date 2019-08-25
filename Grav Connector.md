@@ -2,8 +2,8 @@ Import and synchronize *Grav* websites to and from any workspace folder.
 
 # Overview
 You can import any number of Grav websites into your Grav workspace.
-Each imported site will sync to all of your workspace devices; You can download the site on one device,
-and then edit it from any other device.
+Each imported site will sync to all of your workspace devices;
+You can download the site on one device and then edit it from any other device synced to that wordp.
 
 # Grav Website Structure
 Grav websites have a directory for each web page.  The directory name is the page name, and it contains a markdown file for the page content.  The markdown file filename determines the content template used for rendering the page, and not the page name.
@@ -55,9 +55,9 @@ Only new and modified files and directories on the StackEditPro workspace will b
 * Allow deleting, renaming, and moving pages from StackEditPro.
 * Add refactoring features.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NDYyNzI3OCw1MjMxNDE0NDcsMjY2Nj
-E0MDk2LDMzODg5ODcwNCwtNjE5NjQxOTA0LDY4MjAxMjQ2OCwt
-MjU5ODYwNjczLC0xODQ1Mjc1OTg1LDgwMTkxNzY1OSwxODUzNj
-I0MTMsLTE3OTE4NTMwNywtMTg1NTI1Mjk4NiwtMjE0Mzk0Mjg0
-MSwxMzE0MDAwNzQ3XX0=
+eyJoaXN0b3J5IjpbMzI5NjY0MjkyLDEwOTQ2MjcyNzgsNTIzMT
+QxNDQ3LDI2NjYxNDA5NiwzMzg4OTg3MDQsLTYxOTY0MTkwNCw2
+ODIwMTI0NjgsLTI1OTg2MDY3MywtMTg0NTI3NTk4NSw4MDE5MT
+c2NTksMTg1MzYyNDEzLC0xNzkxODUzMDcsLTE4NTUyNTI5ODYs
+LTIxNDM5NDI4NDEsMTMxNDAwMDc0N119
 -->
