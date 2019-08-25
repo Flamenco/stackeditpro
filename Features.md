@@ -213,6 +213,9 @@ This procedure is equivalent to:
 > You will be presented with an *Extract Text confirmation dialog* when executing this action.  This dialog allows you to specify the new name if different than the first heading of the selection.
 
 # Fixes
+
+## Scrollable Navigation Bar
+The PageDown buttons are now in a scrollable section of the navigation bar, making them available on narrow-width devices.
 ## IOS
 ### Cut, Copy, Paste, and Select - Fixed On iOS
 In the original StackEdit, you cannot cut, copy, or paste in the Markdown editor while using iOS.  This is a total PITA, and quite frankly, a dealbreaker.  Alas, now It works.
@@ -277,11 +280,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMjA1NTYyNSwxMjUyNTYwNDA1LDkyNz
-EyMzc0LC01MjY0MTI2MjYsMTE0MjU4NTc5MiwxMjYyODUzNDY0
-LC01OTU3ODAyMDMsMTYyNzAzMDUwOSwtMTM5MTk5OTgxLDE0Mz
-E4OTE5MTUsMjAyOTg2MDg2MSwtNzIzODY2Nzg3LC0xNDUwNzA3
-NTEsLTk3MDE4MjM4NCwtMTIzOTc2ODM0Nyw2MzMxNjM1MzIsMj
-cwMTY3Mzg3LC0xNjQzODk4OTc3LC0xOTA3MjkzNzQ3LDIwMDg2
-NDAzNTRdfQ==
+eyJoaXN0b3J5IjpbOTEzMjUxNTMzLDEwMjIwNTU2MjUsMTI1Mj
+U2MDQwNSw5MjcxMjM3NCwtNTI2NDEyNjI2LDExNDI1ODU3OTIs
+MTI2Mjg1MzQ2NCwtNTk1NzgwMjAzLDE2MjcwMzA1MDksLTEzOT
+E5OTk4MSwxNDMxODkxOTE1LDIwMjk4NjA4NjEsLTcyMzg2Njc4
+NywtMTQ1MDcwNzUxLC05NzAxODIzODQsLTEyMzk3NjgzNDcsNj
+MzMTYzNTMyLDI3MDE2NzM4NywtMTY0Mzg5ODk3NywtMTkwNzI5
+Mzc0N119
 -->
