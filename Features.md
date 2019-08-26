@@ -232,10 +232,10 @@ Your name will now be displayed in the *Signed In As* section, and the *"Log int
 ## Synchronization Triggers
 When you enter or exit edit mode, a sync is performed.  This eliminates the need to *merge*, and prevents duplicate information getting appended or removed from documents.
 
-## Synchronization Logging
+## Synchronization Merge Logging
 When a document has changed and is merged, a log item is created.  This item shows the client, server, and merged versions of the content.
 
-This is created
+This is created in a top level document.
 
 ## iOS Momentum Scrolling
 Momentum scrolling has been enabled (fixed) for iOS devices.
@@ -282,11 +282,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMTMyMjc2Myw5MTMyNTE1MzMsMTAyMj
-A1NTYyNSwxMjUyNTYwNDA1LDkyNzEyMzc0LC01MjY0MTI2MjYs
-MTE0MjU4NTc5MiwxMjYyODUzNDY0LC01OTU3ODAyMDMsMTYyNz
-AzMDUwOSwtMTM5MTk5OTgxLDE0MzE4OTE5MTUsMjAyOTg2MDg2
-MSwtNzIzODY2Nzg3LC0xNDUwNzA3NTEsLTk3MDE4MjM4NCwtMT
-IzOTc2ODM0Nyw2MzMxNjM1MzIsMjcwMTY3Mzg3LC0xNjQzODk4
-OTc3XX0=
+eyJoaXN0b3J5IjpbMTQ1MTA2NDMzLDkxMzI1MTUzMywxMDIyMD
+U1NjI1LDEyNTI1NjA0MDUsOTI3MTIzNzQsLTUyNjQxMjYyNiwx
+MTQyNTg1NzkyLDEyNjI4NTM0NjQsLTU5NTc4MDIwMywxNjI3MD
+MwNTA5LC0xMzkxOTk5ODEsMTQzMTg5MTkxNSwyMDI5ODYwODYx
+LC03MjM4NjY3ODcsLTE0NTA3MDc1MSwtOTcwMTgyMzg0LC0xMj
+M5NzY4MzQ3LDYzMzE2MzUzMiwyNzAxNjczODcsLTE2NDM4OTg5
+NzddfQ==
 -->
