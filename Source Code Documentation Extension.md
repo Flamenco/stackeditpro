@@ -86,7 +86,7 @@ You can add documentation to parameters using JSDoc.
 //@doc
 interface Writer {
     /**
-    * @param data The data to write.
+    * @param {data The data to write.
     */
 	write: (data:byte[]) : void
 }
@@ -102,11 +102,11 @@ The documentation can be displayed in a variety of ways by using templates and/o
 The documentation can be pushed into or extracted from the source code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzE0NjQ4MzMsLTE4ODc0MTgxMjksLT
-EwMzQ2Mzg2MjUsLTE4ODc0MTgxMjksMjYxNTY4MzI2LDU3MzQ1
-OTg4OCwtNzM1Mjk1NTI4LDE2NDM5MTI5MjgsMTE2MjA5NzE3OC
-wtMTY0MjI4NjYwNSwxMDQwNDU5NTUzLDE4MjI3NDE4NzQsLTIx
-NDE3NTk0MCwtMTk5MTk1NTc1MiwxMDk5NDQzOTAsMTMwOTU1MT
-gyLDIzNzk2NDk1MSwtOTE5OTAxMzgxLDUwMTI1NDIxNSwtMTA0
-MTI1MDcxNl19
+eyJoaXN0b3J5IjpbMzM4Mzg4OTg0LC0xODg3NDE4MTI5LC0xMD
+M0NjM4NjI1LC0xODg3NDE4MTI5LDI2MTU2ODMyNiw1NzM0NTk4
+ODgsLTczNTI5NTUyOCwxNjQzOTEyOTI4LDExNjIwOTcxNzgsLT
+E2NDIyODY2MDUsMTA0MDQ1OTU1MywxODIyNzQxODc0LC0yMTQx
+NzU5NDAsLTE5OTE5NTU3NTIsMTA5OTQ0MzkwLDEzMDk1NTE4Mi
+wyMzc5NjQ5NTEsLTkxOTkwMTM4MSw1MDEyNTQyMTUsLTEwNDEy
+NTA3MTZdfQ==
 -->
