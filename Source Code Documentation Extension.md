@@ -81,7 +81,7 @@ interface CommentStyles extends Styles {
 }
 ```
 ## JSDoc
-You can add documentation to parameters using JSDoc. 
+You can also add documentation to parameters using JSDoc. 
 ```ts
 //@doc
 interface Writer {
@@ -102,11 +102,11 @@ The documentation can be displayed in a variety of ways by using templates and/o
 The documentation can be pushed into or extracted from the source code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNTE0NjI4MywtMTg4NzQxODEyOSwtMT
-AzNDYzODYyNSwtMTg4NzQxODEyOSwyNjE1NjgzMjYsNTczNDU5
-ODg4LC03MzUyOTU1MjgsMTY0MzkxMjkyOCwxMTYyMDk3MTc4LC
-0xNjQyMjg2NjA1LDEwNDA0NTk1NTMsMTgyMjc0MTg3NCwtMjE0
-MTc1OTQwLC0xOTkxOTU1NzUyLDEwOTk0NDM5MCwxMzA5NTUxOD
-IsMjM3OTY0OTUxLC05MTk5MDEzODEsNTAxMjU0MjE1LC0xMDQx
-MjUwNzE2XX0=
+eyJoaXN0b3J5IjpbLTIwNjczOTU3OTgsLTE4ODc0MTgxMjksLT
+EwMzQ2Mzg2MjUsLTE4ODc0MTgxMjksMjYxNTY4MzI2LDU3MzQ1
+OTg4OCwtNzM1Mjk1NTI4LDE2NDM5MTI5MjgsMTE2MjA5NzE3OC
+wtMTY0MjI4NjYwNSwxMDQwNDU5NTUzLDE4MjI3NDE4NzQsLTIx
+NDE3NTk0MCwtMTk5MTk1NTc1MiwxMDk5NDQzOTAsMTMwOTU1MT
+gyLDIzNzk2NDk1MSwtOTE5OTAxMzgxLDUwMTI1NDIxNSwtMTA0
+MTI1MDcxNl19
 -->
