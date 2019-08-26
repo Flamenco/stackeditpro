@@ -3,6 +3,9 @@ There is an ongoing data corruption when merging data between 3+ clients.  The c
 
 When a merge happens, we add a *Merge Conflict Report* document to your workspace to indicate what was merged and when it happened.  You can then view the history of your document if you need to fix it.  The merge report also includes the pre and post merge versions for your convenience.
 
+# iOS Resize
+The application does not respond to orientation changes well.
+
 # Source Code Documentation Extension
 ~~Parameter descriptions are not implemented for Typescript interface methods.~~
 
@@ -18,11 +21,11 @@ The sharing server does not render mermaid, fences, or other canvas-based extens
 * Scroll to line when selecting search and task links.
 * Complete task from task report.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODMyMDAwMTMsLTE0MTY1MzMxMzMsNj
-U1ODUwNTE1LDEwNDI5Mzc1MjUsMTcyMzcwNDEwMSwyNTk5NzAz
-NDYsLTE4MDAxNzMwOTYsNjU1ODUwNTE1LC01MzE0MDE1ODEsLT
-I0NTg1OTA1LC0xMzI3MzEzMTIyLC0xOTU3OTE4NTc3LDc4Njcz
-MTg4OSw3OTQ1MDI1ODMsMTE2NTgwNzIyMiwxODkzNDE5MjM4LC
-0xODY4Mzg5MTM2LDE1NTY1ODk1NDUsNjE2Mzk0NzI0LC04OTU1
-NjEyOF19
+eyJoaXN0b3J5IjpbMTc1ODM0MzY5NywtMjA4MzIwMDAxMywtMT
+QxNjUzMzEzMyw2NTU4NTA1MTUsMTA0MjkzNzUyNSwxNzIzNzA0
+MTAxLDI1OTk3MDM0NiwtMTgwMDE3MzA5Niw2NTU4NTA1MTUsLT
+UzMTQwMTU4MSwtMjQ1ODU5MDUsLTEzMjczMTMxMjIsLTE5NTc5
+MTg1NzcsNzg2NzMxODg5LDc5NDUwMjU4MywxMTY1ODA3MjIyLD
+E4OTM0MTkyMzgsLTE4NjgzODkxMzYsMTU1NjU4OTU0NSw2MTYz
+OTQ3MjRdfQ==
 -->
