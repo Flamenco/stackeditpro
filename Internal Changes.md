@@ -50,9 +50,11 @@ We removed the Gulp Prism script and replaced it with the Babel Prism Plugin.  W
 ## Allow other input types for FormEntry
 The default forms would only allow input and select elements inside.
 
+## RAllow duplicate and negative priorities
+
 ## Ecosystem And Culture
 We get things done here.  Quickly and without ego.  We encourage feature and bug requests. We will not leave issues without responses for weeks, months, or years as seen in other projects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MDkwMTMzMywtMTM0NDAyMzgzOSwxNz
+eyJoaXN0b3J5IjpbMTI3ODk3MzgxOSwtMTM0NDAyMzgzOSwxNz
 MxMDc3NCwtMjM3MzkxNDU3LDc5MzEwODM4OV19
 -->
