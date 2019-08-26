@@ -3,7 +3,7 @@ There is an ongoing data corruption when merging data between 3+ clients.  The c
 
 When a merge happens, we add a *Merge Conflict Report* document to your workspace to indicate what was merged and when it happened.  You can then view the history of your document if you need to fix it.  The merge report also includes the pre and post merge versions for your convenience.
 
-In o
+In our experience, most situations that require a merge really needed the server version.  An the default merge operation resulted in a corrupt document.  We decided that when 
 # iOS Resize
 The application does not respond to orientation changes well.
 
@@ -22,11 +22,11 @@ The sharing server does not render mermaid, fences, or other canvas-based extens
 * Scroll to line when selecting search and task links.
 * Complete task from task report.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkwMjc3NTUsMTc1ODM0MzY5NywtMjA4Mz
-IwMDAxMywtMTQxNjUzMzEzMyw2NTU4NTA1MTUsMTA0MjkzNzUy
-NSwxNzIzNzA0MTAxLDI1OTk3MDM0NiwtMTgwMDE3MzA5Niw2NT
-U4NTA1MTUsLTUzMTQwMTU4MSwtMjQ1ODU5MDUsLTEzMjczMTMx
-MjIsLTE5NTc5MTg1NzcsNzg2NzMxODg5LDc5NDUwMjU4MywxMT
-Y1ODA3MjIyLDE4OTM0MTkyMzgsLTE4NjgzODkxMzYsMTU1NjU4
-OTU0NV19
+eyJoaXN0b3J5IjpbMzI0MzMyMTQ2LDE3NTgzNDM2OTcsLTIwOD
+MyMDAwMTMsLTE0MTY1MzMxMzMsNjU1ODUwNTE1LDEwNDI5Mzc1
+MjUsMTcyMzcwNDEwMSwyNTk5NzAzNDYsLTE4MDAxNzMwOTYsNj
+U1ODUwNTE1LC01MzE0MDE1ODEsLTI0NTg1OTA1LC0xMzI3MzEz
+MTIyLC0xOTU3OTE4NTc3LDc4NjczMTg4OSw3OTQ1MDI1ODMsMT
+E2NTgwNzIyMiwxODkzNDE5MjM4LC0xODY4Mzg5MTM2LDE1NTY1
+ODk1NDVdfQ==
 -->
