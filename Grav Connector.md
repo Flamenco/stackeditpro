@@ -43,7 +43,7 @@ You will need to install and configure our *StackEditPro Connector* on your Grav
 
 ## Download Your Grav Site To StackEditPro Workspace
 * Select the `Get Grav` action.
-* Enter your site URL.
+* Enter your site URLs.  You should prefex each url with your access key
 * You Grav website will be downloaded to a top level folder with the site's host name.
 
 ## Make Changes In Your Workspace
@@ -62,10 +62,10 @@ Only new and modified files and directories on the StackEditPro workspace will b
 * Show server-only files.
 * Add refactoring features.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI4MjYzNDc3LC0xNzgyMjA0MDE0LC0zMT
-Y3MjU1ODIsMTA5NDYyNzI3OCw1MjMxNDE0NDcsMjY2NjE0MDk2
-LDMzODg5ODcwNCwtNjE5NjQxOTA0LDY4MjAxMjQ2OCwtMjU5OD
-YwNjczLC0xODQ1Mjc1OTg1LDgwMTkxNzY1OSwxODUzNjI0MTMs
-LTE3OTE4NTMwNywtMTg1NTI1Mjk4NiwtMjE0Mzk0Mjg0MSwxMz
-E0MDAwNzQ3XX0=
+eyJoaXN0b3J5IjpbOTE4ODE1NjM2LDUyODI2MzQ3NywtMTc4Mj
+IwNDAxNCwtMzE2NzI1NTgyLDEwOTQ2MjcyNzgsNTIzMTQxNDQ3
+LDI2NjYxNDA5NiwzMzg4OTg3MDQsLTYxOTY0MTkwNCw2ODIwMT
+I0NjgsLTI1OTg2MDY3MywtMTg0NTI3NTk4NSw4MDE5MTc2NTks
+MTg1MzYyNDEzLC0xNzkxODUzMDcsLTE4NTUyNTI5ODYsLTIxND
+M5NDI4NDEsMTMxNDAwMDc0N119
 -->
