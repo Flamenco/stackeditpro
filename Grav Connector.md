@@ -7,6 +7,8 @@ You can download the site on one device and then edit it from any other device s
 
 When you are done editing, push your changes back to Grav from any device.
 
+If you modify your content directly on Grav, you should delete the folder on StackEditPro and re-download it.
+
 # Grav Website Structure
 Grav websites have a directory for each web page.  The directory name is the page name, and it contains a markdown file for the page content.  The markdown file filename determines the content template used for rendering the page, and not the page name.
 
@@ -60,10 +62,10 @@ Only new and modified files and directories on the StackEditPro workspace will b
 * Show server-only files.
 * Add refactoring features.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODIyMDQwMTQsLTMxNjcyNTU4MiwxMD
-k0NjI3Mjc4LDUyMzE0MTQ0NywyNjY2MTQwOTYsMzM4ODk4NzA0
-LC02MTk2NDE5MDQsNjgyMDEyNDY4LC0yNTk4NjA2NzMsLTE4ND
-UyNzU5ODUsODAxOTE3NjU5LDE4NTM2MjQxMywtMTc5MTg1MzA3
-LC0xODU1MjUyOTg2LC0yMTQzOTQyODQxLDEzMTQwMDA3NDddfQ
-==
+eyJoaXN0b3J5IjpbNTI4MjYzNDc3LC0xNzgyMjA0MDE0LC0zMT
+Y3MjU1ODIsMTA5NDYyNzI3OCw1MjMxNDE0NDcsMjY2NjE0MDk2
+LDMzODg5ODcwNCwtNjE5NjQxOTA0LDY4MjAxMjQ2OCwtMjU5OD
+YwNjczLC0xODQ1Mjc1OTg1LDgwMTkxNzY1OSwxODUzNjI0MTMs
+LTE3OTE4NTMwNywtMTg1NTI1Mjk4NiwtMjE0Mzk0Mjg0MSwxMz
+E0MDAwNzQ3XX0=
 -->
