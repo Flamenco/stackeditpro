@@ -42,9 +42,9 @@ You will need to install and configure our *StackEditPro Connector* on your Grav
 * ~~Add `header("Access-Control-Allow-Headers: content-type");` to  your Grav installations `index.php`.  There is no Grav plugin (like the CORS plugin) available for this.~~
 
 ## Download Your Grav Site To StackEditPro Workspace
-* Select the `Get Grav` action.
-* Enter your site URLs.  You should prefex each url with your access key
-* You Grav website will be downloaded to a top level folder with the site's host name.
+* Select the `Get Grav...` action.
+* Enter your site URLs.  You should prefix each url with your access key. `secret@https://mysite.com`
+* You Grav website will be downloaded to a top level folder with the folder name set to your Grav site's host name.
 
 ## Make Changes In Your Workspace
 You can add new folders, subfolders, and template files to StackEditPro.  If you need to delete, move, or rename a file or folder, you must do that on the Grav site directly.
@@ -62,10 +62,10 @@ Only new and modified files and directories on the StackEditPro workspace will b
 * Show server-only files.
 * Add refactoring features.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE4ODE1NjM2LDUyODI2MzQ3NywtMTc4Mj
-IwNDAxNCwtMzE2NzI1NTgyLDEwOTQ2MjcyNzgsNTIzMTQxNDQ3
-LDI2NjYxNDA5NiwzMzg4OTg3MDQsLTYxOTY0MTkwNCw2ODIwMT
-I0NjgsLTI1OTg2MDY3MywtMTg0NTI3NTk4NSw4MDE5MTc2NTks
-MTg1MzYyNDEzLC0xNzkxODUzMDcsLTE4NTUyNTI5ODYsLTIxND
-M5NDI4NDEsMTMxNDAwMDc0N119
+eyJoaXN0b3J5IjpbMTkyMzA0NTU2NCw1MjgyNjM0NzcsLTE3OD
+IyMDQwMTQsLTMxNjcyNTU4MiwxMDk0NjI3Mjc4LDUyMzE0MTQ0
+NywyNjY2MTQwOTYsMzM4ODk4NzA0LC02MTk2NDE5MDQsNjgyMD
+EyNDY4LC0yNTk4NjA2NzMsLTE4NDUyNzU5ODUsODAxOTE3NjU5
+LDE4NTM2MjQxMywtMTc5MTg1MzA3LC0xODU1MjUyOTg2LC0yMT
+QzOTQyODQxLDEzMTQwMDA3NDddfQ==
 -->
