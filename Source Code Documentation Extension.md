@@ -5,7 +5,7 @@ Document source code outside of your codebase and render it as beautiful HTML.
 # Usage
 
 To trigger the *Source Code Documentation Extension*, do one of the following:
-* Create a `yml` code fence having the first line an string item named `sig:`.
+* Create a `yml` code fence having the first line a string item named `sig:`.
 * Create a `ts` code fence having the first item a comment of `//@doc`.
 
 # Examples
@@ -55,6 +55,7 @@ interface Foo {
 ```
 
 # Descriptions
+## C
 You can add descriptions to your Typescript interfaces by using comments.
 Several comment styles are supported, including  `single`, `consecutive`, `inline`, and `multiline`.
 
@@ -91,11 +92,11 @@ The documentation can be displayed in a variety of ways by using templates and/o
 The documentation can be pushed into or extracted from the source code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODc0MTgxMjksLTEwMzQ2Mzg2MjUsLT
-E4ODc0MTgxMjksMjYxNTY4MzI2LDU3MzQ1OTg4OCwtNzM1Mjk1
-NTI4LDE2NDM5MTI5MjgsMTE2MjA5NzE3OCwtMTY0MjI4NjYwNS
-wxMDQwNDU5NTUzLDE4MjI3NDE4NzQsLTIxNDE3NTk0MCwtMTk5
-MTk1NTc1MiwxMDk5NDQzOTAsMTMwOTU1MTgyLDIzNzk2NDk1MS
-wtOTE5OTAxMzgxLDUwMTI1NDIxNSwtMTA0MTI1MDcxNiwtMTIy
-ODczOTg4N119
+eyJoaXN0b3J5IjpbOTg0ODc4MTQ4LC0xODg3NDE4MTI5LC0xMD
+M0NjM4NjI1LC0xODg3NDE4MTI5LDI2MTU2ODMyNiw1NzM0NTk4
+ODgsLTczNTI5NTUyOCwxNjQzOTEyOTI4LDExNjIwOTcxNzgsLT
+E2NDIyODY2MDUsMTA0MDQ1OTU1MywxODIyNzQxODc0LC0yMTQx
+NzU5NDAsLTE5OTE5NTU3NTIsMTA5OTQ0MzkwLDEzMDk1NTE4Mi
+wyMzc5NjQ5NTEsLTkxOTkwMTM4MSw1MDEyNTQyMTUsLTEwNDEy
+NTA3MTZdfQ==
 -->
