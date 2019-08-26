@@ -235,6 +235,8 @@ When you enter or exit edit mode, a sync is performed.  This eliminates the need
 ## Synchronization Logging
 When a document has changed and is merged, a log item is created.  This item shows the client, server, and merged versions of the content.
 
+This is created
+
 ## iOS Momentum Scrolling
 Momentum scrolling has been enabled (fixed) for iOS devices.
 
@@ -280,7 +282,7 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MTE4OTc1NSw5MTMyNTE1MzMsMTAyMj
+eyJoaXN0b3J5IjpbLTIyMTMyMjc2Myw5MTMyNTE1MzMsMTAyMj
 A1NTYyNSwxMjUyNTYwNDA1LDkyNzEyMzc0LC01MjY0MTI2MjYs
 MTE0MjU4NTc5MiwxMjYyODUzNDY0LC01OTU3ODAyMDMsMTYyNz
 AzMDUwOSwtMTM5MTk5OTgxLDE0MzE4OTE5MTUsMjAyOTg2MDg2
