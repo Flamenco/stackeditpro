@@ -55,7 +55,7 @@ interface Foo {
 ```
 
 # Descriptions
-## C
+## Comments
 You can add descriptions to your Typescript interfaces by using comments.
 Several comment styles are supported, including  `single`, `consecutive`, `inline`, and `multiline`.
 
@@ -80,7 +80,15 @@ interface CommentStyles extends Styles {
   multiline: string
 }
 ```
+## JSDoc
+You can add documentation to parameters using JSDoc. 
+```ts
+/
+/**
+* 
+**/
 
+```
 # Themes
 There are currently 2 themes implemented, *light* (the default) and *dark*.
 
@@ -92,11 +100,11 @@ The documentation can be displayed in a variety of ways by using templates and/o
 The documentation can be pushed into or extracted from the source code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg0ODc4MTQ4LC0xODg3NDE4MTI5LC0xMD
-M0NjM4NjI1LC0xODg3NDE4MTI5LDI2MTU2ODMyNiw1NzM0NTk4
-ODgsLTczNTI5NTUyOCwxNjQzOTEyOTI4LDExNjIwOTcxNzgsLT
-E2NDIyODY2MDUsMTA0MDQ1OTU1MywxODIyNzQxODc0LC0yMTQx
-NzU5NDAsLTE5OTE5NTU3NTIsMTA5OTQ0MzkwLDEzMDk1NTE4Mi
-wyMzc5NjQ5NTEsLTkxOTkwMTM4MSw1MDEyNTQyMTUsLTEwNDEy
-NTA3MTZdfQ==
+eyJoaXN0b3J5IjpbMTEyODUwNzc0MiwtMTg4NzQxODEyOSwtMT
+AzNDYzODYyNSwtMTg4NzQxODEyOSwyNjE1NjgzMjYsNTczNDU5
+ODg4LC03MzUyOTU1MjgsMTY0MzkxMjkyOCwxMTYyMDk3MTc4LC
+0xNjQyMjg2NjA1LDEwNDA0NTk1NTMsMTgyMjc0MTg3NCwtMjE0
+MTc1OTQwLC0xOTkxOTU1NzUyLDEwOTk0NDM5MCwxMzA5NTUxOD
+IsMjM3OTY0OTUxLC05MTk5MDEzODEsNTAxMjU0MjE1LC0xMDQx
+MjUwNzE2XX0=
 -->
