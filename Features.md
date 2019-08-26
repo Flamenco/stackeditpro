@@ -216,7 +216,7 @@ This procedure is equivalent to:
 
 ## Scrollable Navigation Bar
 The navigation and formatting buttons are now in a scrollable section of the navigation bar, making them available on narrow-width devices.
-## IOS
+## IOS Fixes
 ### Cut, Copy, Paste, and Select - Fixed On iOS
 In the original StackEdit, you cannot cut, copy, or paste in the Markdown editor while using iOS.  This is a total PITA, and quite frankly, a dealbreaker.  Alas, now It works.
 
@@ -280,11 +280,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTMyMzg2MjYsOTEzMjUxNTMzLDEwMj
-IwNTU2MjUsMTI1MjU2MDQwNSw5MjcxMjM3NCwtNTI2NDEyNjI2
-LDExNDI1ODU3OTIsMTI2Mjg1MzQ2NCwtNTk1NzgwMjAzLDE2Mj
-cwMzA1MDksLTEzOTE5OTk4MSwxNDMxODkxOTE1LDIwMjk4NjA4
-NjEsLTcyMzg2Njc4NywtMTQ1MDcwNzUxLC05NzAxODIzODQsLT
-EyMzk3NjgzNDcsNjMzMTYzNTMyLDI3MDE2NzM4NywtMTY0Mzg5
-ODk3N119
+eyJoaXN0b3J5IjpbMTU4MTE4OTc1NSw5MTMyNTE1MzMsMTAyMj
+A1NTYyNSwxMjUyNTYwNDA1LDkyNzEyMzc0LC01MjY0MTI2MjYs
+MTE0MjU4NTc5MiwxMjYyODUzNDY0LC01OTU3ODAyMDMsMTYyNz
+AzMDUwOSwtMTM5MTk5OTgxLDE0MzE4OTE5MTUsMjAyOTg2MDg2
+MSwtNzIzODY2Nzg3LC0xNDUwNzA3NTEsLTk3MDE4MjM4NCwtMT
+IzOTc2ODM0Nyw2MzMxNjM1MzIsMjcwMTY3Mzg3LC0xNjQzODk4
+OTc3XX0=
 -->
