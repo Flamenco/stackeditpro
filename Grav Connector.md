@@ -28,7 +28,7 @@ Pages can contain nested pages.
 			- fancy
 ```
 
-> The  StackEditPro `Page Title Extension` will use the folder title,  not the template name, when displaying the page preview.
+> The  StackEditPro `Page Title Extension` will use the folder title,  not the template name, when displaying a page preview.
 
 # Usage
 
@@ -62,11 +62,11 @@ Only new and modified files and directories on the StackEditPro workspace will b
 * Show server-only files.
 * Add refactoring features.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODAzNTk4MTMsMTY3ODY4NDc4OCwtMT
-k1ODA4ODMxNCwtMTg3MDc1MTc0MCwtMTM1OTc5MjQyMiwxMzcy
-MzMyOTA4LDE5MjMwNDU1NjQsNTI4MjYzNDc3LC0xNzgyMjA0MD
-E0LC0zMTY3MjU1ODIsMTA5NDYyNzI3OCw1MjMxNDE0NDcsMjY2
-NjE0MDk2LDMzODg5ODcwNCwtNjE5NjQxOTA0LDY4MjAxMjQ2OC
-wtMjU5ODYwNjczLC0xODQ1Mjc1OTg1LDgwMTkxNzY1OSwxODUz
-NjI0MTNdfQ==
+eyJoaXN0b3J5IjpbMTA0NDMyNzU5NSwtMTI4MDM1OTgxMywxNj
+c4Njg0Nzg4LC0xOTU4MDg4MzE0LC0xODcwNzUxNzQwLC0xMzU5
+NzkyNDIyLDEzNzIzMzI5MDgsMTkyMzA0NTU2NCw1MjgyNjM0Nz
+csLTE3ODIyMDQwMTQsLTMxNjcyNTU4MiwxMDk0NjI3Mjc4LDUy
+MzE0MTQ0NywyNjY2MTQwOTYsMzM4ODk4NzA0LC02MTk2NDE5MD
+QsNjgyMDEyNDY4LC0yNTk4NjA2NzMsLTE4NDUyNzU5ODUsODAx
+OTE3NjU5XX0=
 -->
