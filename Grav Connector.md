@@ -39,7 +39,7 @@ You will need to install and configure our *StackEditPro Connector* on your Grav
 * Configure the `Grav CORS plugin` (This is installed as a dependency when installing the StackEditPro Connector plugin).
 	* Enable *allow-method* for at least `GET` and `POST`.
 	* Enable *allow-header* for at least `content-type`and `x-stackeditpro-api-key`.
-	* Enable *Manage Preflight Requests*
+	* Enable *Manage Preflight Requests*.
 
 ## Download Your Grav Site To StackEditPro Workspace
 * Select the `Get Grav...` action.
@@ -62,11 +62,11 @@ Only new and modified files and directories on the StackEditPro workspace will b
 * Show server-only files.
 * Add refactoring features.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NDMyNzU5NSwtMTI4MDM1OTgxMywxNj
-c4Njg0Nzg4LC0xOTU4MDg4MzE0LC0xODcwNzUxNzQwLC0xMzU5
-NzkyNDIyLDEzNzIzMzI5MDgsMTkyMzA0NTU2NCw1MjgyNjM0Nz
-csLTE3ODIyMDQwMTQsLTMxNjcyNTU4MiwxMDk0NjI3Mjc4LDUy
-MzE0MTQ0NywyNjY2MTQwOTYsMzM4ODk4NzA0LC02MTk2NDE5MD
-QsNjgyMDEyNDY4LC0yNTk4NjA2NzMsLTE4NDUyNzU5ODUsODAx
-OTE3NjU5XX0=
+eyJoaXN0b3J5IjpbLTQxMjAyMTA5MSwxMDQ0MzI3NTk1LC0xMj
+gwMzU5ODEzLDE2Nzg2ODQ3ODgsLTE5NTgwODgzMTQsLTE4NzA3
+NTE3NDAsLTEzNTk3OTI0MjIsMTM3MjMzMjkwOCwxOTIzMDQ1NT
+Y0LDUyODI2MzQ3NywtMTc4MjIwNDAxNCwtMzE2NzI1NTgyLDEw
+OTQ2MjcyNzgsNTIzMTQxNDQ3LDI2NjYxNDA5NiwzMzg4OTg3MD
+QsLTYxOTY0MTkwNCw2ODIwMTI0NjgsLTI1OTg2MDY3MywtMTg0
+NTI3NTk4NV19
 -->
