@@ -44,7 +44,7 @@ You will need to install and configure our *StackEditPro Connector* on your Grav
 ## Download Your Grav Site To StackEditPro Workspace
 * Select the `Get Grav...` action.
 * Enter your site URLs.  You must prefix each URL with your access key: `secret@https://mysite.com`
-* You Grav website will be downloaded to a top level folder with the folder name set to your Grav site's host name.
+* Your Grav website will be downloaded to a *top level folder* with the folder name set to your Grav site's host name.
 
 ## Make Changes In Your Workspace
 You can add new folders, subfolders, and template files to StackEditPro.  If you need to delete, move, or rename a file or folder, you must do that on the Grav site directly.
@@ -62,11 +62,11 @@ Only new and modified files and directories on the StackEditPro workspace will b
 * Show server-only files.
 * Add refactoring features.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NzMzOTMwMSwtNDEyMDIxMDkxLDEwND
-QzMjc1OTUsLTEyODAzNTk4MTMsMTY3ODY4NDc4OCwtMTk1ODA4
-ODMxNCwtMTg3MDc1MTc0MCwtMTM1OTc5MjQyMiwxMzcyMzMyOT
-A4LDE5MjMwNDU1NjQsNTI4MjYzNDc3LC0xNzgyMjA0MDE0LC0z
-MTY3MjU1ODIsMTA5NDYyNzI3OCw1MjMxNDE0NDcsMjY2NjE0MD
-k2LDMzODg5ODcwNCwtNjE5NjQxOTA0LDY4MjAxMjQ2OCwtMjU5
-ODYwNjczXX0=
+eyJoaXN0b3J5IjpbMTgxNTA1OTExLC04NzczMzkzMDEsLTQxMj
+AyMTA5MSwxMDQ0MzI3NTk1LC0xMjgwMzU5ODEzLDE2Nzg2ODQ3
+ODgsLTE5NTgwODgzMTQsLTE4NzA3NTE3NDAsLTEzNTk3OTI0Mj
+IsMTM3MjMzMjkwOCwxOTIzMDQ1NTY0LDUyODI2MzQ3NywtMTc4
+MjIwNDAxNCwtMzE2NzI1NTgyLDEwOTQ2MjcyNzgsNTIzMTQxND
+Q3LDI2NjYxNDA5NiwzMzg4OTg3MDQsLTYxOTY0MTkwNCw2ODIw
+MTI0NjhdfQ==
 -->
