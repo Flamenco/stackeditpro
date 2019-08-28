@@ -53,20 +53,20 @@ You can add new folders, subfolders, and markdown template files to StackEditPro
 The report show what has been added, removed, and modified.
 
 ## Push Your Changes
-Only new and modified files and directories on the StackEditPro workspace will be updated on the Grav server.
+Only new and modified files and directories on the StackEditPro workspace will be updated on the Grav server.  This is a one-way sync that modifies, but never removes server data.
 
 # Issues
-* Grav sites must support valid https.  
+* For security reasons, Grav sites must support valid https.  You may run in
 # TODO
 * Allow deleting, renaming, and moving pages from StackEditPro.
 * Show server-only files.
 * Add refactoring features.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDM2MjM5NTAsMTgxNTA1OTExLC04Nz
-czMzkzMDEsLTQxMjAyMTA5MSwxMDQ0MzI3NTk1LC0xMjgwMzU5
-ODEzLDE2Nzg2ODQ3ODgsLTE5NTgwODgzMTQsLTE4NzA3NTE3ND
-AsLTEzNTk3OTI0MjIsMTM3MjMzMjkwOCwxOTIzMDQ1NTY0LDUy
-ODI2MzQ3NywtMTc4MjIwNDAxNCwtMzE2NzI1NTgyLDEwOTQ2Mj
-cyNzgsNTIzMTQxNDQ3LDI2NjYxNDA5NiwzMzg4OTg3MDQsLTYx
-OTY0MTkwNF19
+eyJoaXN0b3J5IjpbODg5NzU0NDI0LC0yMTQzNjIzOTUwLDE4MT
+UwNTkxMSwtODc3MzM5MzAxLC00MTIwMjEwOTEsMTA0NDMyNzU5
+NSwtMTI4MDM1OTgxMywxNjc4Njg0Nzg4LC0xOTU4MDg4MzE0LC
+0xODcwNzUxNzQwLC0xMzU5NzkyNDIyLDEzNzIzMzI5MDgsMTky
+MzA0NTU2NCw1MjgyNjM0NzcsLTE3ODIyMDQwMTQsLTMxNjcyNT
+U4MiwxMDk0NjI3Mjc4LDUyMzE0MTQ0NywyNjY2MTQwOTYsMzM4
+ODk4NzA0XX0=
 -->
