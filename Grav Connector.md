@@ -56,13 +56,14 @@ The report show what has been added, removed, and modified.
 Only new and modified files and directories on the StackEditPro workspace will be updated on the Grav server.  This is a one-way sync that modifies, but never removes server data.
 
 # Issues
-* For security reasons, Grav sites must support valid https.  You may run in
+* For security reasons, Grav sites must support valid https.  You may run into browser issues if connecting to an http site from the the StackEditPro https site.
+
 # TODO
 * Allow deleting, renaming, and moving pages from StackEditPro.
 * Show server-only files.
 * Add refactoring features.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg5NzU0NDI0LC0yMTQzNjIzOTUwLDE4MT
+eyJoaXN0b3J5IjpbMjY5MzQ5ODQwLC0yMTQzNjIzOTUwLDE4MT
 UwNTkxMSwtODc3MzM5MzAxLC00MTIwMjEwOTEsMTA0NDMyNzU5
 NSwtMTI4MDM1OTgxMywxNjc4Njg0Nzg4LC0xOTU4MDg4MzE0LC
 0xODcwNzUxNzQwLC0xMzU5NzkyNDIyLDEzNzIzMzI5MDgsMTky
