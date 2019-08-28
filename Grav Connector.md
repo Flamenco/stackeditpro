@@ -47,7 +47,7 @@ You will need to install and configure our *StackEditPro Connector* on your Grav
 * Your Grav website will be downloaded to a *top level folder* with the folder name set to your Grav site's host name.
 
 ## Make Changes In Your Workspace
-You can add new folders, subfolders, and template files to StackEditPro.  If you need to delete, move, or rename a file or folder, you must do that on the Grav site directly.
+You can add new folders, subfolders, and markdown template files to StackEditPro, but you must follow Grav's naming convention.  If you need to delete, move, or rename a file or folder, it must be done on the Grav site directly.
 
 ## View A Difference Report
 The report show what has been added, removed, and modified.
@@ -62,11 +62,11 @@ Only new and modified files and directories on the StackEditPro workspace will b
 * Show server-only files.
 * Add refactoring features.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNTA1OTExLC04NzczMzkzMDEsLTQxMj
-AyMTA5MSwxMDQ0MzI3NTk1LC0xMjgwMzU5ODEzLDE2Nzg2ODQ3
-ODgsLTE5NTgwODgzMTQsLTE4NzA3NTE3NDAsLTEzNTk3OTI0Mj
-IsMTM3MjMzMjkwOCwxOTIzMDQ1NTY0LDUyODI2MzQ3NywtMTc4
-MjIwNDAxNCwtMzE2NzI1NTgyLDEwOTQ2MjcyNzgsNTIzMTQxND
-Q3LDI2NjYxNDA5NiwzMzg4OTg3MDQsLTYxOTY0MTkwNCw2ODIw
-MTI0NjhdfQ==
+eyJoaXN0b3J5IjpbLTIxNDM2MjM5NTAsMTgxNTA1OTExLC04Nz
+czMzkzMDEsLTQxMjAyMTA5MSwxMDQ0MzI3NTk1LC0xMjgwMzU5
+ODEzLDE2Nzg2ODQ3ODgsLTE5NTgwODgzMTQsLTE4NzA3NTE3ND
+AsLTEzNTk3OTI0MjIsMTM3MjMzMjkwOCwxOTIzMDQ1NTY0LDUy
+ODI2MzQ3NywtMTc4MjIwNDAxNCwtMzE2NzI1NTgyLDEwOTQ2Mj
+cyNzgsNTIzMTQxNDQ3LDI2NjYxNDA5NiwzMzg4OTg3MDQsLTYx
+OTY0MTkwNF19
 -->
