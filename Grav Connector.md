@@ -37,8 +37,9 @@ You will need to install and configure our *StackEditPro Connector* on your Grav
 * Install the `StackEditPro Connector plugin`.
 	* Set an access key in the `StackEditPro Connector` settings.
 * Configure `CORS plugin` (This is installed by default when installing StackEditPro Connector plugin).
-	* Enable *allow-method* `GET` and `POST`.
-	* Enable *allow-header* for `content-type`and `x-stackeditpro-api-key`.
+	* Enable *allow-method* for at least `GET` and `POST`.
+	* Enable *allow-header* for at least `content-type`and `x-stackeditpro-api-key`.
+	* Enable *Manage Preflight Requests*
 
 ## Download Your Grav Site To StackEditPro Workspace
 * Select the `Get Grav...` action.
@@ -61,10 +62,11 @@ Only new and modified files and directories on the StackEditPro workspace will b
 * Show server-only files.
 * Add refactoring features.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MjMzMjkwOCwxOTIzMDQ1NTY0LDUyOD
-I2MzQ3NywtMTc4MjIwNDAxNCwtMzE2NzI1NTgyLDEwOTQ2Mjcy
-NzgsNTIzMTQxNDQ3LDI2NjYxNDA5NiwzMzg4OTg3MDQsLTYxOT
-Y0MTkwNCw2ODIwMTI0NjgsLTI1OTg2MDY3MywtMTg0NTI3NTk4
-NSw4MDE5MTc2NTksMTg1MzYyNDEzLC0xNzkxODUzMDcsLTE4NT
-UyNTI5ODYsLTIxNDM5NDI4NDEsMTMxNDAwMDc0N119
+eyJoaXN0b3J5IjpbLTEzNTk3OTI0MjIsMTM3MjMzMjkwOCwxOT
+IzMDQ1NTY0LDUyODI2MzQ3NywtMTc4MjIwNDAxNCwtMzE2NzI1
+NTgyLDEwOTQ2MjcyNzgsNTIzMTQxNDQ3LDI2NjYxNDA5NiwzMz
+g4OTg3MDQsLTYxOTY0MTkwNCw2ODIwMTI0NjgsLTI1OTg2MDY3
+MywtMTg0NTI3NTk4NSw4MDE5MTc2NTksMTg1MzYyNDEzLC0xNz
+kxODUzMDcsLTE4NTUyNTI5ODYsLTIxNDM5NDI4NDEsMTMxNDAw
+MDc0N119
 -->
