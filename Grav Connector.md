@@ -10,7 +10,7 @@ When you are done editing, push some are all of your changes back to Grav from a
 If you modify your content directly on Grav, you will need to delete the folder on StackEditPro and re-download it.
 
 # Grav Website Structure
-Grav websites have a directory for each web page.  The directory name is the page name, and it contains a markdown file for the page content.  The markdown file filename determines the content template used for rendering the page, and not the page name.
+Grav websites have a directory for each web page.  The directory name is the folder or page name; It contains a markdown file containing the page content.  The markdown file's name determines the *content template* used for rendering the page, and *not the page title*.
 
 The page content may also contain a *Frontmatter Header*.
 
@@ -62,11 +62,11 @@ Only new and modified files and directories on the StackEditPro workspace will b
 * Show server-only files.
 * Add refactoring features.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3ODY4NDc4OCwtMTk1ODA4ODMxNCwtMT
-g3MDc1MTc0MCwtMTM1OTc5MjQyMiwxMzcyMzMyOTA4LDE5MjMw
-NDU1NjQsNTI4MjYzNDc3LC0xNzgyMjA0MDE0LC0zMTY3MjU1OD
-IsMTA5NDYyNzI3OCw1MjMxNDE0NDcsMjY2NjE0MDk2LDMzODg5
-ODcwNCwtNjE5NjQxOTA0LDY4MjAxMjQ2OCwtMjU5ODYwNjczLC
-0xODQ1Mjc1OTg1LDgwMTkxNzY1OSwxODUzNjI0MTMsLTE3OTE4
-NTMwN119
+eyJoaXN0b3J5IjpbLTEyODAzNTk4MTMsMTY3ODY4NDc4OCwtMT
+k1ODA4ODMxNCwtMTg3MDc1MTc0MCwtMTM1OTc5MjQyMiwxMzcy
+MzMyOTA4LDE5MjMwNDU1NjQsNTI4MjYzNDc3LC0xNzgyMjA0MD
+E0LC0zMTY3MjU1ODIsMTA5NDYyNzI3OCw1MjMxNDE0NDcsMjY2
+NjE0MDk2LDMzODg5ODcwNCwtNjE5NjQxOTA0LDY4MjAxMjQ2OC
+wtMjU5ODYwNjczLC0xODQ1Mjc1OTg1LDgwMTkxNzY1OSwxODUz
+NjI0MTNdfQ==
 -->
