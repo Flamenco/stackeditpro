@@ -55,6 +55,14 @@ The report show what has been added, removed, and modified.
 ## Push Your Changes
 Only new and modified files and directories on the StackEditPro workspace will be updated on the Grav server.  This is a one-way sync that modifies, but never removes server data.
 
+# Actions
+* Goto Grav Site
+* Goto Grav Admin Site
+* Get Grav
+* Save Changes To Grav
+* Save Current Page To Grav
+* Compare Current Page With Grav
+* Show Grav Changes
 # Issues
 * For security reasons, Grav sites must support valid https.  You may run into browser issues if connecting to an http site from the the StackEditPro https site.
 
@@ -63,11 +71,11 @@ Only new and modified files and directories on the StackEditPro workspace will b
 * Show server-only files.
 * Add refactoring features.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY5MzQ5ODQwLC0yMTQzNjIzOTUwLDE4MT
-UwNTkxMSwtODc3MzM5MzAxLC00MTIwMjEwOTEsMTA0NDMyNzU5
-NSwtMTI4MDM1OTgxMywxNjc4Njg0Nzg4LC0xOTU4MDg4MzE0LC
-0xODcwNzUxNzQwLC0xMzU5NzkyNDIyLDEzNzIzMzI5MDgsMTky
-MzA0NTU2NCw1MjgyNjM0NzcsLTE3ODIyMDQwMTQsLTMxNjcyNT
-U4MiwxMDk0NjI3Mjc4LDUyMzE0MTQ0NywyNjY2MTQwOTYsMzM4
-ODk4NzA0XX0=
+eyJoaXN0b3J5IjpbLTExNjU2ODE3NjEsMjY5MzQ5ODQwLC0yMT
+QzNjIzOTUwLDE4MTUwNTkxMSwtODc3MzM5MzAxLC00MTIwMjEw
+OTEsMTA0NDMyNzU5NSwtMTI4MDM1OTgxMywxNjc4Njg0Nzg4LC
+0xOTU4MDg4MzE0LC0xODcwNzUxNzQwLC0xMzU5NzkyNDIyLDEz
+NzIzMzI5MDgsMTkyMzA0NTU2NCw1MjgyNjM0NzcsLTE3ODIyMD
+QwMTQsLTMxNjcyNTU4MiwxMDk0NjI3Mjc4LDUyMzE0MTQ0Nywy
+NjY2MTQwOTZdfQ==
 -->
