@@ -64,18 +64,18 @@ Only new and modified files and directories on the StackEditPro workspace will b
 * Compare Current Page With Grav
 * Show Grav Changes
 # Issues
-* For security reasons, Grav sites must support valid https.  You may run into browser issues if connecting to an http site from the the StackEditPro https site.
+* For security reasons, Grav sites must be hosted on a valid HTTPS server.  You may run into browser issues if connecting to an unsecured HTTP site from the the StackEditPro HTTPS site.
 
 # TODO
 * Allow deleting, renaming, and moving pages from StackEditPro.
 * Show server-only files.
 * Add refactoring features.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjU2ODE3NjEsMjY5MzQ5ODQwLC0yMT
-QzNjIzOTUwLDE4MTUwNTkxMSwtODc3MzM5MzAxLC00MTIwMjEw
-OTEsMTA0NDMyNzU5NSwtMTI4MDM1OTgxMywxNjc4Njg0Nzg4LC
-0xOTU4MDg4MzE0LC0xODcwNzUxNzQwLC0xMzU5NzkyNDIyLDEz
-NzIzMzI5MDgsMTkyMzA0NTU2NCw1MjgyNjM0NzcsLTE3ODIyMD
-QwMTQsLTMxNjcyNTU4MiwxMDk0NjI3Mjc4LDUyMzE0MTQ0Nywy
-NjY2MTQwOTZdfQ==
+eyJoaXN0b3J5IjpbMTkwNzk5NTcwOSwtMTE2NTY4MTc2MSwyNj
+kzNDk4NDAsLTIxNDM2MjM5NTAsMTgxNTA1OTExLC04NzczMzkz
+MDEsLTQxMjAyMTA5MSwxMDQ0MzI3NTk1LC0xMjgwMzU5ODEzLD
+E2Nzg2ODQ3ODgsLTE5NTgwODgzMTQsLTE4NzA3NTE3NDAsLTEz
+NTk3OTI0MjIsMTM3MjMzMjkwOCwxOTIzMDQ1NTY0LDUyODI2Mz
+Q3NywtMTc4MjIwNDAxNCwtMzE2NzI1NTgyLDEwOTQ2MjcyNzgs
+NTIzMTQxNDQ3XX0=
 -->
