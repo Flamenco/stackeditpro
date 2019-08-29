@@ -5,7 +5,7 @@ When a merge happens, we add a *Merge Conflict Report* document to your workspac
 
 In our experience, most situations that require a merge really needed the server version.  An the default merge operation resulted in a corrupt document.  We decided that when it is detected that the servand client changed, we will keep the server, and create a report with all 3 versions (client, server, and merge).
 
-# Move
+# Move File Dialog
 The window in not tall enough.  It should size to full screen.  Use a filtered choice picker.
 
 # iOS Resize
@@ -26,11 +26,11 @@ The sharing server does not render mermaid, fences, or other canvas-based extens
 * Scroll to line when selecting search and task links.
 * Complete task from task report.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5OTA0MTM0NiwxNjM4MDIxMTQ3LDE3NT
-gzNDM2OTcsLTIwODMyMDAwMTMsLTE0MTY1MzMxMzMsNjU1ODUw
-NTE1LDEwNDI5Mzc1MjUsMTcyMzcwNDEwMSwyNTk5NzAzNDYsLT
-E4MDAxNzMwOTYsNjU1ODUwNTE1LC01MzE0MDE1ODEsLTI0NTg1
-OTA1LC0xMzI3MzEzMTIyLC0xOTU3OTE4NTc3LDc4NjczMTg4OS
-w3OTQ1MDI1ODMsMTE2NTgwNzIyMiwxODkzNDE5MjM4LC0xODY4
-Mzg5MTM2XX0=
+eyJoaXN0b3J5IjpbLTMwNDQxOTU3MCwyMDk5MDQxMzQ2LDE2Mz
+gwMjExNDcsMTc1ODM0MzY5NywtMjA4MzIwMDAxMywtMTQxNjUz
+MzEzMyw2NTU4NTA1MTUsMTA0MjkzNzUyNSwxNzIzNzA0MTAxLD
+I1OTk3MDM0NiwtMTgwMDE3MzA5Niw2NTU4NTA1MTUsLTUzMTQw
+MTU4MSwtMjQ1ODU5MDUsLTEzMjczMTMxMjIsLTE5NTc5MTg1Nz
+csNzg2NzMxODg5LDc5NDUwMjU4MywxMTY1ODA3MjIyLDE4OTM0
+MTkyMzhdfQ==
 -->
