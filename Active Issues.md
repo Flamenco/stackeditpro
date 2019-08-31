@@ -25,12 +25,16 @@ The sharing server does not render mermaid, fences, or other canvas-based extens
 * Export canvas as png.
 * Scroll to line when selecting search and task links.
 * Complete task from task report.
+* Create plugin architecture.
+* Integrate tasks with external systems.
+* Document driven design integration.
+* Task report as real window.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNDQxOTU3MCwyMDk5MDQxMzQ2LDE2Mz
-gwMjExNDcsMTc1ODM0MzY5NywtMjA4MzIwMDAxMywtMTQxNjUz
-MzEzMyw2NTU4NTA1MTUsMTA0MjkzNzUyNSwxNzIzNzA0MTAxLD
-I1OTk3MDM0NiwtMTgwMDE3MzA5Niw2NTU4NTA1MTUsLTUzMTQw
-MTU4MSwtMjQ1ODU5MDUsLTEzMjczMTMxMjIsLTE5NTc5MTg1Nz
-csNzg2NzMxODg5LDc5NDUwMjU4MywxMTY1ODA3MjIyLDE4OTM0
-MTkyMzhdfQ==
+eyJoaXN0b3J5IjpbLTk0NzExMDgyMiwtMzA0NDE5NTcwLDIwOT
+kwNDEzNDYsMTYzODAyMTE0NywxNzU4MzQzNjk3LC0yMDgzMjAw
+MDEzLC0xNDE2NTMzMTMzLDY1NTg1MDUxNSwxMDQyOTM3NTI1LD
+E3MjM3MDQxMDEsMjU5OTcwMzQ2LC0xODAwMTczMDk2LDY1NTg1
+MDUxNSwtNTMxNDAxNTgxLC0yNDU4NTkwNSwtMTMyNzMxMzEyMi
+wtMTk1NzkxODU3Nyw3ODY3MzE4ODksNzk0NTAyNTgzLDExNjU4
+MDcyMjJdfQ==
 -->
