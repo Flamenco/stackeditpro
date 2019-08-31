@@ -23,18 +23,19 @@ The sharing server does not render mermaid, fences, or other canvas-based extens
 # Feature Requests
 * Add scrolling divs (or toolbar popup) to toolbar.  Tools are not available on a narrow device.
 * Export canvas as png.
-* Scroll to line when selecting search and task links.
-* Complete task from task report.
 * Create plugin architecture.
-* Integrate tasks with external systems.
+* Tasks
+	* Complete task from task report.
+	* Integrate tasks with external systems.
+	* Scroll to line when selecting search and task links.
 * Document driven design integration.
-* Task report as real window.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NzExMDgyMiwtMzA0NDE5NTcwLDIwOT
-kwNDEzNDYsMTYzODAyMTE0NywxNzU4MzQzNjk3LC0yMDgzMjAw
-MDEzLC0xNDE2NTMzMTMzLDY1NTg1MDUxNSwxMDQyOTM3NTI1LD
-E3MjM3MDQxMDEsMjU5OTcwMzQ2LC0xODAwMTczMDk2LDY1NTg1
-MDUxNSwtNTMxNDAxNTgxLC0yNDU4NTkwNSwtMTMyNzMxMzEyMi
-wtMTk1NzkxODU3Nyw3ODY3MzE4ODksNzk0NTAyNTgzLDExNjU4
-MDcyMjJdfQ==
+eyJoaXN0b3J5IjpbMTU0MzM4NTQ5OSwtOTQ3MTEwODIyLC0zMD
+Q0MTk1NzAsMjA5OTA0MTM0NiwxNjM4MDIxMTQ3LDE3NTgzNDM2
+OTcsLTIwODMyMDAwMTMsLTE0MTY1MzMxMzMsNjU1ODUwNTE1LD
+EwNDI5Mzc1MjUsMTcyMzcwNDEwMSwyNTk5NzAzNDYsLTE4MDAx
+NzMwOTYsNjU1ODUwNTE1LC01MzE0MDE1ODEsLTI0NTg1OTA1LC
+0xMzI3MzEzMTIyLC0xOTU3OTE4NTc3LDc4NjczMTg4OSw3OTQ1
+MDI1ODNdfQ==
 -->
