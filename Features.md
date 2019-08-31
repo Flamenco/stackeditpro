@@ -65,11 +65,13 @@ Languages are stored as a browser setting, not a workspace setting.
 ## Task And To-Do Reports
 `Actions/Find Tasks`
 
-Search your workspace for markdown task items `- [ ] An Item` and  `~todo a description~` blocks.
+Search your workspace for markdown task items `- [ ] Do this` and  `~todo Do this~` blocks.
 
-A report with all of your uncompleted tasks and to-do items will open.
+A report dialog will open, containing with all of your uncompleted tasks and to-do items.
 The report lists each task along with the associated file and line number.
 You can click the filename to navigate to it.
+
+The dialog can filter tasks by name, and group them by folder or file.
 
 ```
 [Task Syntax Examples]
@@ -282,11 +284,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MTA2NDMzLDkxMzI1MTUzMywxMDIyMD
-U1NjI1LDEyNTI1NjA0MDUsOTI3MTIzNzQsLTUyNjQxMjYyNiwx
-MTQyNTg1NzkyLDEyNjI4NTM0NjQsLTU5NTc4MDIwMywxNjI3MD
-MwNTA5LC0xMzkxOTk5ODEsMTQzMTg5MTkxNSwyMDI5ODYwODYx
-LC03MjM4NjY3ODcsLTE0NTA3MDc1MSwtOTcwMTgyMzg0LC0xMj
-M5NzY4MzQ3LDYzMzE2MzUzMiwyNzAxNjczODcsLTE2NDM4OTg5
-NzddfQ==
+eyJoaXN0b3J5IjpbLTEwMjk4NTAwNzEsMTQ1MTA2NDMzLDkxMz
+I1MTUzMywxMDIyMDU1NjI1LDEyNTI1NjA0MDUsOTI3MTIzNzQs
+LTUyNjQxMjYyNiwxMTQyNTg1NzkyLDEyNjI4NTM0NjQsLTU5NT
+c4MDIwMywxNjI3MDMwNTA5LC0xMzkxOTk5ODEsMTQzMTg5MTkx
+NSwyMDI5ODYwODYxLC03MjM4NjY3ODcsLTE0NTA3MDc1MSwtOT
+cwMTgyMzg0LC0xMjM5NzY4MzQ3LDYzMzE2MzUzMiwyNzAxNjcz
+ODddfQ==
 -->
