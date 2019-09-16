@@ -1,6 +1,6 @@
 # StackEditPro
 
-**StackEditPro** is a fork of the **StackEdit Markdown Editor** with hundreds of additional features geared towards professional workflows and enhanced productivity.
+**StackEditPro** is a rework of the **StackEdit Markdown Editor** with hundreds of additional features geared towards professional workflows and enhanced productivity.
 
 Try it out at https://stackeditpro.io/app.
 
