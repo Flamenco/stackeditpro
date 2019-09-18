@@ -16,6 +16,10 @@ The page outlines the standard actions provided by StackEditPro.
 # Workspace
 ## Search...
 ## Find Tasks...
+
+## Show Unsaved Changes.
+ Show all changes on the client that have not yet been saved to the server.
+    
 # Folder And File Actions
 Several folder and file actions are available from the *Folder Overview* and the *Actions Menu*.
 
@@ -50,7 +54,7 @@ Email a markdown document in a variety of formats.
 Email a link to markdown document.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMwMjUxMDk5LC05OTkwNDkzNDUsNDkyNj
-c0MjIwLDU4MTQ5NDg1LDEyNzE4Njc3ODIsNDIzMDA1NzA4LDk1
-OTMwMzU3NSw0NTU5ODY1ODVdfQ==
+eyJoaXN0b3J5IjpbMTU3NDY3MDc3NSwyMzAyNTEwOTksLTk5OT
+A0OTM0NSw0OTI2NzQyMjAsNTgxNDk0ODUsMTI3MTg2Nzc4Miw0
+MjMwMDU3MDgsOTU5MzAzNTc1LDQ1NTk4NjU4NV19
 -->
