@@ -15,8 +15,10 @@ The page outlines the standard actions provided by StackEditPro.
 
 # Workspace
 ## Search...
+Search all document titles and contents.
 
 ## Find Tasks...
+Show a list of all tasks.  Group by document.
 
 ## Show Unsaved Changes...
  Show all changes on the client that have not yet been saved to the server.
@@ -55,8 +57,8 @@ Email a markdown document in a variety of formats.
 Email a link to markdown document.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MzA3MDAyNSwxNTc0NjcwNzc1LDIzMD
-I1MTA5OSwtOTk5MDQ5MzQ1LDQ5MjY3NDIyMCw1ODE0OTQ4NSwx
-MjcxODY3NzgyLDQyMzAwNTcwOCw5NTkzMDM1NzUsNDU1OTg2NT
-g1XX0=
+eyJoaXN0b3J5IjpbLTU4MzM2MDUwMCwxMzUzMDcwMDI1LDE1Nz
+Q2NzA3NzUsMjMwMjUxMDk5LC05OTkwNDkzNDUsNDkyNjc0MjIw
+LDU4MTQ5NDg1LDEyNzE4Njc3ODIsNDIzMDA1NzA4LDk1OTMwMz
+U3NSw0NTU5ODY1ODVdfQ==
 -->
