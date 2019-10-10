@@ -20,6 +20,9 @@ Search all document titles and contents.
 ## Find Tasks...
 Show a list of all tasks.  Group by document.
 
+## Find Tasks In Selection...
+Show a list of all tasks in the current selection.  See [Find Tasks](#find-tasks).
+
 ## Show Unsaved Changes...
  Show all changes on the client that have not yet been saved to the server.
     
@@ -57,8 +60,8 @@ Email a markdown document in a variety of formats.
 Email a link to markdown document.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MzM2MDUwMCwxMzUzMDcwMDI1LDE1Nz
-Q2NzA3NzUsMjMwMjUxMDk5LC05OTkwNDkzNDUsNDkyNjc0MjIw
-LDU4MTQ5NDg1LDEyNzE4Njc3ODIsNDIzMDA1NzA4LDk1OTMwMz
-U3NSw0NTU5ODY1ODVdfQ==
+eyJoaXN0b3J5IjpbLTExNDExMzE4MTMsLTU4MzM2MDUwMCwxMz
+UzMDcwMDI1LDE1NzQ2NzA3NzUsMjMwMjUxMDk5LC05OTkwNDkz
+NDUsNDkyNjc0MjIwLDU4MTQ5NDg1LDEyNzE4Njc3ODIsNDIzMD
+A1NzA4LDk1OTMwMzU3NSw0NTU5ODY1ODVdfQ==
 -->
