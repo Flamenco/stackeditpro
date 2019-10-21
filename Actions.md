@@ -56,6 +56,15 @@ Creates a new file next to the current file or folder.  The new file is opened i
 Creates a new file after the referenced file.  Numbering must be enabled for the folder.
 ## Download Folder (Zip File)
 This action downloads the selected folder as a zip file, including all subfolders and files.  The name of the zip file will be the name of the folder.
+
+## History
+View and manage the history of document revisions.
+
+## File Properties
+View and manage file metadata.
+
+# Document Actions
+
 ## Increase And Decrease Heading Level
 You can now increase or decrease all of your heading levels.  This is useful when move a section out of one outline and into another.
 ## Email Content
@@ -64,9 +73,9 @@ Email a markdown document in a variety of formats.
 Email a link to markdown document.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNzA1Nzg3NCwxNDc2MzQ2NjYwLC0xMT
-QxMTMxODEzLC01ODMzNjA1MDAsMTM1MzA3MDAyNSwxNTc0Njcw
-Nzc1LDIzMDI1MTA5OSwtOTk5MDQ5MzQ1LDQ5MjY3NDIyMCw1OD
-E0OTQ4NSwxMjcxODY3NzgyLDQyMzAwNTcwOCw5NTkzMDM1NzUs
-NDU1OTg2NTg1XX0=
+eyJoaXN0b3J5IjpbMTYyNzUxMzMzOCwxNjM3MDU3ODc0LDE0Nz
+YzNDY2NjAsLTExNDExMzE4MTMsLTU4MzM2MDUwMCwxMzUzMDcw
+MDI1LDE1NzQ2NzA3NzUsMjMwMjUxMDk5LC05OTkwNDkzNDUsND
+kyNjc0MjIwLDU4MTQ5NDg1LDEyNzE4Njc3ODIsNDIzMDA1NzA4
+LDk1OTMwMzU3NSw0NTU5ODY1ODVdfQ==
 -->
