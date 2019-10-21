@@ -72,10 +72,12 @@ Email a markdown document in a variety of formats.
 ## Email Link
 Email a link to markdown document.
 
+## Extract Selection To New Document
+Move selected text to a new document, and insert a link inside the original document to the new document.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNzUxMzMzOCwxNjM3MDU3ODc0LDE0Nz
-YzNDY2NjAsLTExNDExMzE4MTMsLTU4MzM2MDUwMCwxMzUzMDcw
-MDI1LDE1NzQ2NzA3NzUsMjMwMjUxMDk5LC05OTkwNDkzNDUsND
-kyNjc0MjIwLDU4MTQ5NDg1LDEyNzE4Njc3ODIsNDIzMDA1NzA4
-LDk1OTMwMzU3NSw0NTU5ODY1ODVdfQ==
+eyJoaXN0b3J5IjpbMTY1MzA4MDA2NiwxNjI3NTEzMzM4LDE2Mz
+cwNTc4NzQsMTQ3NjM0NjY2MCwtMTE0MTEzMTgxMywtNTgzMzYw
+NTAwLDEzNTMwNzAwMjUsMTU3NDY3MDc3NSwyMzAyNTEwOTksLT
+k5OTA0OTM0NSw0OTI2NzQyMjAsNTgxNDk0ODUsMTI3MTg2Nzc4
+Miw0MjMwMDU3MDgsOTU5MzAzNTc1LDQ1NTk4NjU4NV19
 -->
