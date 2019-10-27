@@ -89,10 +89,7 @@ You can now press a button to copy code fence source code to your clipboard.
 
 A *Copy Source Code* will appear at the top-left of your rendered fences.
 
-> If you have defined a caption using the *Code-Fence-Caption Extension*, it will be removed from copied source code.e ocumentation New Markdown Extensions
-
-### Copy-Code-Fence-To-Clipboard Extension
-You can now press a button to copy code fence source code to your clipboard.
+> If you have defined a caption using the *Code-Fence-Caption Extension*, it will be removed from copied source code.e ocumentation 
 
 ### Code-Fence-Caption Extension
 We extended the code fence syntax by adding a *caption syntax*.  If the first line of your fence starts with text between brackets `[Like This]`, it will be pulled out of the fence content, and added as a caption.  `Copy to Clipboard` will not include the caption block.
@@ -103,7 +100,7 @@ line 1
 line 2
 ```
 
-### Page-TitleNames Extension
+### Page-Title Extension
 
 We added a syntax for adding titles to your pages without needing to use a heading. This results in the having a nice page name that does not get added in your heading or table of contents. It also allows for a separate *page-title* CSS style.
 
@@ -159,85 +156,28 @@ The editor and viewer will both syntax highlight frontmatter.  You optionally co
 See https://jekyllrb.com/docs/front-matter/.
 
 ## Keyboard Shortcuts
-We added a keyboard shortcut manager to the core editor.  Currently there is only one shortcut registered, but we plan on adding mohaving the page name added to the table of contents.
-
-You can put a title between `[` and `]`, followed by a blank line.
-```
-[My Great Page] 
-
-# Part 1
-# Part 2
-```
-You can also dynamically use the actual page name by declaring  `[]` as your first line, followed by a blank line.
-```
-[] 
-
-# Part 1
-# Part 2
-```
-
-## Folder Overview
-We now display a folder overview when a folder is clicked in the navigator.
-You can view the folder contents by name or accessed date.
-
-If there are items in the trash folder, and the trash folder is selected, an *Empty Trash Now* button will be enabled.
-
-## Actions Menu
-We added an *Actions Menu* to the *Man Menu*.  The actions menu lists all global and item actions added by the system and 3rd party plugins.
-
-The actions list can be filtered by action name.
-
-### Global Actions
-#### Login
-#### Logout
-#### Sync Now
-#### Empty Trash
-#### Publish Shares
-#### Unpublish Shares
-
-### Folder And File Actions
-Several folder and file actions are, and also allowing shortcuts to be user-defined.
+We added a keyboard shortcut manager to the core editor.  Currently there is only one shortcut registered, but we plan on adding more, and also allowing shortcuts to be user-defined.
 
 ### Move Lines Up Or Down
 Press *shift-alt-up* or *shift-alt-down* to move the cursor line or selected lines up or down.
 This is great for changing the order of lines in lists without having to *copy-paste* or use *drag-and-drop*.
 
-If you have ever used an IDE (Integrated Development Environment) or advanced text editor, you will feel right at homevailable from the Folder Overview.
+If you have ever used an IDE (Integrated Development Environment) or advanced text editor, you will feel right at home.
 
-#### Auto Number Files
-Add or recalculate numeric prefixes for all files in a folder.  Available on the *Folder Info* page.
-Numbering allows files to be manually sorted.
-
-If you want to move a file, give it a number of where you want it to be (e.g. 6 or 7.5) and then renumber the files again.
-
-#### Grav Connector
+## Grav Connector
 Import and synchronize *Grav* websites to and from any workspace folder.
 
 See [Grav Connector](Grav%20Connector.md).
 
 ## Folder Overview
-We now display a folder overview, shown when a folder is sRemove Numbering
-You can also remove the numbering and revert back to alphabetical order using the `Remove Numbering` action.
-
-#### Move
-Move a file or folder using an autocomplete dropdown menu.
-#### Delected in the navigator.
+We now display a folder overview, shown when a folder is selected in the navigator.
 You can view the folder contents by name or accessed date.
 
 If there are items in the trash folder, and the trash folder is selected, an *Empty Trash Now* button will be enabled.
 
 Columns are sortable by *name* or *last modified*.
 
-Each item has a list of actions that can be performed.  You can hide or filter actions using the filters located at
-Delete a file or folder.
-#### Rename
-Rename a file or folder.
-#### New File
-Creates a new file in the current folder.
-#### Insert New File After
-Creates a new file after the referenced file.  Numbering must be enabled for the folder.
-#### Download Folder (Zip File)
-This action downloads the selected folder as a zip file, including all subfolders and files.  The name of the zip file will be the topname of the overview.
+Each item has a list of actions that can be performed.  You can hide or filter actions using the filters located at the top of the overview.
 
 ## Actions Menu
 We added an *Actions Menu* to the *Main Menu*.
@@ -247,13 +187,7 @@ The folder actions list can be filtered by action name.
 
 Action can be added by the base system and 3rd party plugins.
 
-For a list of all actions, see [Actions](Actions.md)folder.
-#### Increase And Decrease Heading Level
-You can now increase or decrease all of your heading levels.  This is useful when move a section out of one outline and into another.
-#### Email Content
-Email a markdown document in a variety of formats.
-#### Email Link
-Email a link to markdown document.
+For a list of all actions, see [Actions](Actions.md).
 
 ## Recent Activity
 View and activate documents based on a *most recently modified* list.
@@ -294,9 +228,6 @@ This procedure is equivalent to:
 ## Scrollable Navigation Bar
 The navigation and formatting buttons are now in a scrollable section of the navigation bar, making them available on narrow-width devices.
 ## IOS Fixes
-
-# Fixes
-## IOS
 ### Cut, Copy, Paste, and Select - Fixed On iOS
 In the original StackEdit, you cannot cut, copy, or paste in the Markdown editor while using iOS.  This is a total PITA, and quite frankly, a dealbreaker.  Alas, now It works.
 
@@ -359,47 +290,14 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 
 # Internal Changes
 
-See [Internal Changes](Internal%20Changes.md) Internal Changes
-
-## All Software Updated To Latest Versions
-Node on the backend now uses `NodeJS 12`.
-All `npm` packages are now current, too.
-* Babel was upgraded from 6.x to 7.x
-* Mermaid now uses 8.1.0.
-
-## Typescript Support
-We have started converting the entire application to Typescript.
-
-## Refactored Backend
-All server-based services that operate on documents have been moved to a separate backend service.  For development, this facilitates a better developer workflow.  For deployment, it offers higher availability and improved scaling.
-
-## Refactored Front End
-Removing the backend services made the front-end Docker image 4GB smaller.
-
-## Reworked Modal Dialogs
-Modal Dialogs look and behave better.  They now will always scroll to top when opened.  The close buttons no longer scroll out of view.
-
-## Jentify Integration
-We have added the **Jentify Runtime Overlay** to help manage the growing complexity of the application model and UI.  This separates the actions from the UI, unifies dialogs, and provides a CLI.
-
-## StackEdit 4 Support Removed
-We no longer support StackEdit 4 and the overhead that accompanied it. 
-
-## Recently Modified
-There is was no *last-modified* data associated with files, so we could not sort and filter by that field.  We added a synced data object that now contains when, by whom, the device, and geo-location the modification was made.
-
-## StackEditPro User ID
-We added the ability to link multiple workspaces to a single user ID.
-
-## Ecosystem And Culture
-We get things done here.  Quickly and without ego.  We encourage feature and bug requests. We will not leave issues without responses for weeks, months, or years as seen in other projects.
+See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MTI1NzAxOSw0NzI3MDc1OTgsLTE0MD
-gwNzI3OTAsLTE1NzgwNjM3NjQsNTQ2NTM1ODEwLDE3MzAzNjQx
-MTIsLTEwMjk4NTAwNzEsMTQ1MTA2NDMzLDkxMzI1MTUzMywxMD
-IyMDU1NjI1LDEyNTI1NjA0MDUsOTI3MTIzNzQsLTUyNjQxMjYy
-NiwxMTQyNTg1NzkyLDEyNjI4NTM0NjQsLTU5NTc4MDIwMywxNj
-I3MDMwNTA5LC0xMzkxOTk5ODEsMTQzMTg5MTkxNSwyMDI5ODYw
-ODYxXX0=
+eyJoaXN0b3J5IjpbNDcyNzA3NTk4LC0yNzEyNTcwMTksNDcyNz
+A3NTk4LC0xNDA4MDcyNzkwLC0xNTc4MDYzNzY0LDU0NjUzNTgx
+MCwxNzMwMzY0MTEyLC0xMDI5ODUwMDcxLDE0NTEwNjQzMyw5MT
+MyNTE1MzMsMTAyMjA1NTYyNSwxMjUyNTYwNDA1LDkyNzEyMzc0
+LC01MjY0MTI2MjYsMTE0MjU4NTc5MiwxMjYyODUzNDY0LC01OT
+U3ODAyMDMsMTYyNzAzMDUwOSwtMTM5MTk5OTgxLDE0MzE4OTE5
+MTVdfQ==
 -->
