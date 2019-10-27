@@ -160,7 +160,7 @@ We added a keyboard shortcut manager.  Currently there is one shortcut
 
 ### Move lines up
 Press shift-alt-up or shift-alt-down to move the cursor line or selected lines up or down.
-This is great for 
+This is great for changing the order of lines in lists.
 
 ## Grav Connector
 Import and synchronize *Grav* websites to and from any workspace folder.
@@ -291,11 +291,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNzEwODk0MiwxNzMwMzY0MTEyLC0xMD
-I5ODUwMDcxLDE0NTEwNjQzMyw5MTMyNTE1MzMsMTAyMjA1NTYy
-NSwxMjUyNTYwNDA1LDkyNzEyMzc0LC01MjY0MTI2MjYsMTE0Mj
-U4NTc5MiwxMjYyODUzNDY0LC01OTU3ODAyMDMsMTYyNzAzMDUw
-OSwtMTM5MTk5OTgxLDE0MzE4OTE5MTUsMjAyOTg2MDg2MSwtNz
-IzODY2Nzg3LC0xNDUwNzA3NTEsLTk3MDE4MjM4NCwtMTIzOTc2
-ODM0N119
+eyJoaXN0b3J5IjpbNTQ2NTM1ODEwLDE3MzAzNjQxMTIsLTEwMj
+k4NTAwNzEsMTQ1MTA2NDMzLDkxMzI1MTUzMywxMDIyMDU1NjI1
+LDEyNTI1NjA0MDUsOTI3MTIzNzQsLTUyNjQxMjYyNiwxMTQyNT
+g1NzkyLDEyNjI4NTM0NjQsLTU5NTc4MDIwMywxNjI3MDMwNTA5
+LC0xMzkxOTk5ODEsMTQzMTg5MTkxNSwyMDI5ODYwODYxLC03Mj
+M4NjY3ODcsLTE0NTA3MDc1MSwtOTcwMTgyMzg0LC0xMjM5NzY4
+MzQ3XX0=
 -->
