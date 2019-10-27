@@ -156,11 +156,11 @@ The editor and viewer will both syntax highlight frontmatter.  You optionally co
 See https://jekyllrb.com/docs/front-matter/.
 
 ## Keyboard Shortcuts
-We added a keyboard shortcut manager.  Currently there is only one shortcut registered, but we plan on adding more, and allowing them to be user defined.
+We added a keyboard shortcut manager to the core editor.  Currently there is only one shortcut registered, but we plan on adding more, and also allowing shortcuts to be user-defined.
 
 ### Move Lines Up Or Down
 Press *shift-alt-up* or *shift-alt-down* to move the cursor line or selected lines up or down.
-This is great for changing the order of lines in lists.
+This is great for changing the order of lines in lists without having to copy-paste or drag-**and**
 
 ## Grav Connector
 Import and synchronize *Grav* websites to and from any workspace folder.
@@ -291,11 +291,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzgwNjM3NjQsNTQ2NTM1ODEwLDE3Mz
-AzNjQxMTIsLTEwMjk4NTAwNzEsMTQ1MTA2NDMzLDkxMzI1MTUz
-MywxMDIyMDU1NjI1LDEyNTI1NjA0MDUsOTI3MTIzNzQsLTUyNj
-QxMjYyNiwxMTQyNTg1NzkyLDEyNjI4NTM0NjQsLTU5NTc4MDIw
-MywxNjI3MDMwNTA5LC0xMzkxOTk5ODEsMTQzMTg5MTkxNSwyMD
-I5ODYwODYxLC03MjM4NjY3ODcsLTE0NTA3MDc1MSwtOTcwMTgy
-Mzg0XX0=
+eyJoaXN0b3J5IjpbLTE3MzMyNTk0ODEsLTE1NzgwNjM3NjQsNT
+Q2NTM1ODEwLDE3MzAzNjQxMTIsLTEwMjk4NTAwNzEsMTQ1MTA2
+NDMzLDkxMzI1MTUzMywxMDIyMDU1NjI1LDEyNTI1NjA0MDUsOT
+I3MTIzNzQsLTUyNjQxMjYyNiwxMTQyNTg1NzkyLDEyNjI4NTM0
+NjQsLTU5NTc4MDIwMywxNjI3MDMwNTA5LC0xMzkxOTk5ODEsMT
+QzMTg5MTkxNSwyMDI5ODYwODYxLC03MjM4NjY3ODcsLTE0NTA3
+MDc1MV19
 -->
