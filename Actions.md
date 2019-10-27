@@ -1,4 +1,4 @@
-The page outlines the standard actions provided by StackEditPro.
+This page outlines the standard actions provided by StackEditPro.  All actions are available on the `Actions Sidebar`.
 
 # General
 ## Set Language
@@ -75,9 +75,10 @@ Email a link to markdown document.
 ## Extract Selection To New Document
 Move selected text to a new document, and insert a link inside the original document to the new document.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MzA4MDA2NiwxNjI3NTEzMzM4LDE2Mz
-cwNTc4NzQsMTQ3NjM0NjY2MCwtMTE0MTEzMTgxMywtNTgzMzYw
-NTAwLDEzNTMwNzAwMjUsMTU3NDY3MDc3NSwyMzAyNTEwOTksLT
-k5OTA0OTM0NSw0OTI2NzQyMjAsNTgxNDk0ODUsMTI3MTg2Nzc4
-Miw0MjMwMDU3MDgsOTU5MzAzNTc1LDQ1NTk4NjU4NV19
+eyJoaXN0b3J5IjpbLTEyNDYxNTYxOTUsMTY1MzA4MDA2NiwxNj
+I3NTEzMzM4LDE2MzcwNTc4NzQsMTQ3NjM0NjY2MCwtMTE0MTEz
+MTgxMywtNTgzMzYwNTAwLDEzNTMwNzAwMjUsMTU3NDY3MDc3NS
+wyMzAyNTEwOTksLTk5OTA0OTM0NSw0OTI2NzQyMjAsNTgxNDk0
+ODUsMTI3MTg2Nzc4Miw0MjMwMDU3MDgsOTU5MzAzNTc1LDQ1NT
+k4NjU4NV19
 -->
