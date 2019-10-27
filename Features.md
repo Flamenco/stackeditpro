@@ -155,6 +155,13 @@ The editor and viewer will both syntax highlight frontmatter.  You optionally co
 #### Frontmatter Syntax
 See https://jekyllrb.com/docs/front-matter/.
 
+## Keyboard Shortcuts
+We added a keyboard shortcut manager.  Currently there is one shortcut
+
+### Move lines up
+Press shift-alt-up or shift-alt-down to move the cursor line or selected lines up or down.
+This is great for 
+
 ## Grav Connector
 Import and synchronize *Grav* websites to and from any workspace folder.
 
@@ -284,11 +291,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMDM2NDExMiwtMTAyOTg1MDA3MSwxND
-UxMDY0MzMsOTEzMjUxNTMzLDEwMjIwNTU2MjUsMTI1MjU2MDQw
-NSw5MjcxMjM3NCwtNTI2NDEyNjI2LDExNDI1ODU3OTIsMTI2Mj
-g1MzQ2NCwtNTk1NzgwMjAzLDE2MjcwMzA1MDksLTEzOTE5OTk4
-MSwxNDMxODkxOTE1LDIwMjk4NjA4NjEsLTcyMzg2Njc4NywtMT
-Q1MDcwNzUxLC05NzAxODIzODQsLTEyMzk3NjgzNDcsNjMzMTYz
-NTMyXX0=
+eyJoaXN0b3J5IjpbMjAxNzEwODk0MiwxNzMwMzY0MTEyLC0xMD
+I5ODUwMDcxLDE0NTEwNjQzMyw5MTMyNTE1MzMsMTAyMjA1NTYy
+NSwxMjUyNTYwNDA1LDkyNzEyMzc0LC01MjY0MTI2MjYsMTE0Mj
+U4NTc5MiwxMjYyODUzNDY0LC01OTU3ODAyMDMsMTYyNzAzMDUw
+OSwtMTM5MTk5OTgxLDE0MzE4OTE5MTUsMjAyOTg2MDg2MSwtNz
+IzODY2Nzg3LC0xNDUwNzA3NTEsLTk3MDE4MjM4NCwtMTIzOTc2
+ODM0N119
 -->
