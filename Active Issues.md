@@ -1,5 +1,5 @@
 # Data Corruption
-There is an ongoing data corruption when merging data between 3+ clients.  The core sync engine incorrectly senses that files need to be merged, and odd remnants appear. 
+There is an ongoing data corruption when merging data between 3+ clients and a server.  The core sync engine incorrectly senses that files need to be merged, and odd remnants appear. 
 
 When a merge happens, we add a *Merge Conflict Report* document to your workspace to indicate what was merged and when it happened.  You can then view the history of your document if you need to fix it.  The merge report also includes the pre and post merge versions for your convenience.
 
@@ -31,11 +31,11 @@ The sharing server does not render mermaid, fences, or other canvas-based extens
 * Document driven design integration.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MzM4NTQ5OSwtMTU5MDMzNDA5OSwxNT
-QzMzg1NDk5LC05NDcxMTA4MjIsLTMwNDQxOTU3MCwyMDk5MDQx
-MzQ2LDE2MzgwMjExNDcsMTc1ODM0MzY5NywtMjA4MzIwMDAxMy
-wtMTQxNjUzMzEzMyw2NTU4NTA1MTUsMTA0MjkzNzUyNSwxNzIz
-NzA0MTAxLDI1OTk3MDM0NiwtMTgwMDE3MzA5Niw2NTU4NTA1MT
-UsLTUzMTQwMTU4MSwtMjQ1ODU5MDUsLTEzMjczMTMxMjIsLTE5
-NTc5MTg1NzddfQ==
+eyJoaXN0b3J5IjpbMTg0OTI2NjA4MiwxNTQzMzg1NDk5LC0xNT
+kwMzM0MDk5LDE1NDMzODU0OTksLTk0NzExMDgyMiwtMzA0NDE5
+NTcwLDIwOTkwNDEzNDYsMTYzODAyMTE0NywxNzU4MzQzNjk3LC
+0yMDgzMjAwMDEzLC0xNDE2NTMzMTMzLDY1NTg1MDUxNSwxMDQy
+OTM3NTI1LDE3MjM3MDQxMDEsMjU5OTcwMzQ2LC0xODAwMTczMD
+k2LDY1NTg1MDUxNSwtNTMxNDAxNTgxLC0yNDU4NTkwNSwtMTMy
+NzMxMzEyMl19
 -->
