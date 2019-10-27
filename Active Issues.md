@@ -1,6 +1,5 @@
 # Data Corruption
-There is an ongoing dActive Issues
-* Data corruption when merging data between 3+ clients.  The core sync engine incorrectly senses that files need to be merged, and odd remnants appear. 
+There is an ongoing data corruption when merging data between 3+ clients.  The core sync engine incorrectly senses that files need to be merged, and odd remnants appear. 
 
 When a merge happens, we add a *Merge Conflict Report* document to your workspace to indicate what was merged and when it happened.  You can then view the history of your document if you need to fix it.  The merge report also includes the pre and post merge versions for your convenience.
 
@@ -31,25 +30,12 @@ The sharing server does not render mermaid, fences, or other canvas-based extens
 	* Scroll to line when selecting search and task links.
 * Document driven design integration.
 
-
-## Workspaces
-* Grav
-* StackEditPro
-## Publish
-* Blogger
-* Dropbox
-* GitHub
-* GitLab
-* Google Drive
-* Wordpress
-* Zendesk
-* Grav
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTAzMzQwOTksMTU0MzM4NTQ5OSwtOT
-Q3MTEwODIyLC0zMDQ0MTk1NzAsMjA5OTA0MTM0NiwxNjM4MDIx
-MTQ3LDE3NTgzNDM2OTcsLTIwODMyMDAwMTMsLTE0MTY1MzMxMz
-MsNjU1ODUwNTE1LDEwNDI5Mzc1MjUsMTcyMzcwNDEwMSwyNTk5
-NzAzNDYsLTE4MDAxNzMwOTYsNjU1ODUwNTE1LC01MzE0MDE1OD
-EsLTI0NTg1OTA1LC0xMzI3MzEzMTIyLC0xOTU3OTE4NTc3LDc4
-NjczMTg4OV19
+eyJoaXN0b3J5IjpbMTU0MzM4NTQ5OSwtMTU5MDMzNDA5OSwxNT
+QzMzg1NDk5LC05NDcxMTA4MjIsLTMwNDQxOTU3MCwyMDk5MDQx
+MzQ2LDE2MzgwMjExNDcsMTc1ODM0MzY5NywtMjA4MzIwMDAxMy
+wtMTQxNjUzMzEzMyw2NTU4NTA1MTUsMTA0MjkzNzUyNSwxNzIz
+NzA0MTAxLDI1OTk3MDM0NiwtMTgwMDE3MzA5Niw2NTU4NTA1MT
+UsLTUzMTQwMTU4MSwtMjQ1ODU5MDUsLTEzMjczMTMxMjIsLTE5
+NTc5MTg1NzddfQ==
 -->
