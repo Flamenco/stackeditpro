@@ -4,7 +4,16 @@ All features and fixes are ordered by *recently modified*.
 # New Features
 
 ## Keyboard Shortcut Manager
-View all keyboard shortcuts.  This command is available from the *Actions Sidebar*.
+View all pro and standard keyboard shortcuts.  This command is available from the *Actions Sidebar*.
+
+## Keyboard Shortcuts
+We added a keyboard shortcut manager to the core editor.  Currently there is only one shortcut registered, but we plan on adding more, and also allowing shortcuts to be user-defined.
+
+### Move Lines Up Or Down
+Press *shift-alt-up* or *shift-alt-down* to move the cursor line or selected lines up or down.
+This is great for changing the order of lines in lists without having to *copy-paste* or use *drag-and-drop*.
+
+If you have ever used an IDE (Integrated Development Environment) or advanced text editor, you will feel right at home.
 
 ## Workspace Search
 We have enabled text searching of all documents inside your workspace.
@@ -159,14 +168,6 @@ The editor and viewer will both syntax highlight frontmatter.  You optionally co
 #### Frontmatter Syntax
 See https://jekyllrb.com/docs/front-matter/.
 
-## Keyboard Shortcuts
-We added a keyboard shortcut manager to the core editor.  Currently there is only one shortcut registered, but we plan on adding more, and also allowing shortcuts to be user-defined.
-
-### Move Lines Up Or Down
-Press *shift-alt-up* or *shift-alt-down* to move the cursor line or selected lines up or down.
-This is great for changing the order of lines in lists without having to *copy-paste* or use *drag-and-drop*.
-
-If you have ever used an IDE (Integrated Development Environment) or advanced text editor, you will feel right at home.
 
 ## Grav Connector
 Import and synchronize *Grav* websites to and from any workspace folder.
@@ -297,11 +298,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIzMjA1MTkxLC0yMDMzNjAwMTc0LDQ3Mj
-cwNzU5OCwtMjcxMjU3MDE5LDQ3MjcwNzU5OCwtMTQwODA3Mjc5
-MCwtMTU3ODA2Mzc2NCw1NDY1MzU4MTAsMTczMDM2NDExMiwtMT
-AyOTg1MDA3MSwxNDUxMDY0MzMsOTEzMjUxNTMzLDEwMjIwNTU2
-MjUsMTI1MjU2MDQwNSw5MjcxMjM3NCwtNTI2NDEyNjI2LDExND
-I1ODU3OTIsMTI2Mjg1MzQ2NCwtNTk1NzgwMjAzLDE2MjcwMzA1
-MDldfQ==
+eyJoaXN0b3J5IjpbLTEwMzIxNzk0MjAsOTIzMjA1MTkxLC0yMD
+MzNjAwMTc0LDQ3MjcwNzU5OCwtMjcxMjU3MDE5LDQ3MjcwNzU5
+OCwtMTQwODA3Mjc5MCwtMTU3ODA2Mzc2NCw1NDY1MzU4MTAsMT
+czMDM2NDExMiwtMTAyOTg1MDA3MSwxNDUxMDY0MzMsOTEzMjUx
+NTMzLDEwMjIwNTU2MjUsMTI1MjU2MDQwNSw5MjcxMjM3NCwtNT
+I2NDEyNjI2LDExNDI1ODU3OTIsMTI2Mjg1MzQ2NCwtNTk1Nzgw
+MjAzXX0=
 -->
