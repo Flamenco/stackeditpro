@@ -1,6 +1,10 @@
 Here is *what's new* in this edition of **StackEditPro**.
+All features are ordered by *recently modified*.
 
 # New Features
+
+## Keyboard Shortcut Manager
+View all keyboard shortcuts.  The command is available from the *Actions Sidebar*.
 
 ## Workspace Search
 We have enabled text searching of all documents inside your workspace.
@@ -293,11 +297,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcyNzA3NTk4LC0yNzEyNTcwMTksNDcyNz
-A3NTk4LC0xNDA4MDcyNzkwLC0xNTc4MDYzNzY0LDU0NjUzNTgx
-MCwxNzMwMzY0MTEyLC0xMDI5ODUwMDcxLDE0NTEwNjQzMyw5MT
-MyNTE1MzMsMTAyMjA1NTYyNSwxMjUyNTYwNDA1LDkyNzEyMzc0
-LC01MjY0MTI2MjYsMTE0MjU4NTc5MiwxMjYyODUzNDY0LC01OT
-U3ODAyMDMsMTYyNzAzMDUwOSwtMTM5MTk5OTgxLDE0MzE4OTE5
-MTVdfQ==
+eyJoaXN0b3J5IjpbLTIwMzM2MDAxNzQsNDcyNzA3NTk4LC0yNz
+EyNTcwMTksNDcyNzA3NTk4LC0xNDA4MDcyNzkwLC0xNTc4MDYz
+NzY0LDU0NjUzNTgxMCwxNzMwMzY0MTEyLC0xMDI5ODUwMDcxLD
+E0NTEwNjQzMyw5MTMyNTE1MzMsMTAyMjA1NTYyNSwxMjUyNTYw
+NDA1LDkyNzEyMzc0LC01MjY0MTI2MjYsMTE0MjU4NTc5MiwxMj
+YyODUzNDY0LC01OTU3ODAyMDMsMTYyNzAzMDUwOSwtMTM5MTk5
+OTgxXX0=
 -->
