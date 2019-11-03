@@ -6,14 +6,17 @@ All features and fixes are ordered by *most recently modified*.
 ## New Code Fence Languages
 We have added `YAML`, `Kotlin`, and `Shell` to the default code fence syntax highlighting.
 ```yaml
+[YAML]
 colors:
   - red
   - blue
 ```
 ```kotlin
+[Kotlin]
 fun length(text:String): Int
 ```
 ```shell
+[shell]
 ls /foo/bar
 ```
 
@@ -312,11 +315,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NzExODY0MiwxOTM4Njk1NzY0LDE2Nj
-Q3NjM4MywtMTAzMjE3OTQyMCw5MjMyMDUxOTEsLTIwMzM2MDAx
-NzQsNDcyNzA3NTk4LC0yNzEyNTcwMTksNDcyNzA3NTk4LC0xND
-A4MDcyNzkwLC0xNTc4MDYzNzY0LDU0NjUzNTgxMCwxNzMwMzY0
-MTEyLC0xMDI5ODUwMDcxLDE0NTEwNjQzMyw5MTMyNTE1MzMsMT
-AyMjA1NTYyNSwxMjUyNTYwNDA1LDkyNzEyMzc0LC01MjY0MTI2
-MjZdfQ==
+eyJoaXN0b3J5IjpbMjAyNjk0ODAzOCwxNDU3MTE4NjQyLDE5Mz
+g2OTU3NjQsMTY2NDc2MzgzLC0xMDMyMTc5NDIwLDkyMzIwNTE5
+MSwtMjAzMzYwMDE3NCw0NzI3MDc1OTgsLTI3MTI1NzAxOSw0Nz
+I3MDc1OTgsLTE0MDgwNzI3OTAsLTE1NzgwNjM3NjQsNTQ2NTM1
+ODEwLDE3MzAzNjQxMTIsLTEwMjk4NTAwNzEsMTQ1MTA2NDMzLD
+kxMzI1MTUzMywxMDIyMDU1NjI1LDEyNTI1NjA0MDUsOTI3MTIz
+NzRdfQ==
 -->
