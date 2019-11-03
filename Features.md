@@ -3,6 +3,14 @@ All features and fixes are ordered by *most recently modified*.
 
 # New Features
 
+## New Code Fence Languages
+We have added `YAML`, `Kotlin`, and `Shell` to the default code fence syntax highlighting.
+```yaml
+people:
+  - 
+  - you
+```
+
 ## Keyboard Shortcut Manager
 View all pro and standard keyboard shortcuts.  This command is available from the *Actions Sidebar*.
 
@@ -298,11 +306,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzODY5NTc2NCwxNjY0NzYzODMsLTEwMz
-IxNzk0MjAsOTIzMjA1MTkxLC0yMDMzNjAwMTc0LDQ3MjcwNzU5
-OCwtMjcxMjU3MDE5LDQ3MjcwNzU5OCwtMTQwODA3Mjc5MCwtMT
-U3ODA2Mzc2NCw1NDY1MzU4MTAsMTczMDM2NDExMiwtMTAyOTg1
-MDA3MSwxNDUxMDY0MzMsOTEzMjUxNTMzLDEwMjIwNTU2MjUsMT
-I1MjU2MDQwNSw5MjcxMjM3NCwtNTI2NDEyNjI2LDExNDI1ODU3
-OTJdfQ==
+eyJoaXN0b3J5IjpbLTEzMzMxNzk0NzcsMTkzODY5NTc2NCwxNj
+Y0NzYzODMsLTEwMzIxNzk0MjAsOTIzMjA1MTkxLC0yMDMzNjAw
+MTc0LDQ3MjcwNzU5OCwtMjcxMjU3MDE5LDQ3MjcwNzU5OCwtMT
+QwODA3Mjc5MCwtMTU3ODA2Mzc2NCw1NDY1MzU4MTAsMTczMDM2
+NDExMiwtMTAyOTg1MDA3MSwxNDUxMDY0MzMsOTEzMjUxNTMzLD
+EwMjIwNTU2MjUsMTI1MjU2MDQwNSw5MjcxMjM3NCwtNTI2NDEy
+NjI2XX0=
 -->
