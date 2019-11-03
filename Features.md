@@ -18,6 +18,7 @@ fun length(text:String): Int
 ```shell
 [shell]
 ls /foo/bar
+chown -R foo:bar /my/files
 ```
 
 ## Keyboard Shortcut Manager
@@ -315,11 +316,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNjk0ODAzOCwxNDU3MTE4NjQyLDE5Mz
-g2OTU3NjQsMTY2NDc2MzgzLC0xMDMyMTc5NDIwLDkyMzIwNTE5
-MSwtMjAzMzYwMDE3NCw0NzI3MDc1OTgsLTI3MTI1NzAxOSw0Nz
-I3MDc1OTgsLTE0MDgwNzI3OTAsLTE1NzgwNjM3NjQsNTQ2NTM1
-ODEwLDE3MzAzNjQxMTIsLTEwMjk4NTAwNzEsMTQ1MTA2NDMzLD
-kxMzI1MTUzMywxMDIyMDU1NjI1LDEyNTI1NjA0MDUsOTI3MTIz
-NzRdfQ==
+eyJoaXN0b3J5IjpbLTY5NTk2NzQ3NCwyMDI2OTQ4MDM4LDE0NT
+cxMTg2NDIsMTkzODY5NTc2NCwxNjY0NzYzODMsLTEwMzIxNzk0
+MjAsOTIzMjA1MTkxLC0yMDMzNjAwMTc0LDQ3MjcwNzU5OCwtMj
+cxMjU3MDE5LDQ3MjcwNzU5OCwtMTQwODA3Mjc5MCwtMTU3ODA2
+Mzc2NCw1NDY1MzU4MTAsMTczMDM2NDExMiwtMTAyOTg1MDA3MS
+wxNDUxMDY0MzMsOTEzMjUxNTMzLDEwMjIwNTU2MjUsMTI1MjU2
+MDQwNV19
 -->
