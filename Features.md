@@ -27,7 +27,7 @@ chown -R foo:bar /my/files
 View all *pro* and *standard* keyboard shortcuts.  This command is available from the *Actions Sidebar*.
 
 ## Keyboard Shortcuts
-We added a keyboard shortcut manager to the core editor.  Currently there is only one shortcut registered, but we plan on adding more editor commands, and also allowing more shortcuts to be user-defined.
+We added a keyboard shortcut manager to the core editor.  Currently there is only one shortcut registered, but we plan on adding more editor commands, and also allowing more shortcuts to be user-defined from the *Shortcut Manager*
 
 ### Move Lines Up Or Down
 Press *shift-alt-up* or *shift-alt-down* to move the cursor line or selected lines up or down.
@@ -318,11 +318,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MDM3NjA1NCwxNjY0MDIxMzY1LDE4OD
-I0MDE0MDksMTQ1MDQ2NzQwNSwtNjk1OTY3NDc0LDIwMjY5NDgw
-MzgsMTQ1NzExODY0MiwxOTM4Njk1NzY0LDE2NjQ3NjM4MywtMT
-AzMjE3OTQyMCw5MjMyMDUxOTEsLTIwMzM2MDAxNzQsNDcyNzA3
-NTk4LC0yNzEyNTcwMTksNDcyNzA3NTk4LC0xNDA4MDcyNzkwLC
-0xNTc4MDYzNzY0LDU0NjUzNTgxMCwxNzMwMzY0MTEyLC0xMDI5
-ODUwMDcxXX0=
+eyJoaXN0b3J5IjpbMzc3MDU0NTMwLDE2NjQwMjEzNjUsMTg4Mj
+QwMTQwOSwxNDUwNDY3NDA1LC02OTU5Njc0NzQsMjAyNjk0ODAz
+OCwxNDU3MTE4NjQyLDE5Mzg2OTU3NjQsMTY2NDc2MzgzLC0xMD
+MyMTc5NDIwLDkyMzIwNTE5MSwtMjAzMzYwMDE3NCw0NzI3MDc1
+OTgsLTI3MTI1NzAxOSw0NzI3MDc1OTgsLTE0MDgwNzI3OTAsLT
+E1NzgwNjM3NjQsNTQ2NTM1ODEwLDE3MzAzNjQxMTIsLTEwMjk4
+NTAwNzFdfQ==
 -->
