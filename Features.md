@@ -24,7 +24,7 @@ chown -R foo:bar /my/files
 ```
 
 ## Keyboard Shortcut Manager
-View all pro and standard keyboard shortcuts.  This command is available from the *Actions Sidebar*.
+View all *pro* and *standard* keyboard shortcuts.  This command is available from the *Actions Sidebar*.
 
 ## Keyboard Shortcuts
 We added a keyboard shortcut manager to the core editor.  Currently there is only one shortcut registered, but we plan on adding more editor commands, and also allowing shortcuts to be user-defined.
@@ -318,11 +318,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MjQwMTQwOSwxNDUwNDY3NDA1LC02OT
-U5Njc0NzQsMjAyNjk0ODAzOCwxNDU3MTE4NjQyLDE5Mzg2OTU3
-NjQsMTY2NDc2MzgzLC0xMDMyMTc5NDIwLDkyMzIwNTE5MSwtMj
-AzMzYwMDE3NCw0NzI3MDc1OTgsLTI3MTI1NzAxOSw0NzI3MDc1
-OTgsLTE0MDgwNzI3OTAsLTE1NzgwNjM3NjQsNTQ2NTM1ODEwLD
-E3MzAzNjQxMTIsLTEwMjk4NTAwNzEsMTQ1MTA2NDMzLDkxMzI1
-MTUzM119
+eyJoaXN0b3J5IjpbMTY2NDAyMTM2NSwxODgyNDAxNDA5LDE0NT
+A0Njc0MDUsLTY5NTk2NzQ3NCwyMDI2OTQ4MDM4LDE0NTcxMTg2
+NDIsMTkzODY5NTc2NCwxNjY0NzYzODMsLTEwMzIxNzk0MjAsOT
+IzMjA1MTkxLC0yMDMzNjAwMTc0LDQ3MjcwNzU5OCwtMjcxMjU3
+MDE5LDQ3MjcwNzU5OCwtMTQwODA3Mjc5MCwtMTU3ODA2Mzc2NC
+w1NDY1MzU4MTAsMTczMDM2NDExMiwtMTAyOTg1MDA3MSwxNDUx
+MDY0MzNdfQ==
 -->
