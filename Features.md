@@ -7,9 +7,11 @@ All features and fixes are ordered by *most recently modified*.
 We have added `YAML`, `Kotlin`, and `Shell` to the default code fence syntax highlighting.
 ```yaml
 [YAML]
-colors:
+items:
   - red
   - blue
+  - 10
+  - "A string"
 ```
 ```kotlin
 [Kotlin]
@@ -316,11 +318,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NTk2NzQ3NCwyMDI2OTQ4MDM4LDE0NT
-cxMTg2NDIsMTkzODY5NTc2NCwxNjY0NzYzODMsLTEwMzIxNzk0
-MjAsOTIzMjA1MTkxLC0yMDMzNjAwMTc0LDQ3MjcwNzU5OCwtMj
-cxMjU3MDE5LDQ3MjcwNzU5OCwtMTQwODA3Mjc5MCwtMTU3ODA2
-Mzc2NCw1NDY1MzU4MTAsMTczMDM2NDExMiwtMTAyOTg1MDA3MS
-wxNDUxMDY0MzMsOTEzMjUxNTMzLDEwMjIwNTU2MjUsMTI1MjU2
-MDQwNV19
+eyJoaXN0b3J5IjpbMTQ1MDQ2NzQwNSwtNjk1OTY3NDc0LDIwMj
+Y5NDgwMzgsMTQ1NzExODY0MiwxOTM4Njk1NzY0LDE2NjQ3NjM4
+MywtMTAzMjE3OTQyMCw5MjMyMDUxOTEsLTIwMzM2MDAxNzQsND
+cyNzA3NTk4LC0yNzEyNTcwMTksNDcyNzA3NTk4LC0xNDA4MDcy
+NzkwLC0xNTc4MDYzNzY0LDU0NjUzNTgxMCwxNzMwMzY0MTEyLC
+0xMDI5ODUwMDcxLDE0NTEwNjQzMyw5MTMyNTE1MzMsMTAyMjA1
+NTYyNV19
 -->
