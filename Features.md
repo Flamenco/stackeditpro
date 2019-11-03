@@ -9,8 +9,8 @@ We have added `YAML`, `Kotlin`, and `Shell` to the default code fence syntax hig
 [YAML]
 items:
   - red
-  - blue
   - 10
+  - true
   - "A string"
 ```
 ```kotlin
@@ -318,11 +318,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MDQ2NzQwNSwtNjk1OTY3NDc0LDIwMj
-Y5NDgwMzgsMTQ1NzExODY0MiwxOTM4Njk1NzY0LDE2NjQ3NjM4
-MywtMTAzMjE3OTQyMCw5MjMyMDUxOTEsLTIwMzM2MDAxNzQsND
-cyNzA3NTk4LC0yNzEyNTcwMTksNDcyNzA3NTk4LC0xNDA4MDcy
-NzkwLC0xNTc4MDYzNzY0LDU0NjUzNTgxMCwxNzMwMzY0MTEyLC
-0xMDI5ODUwMDcxLDE0NTEwNjQzMyw5MTMyNTE1MzMsMTAyMjA1
-NTYyNV19
+eyJoaXN0b3J5IjpbMTg4MjQwMTQwOSwxNDUwNDY3NDA1LC02OT
+U5Njc0NzQsMjAyNjk0ODAzOCwxNDU3MTE4NjQyLDE5Mzg2OTU3
+NjQsMTY2NDc2MzgzLC0xMDMyMTc5NDIwLDkyMzIwNTE5MSwtMj
+AzMzYwMDE3NCw0NzI3MDc1OTgsLTI3MTI1NzAxOSw0NzI3MDc1
+OTgsLTE0MDgwNzI3OTAsLTE1NzgwNjM3NjQsNTQ2NTM1ODEwLD
+E3MzAzNjQxMTIsLTEwMjk4NTAwNzEsMTQ1MTA2NDMzLDkxMzI1
+MTUzM119
 -->
