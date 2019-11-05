@@ -6,12 +6,14 @@ All features and fixes are ordered by *most recently modified*.
 ## Convert List To Headings (pending)
 Select a list of items and convert it to headings.
 Available at: */actions/Convert List To Headings*.
+
+Select a list such as this:
 ```md
 * One
 * Two
 * Three
 ```
-to
+And convert it to:
 ```
 # One
 # Two
@@ -333,11 +335,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDMyMTMxNTEsLTIxNDI0MzgxOTksLT
-EyMjY4NTU1NzYsMTY2NDAyMTM2NSwxODgyNDAxNDA5LDE0NTA0
-Njc0MDUsLTY5NTk2NzQ3NCwyMDI2OTQ4MDM4LDE0NTcxMTg2ND
-IsMTkzODY5NTc2NCwxNjY0NzYzODMsLTEwMzIxNzk0MjAsOTIz
-MjA1MTkxLC0yMDMzNjAwMTc0LDQ3MjcwNzU5OCwtMjcxMjU3MD
-E5LDQ3MjcwNzU5OCwtMTQwODA3Mjc5MCwtMTU3ODA2Mzc2NCw1
-NDY1MzU4MTBdfQ==
+eyJoaXN0b3J5IjpbLTcxMDU0OTgwMiwtMTk0MzIxMzE1MSwtMj
+E0MjQzODE5OSwtMTIyNjg1NTU3NiwxNjY0MDIxMzY1LDE4ODI0
+MDE0MDksMTQ1MDQ2NzQwNSwtNjk1OTY3NDc0LDIwMjY5NDgwMz
+gsMTQ1NzExODY0MiwxOTM4Njk1NzY0LDE2NjQ3NjM4MywtMTAz
+MjE3OTQyMCw5MjMyMDUxOTEsLTIwMzM2MDAxNzQsNDcyNzA3NT
+k4LC0yNzEyNTcwMTksNDcyNzA3NTk4LC0xNDA4MDcyNzkwLC0x
+NTc4MDYzNzY0XX0=
 -->
