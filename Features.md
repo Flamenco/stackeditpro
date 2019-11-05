@@ -21,7 +21,7 @@ And convert it to:
 ```
 
 ## New Code Fence Languages
-We have added `YAML`, `Kotlin`, and `Shell` and `Markdown` to the default code fence syntax highlighting.
+We have added `YAML`, `Kotlin`, and `Shell`, `Typescript`, `JavaDoc`, and `Markdown` to the default code fence syntax highlighting.
 ```yaml
 [YAML]
 items:
@@ -45,6 +45,12 @@ chown -R foo:bar /my/files
 * One
 * Two
 * Three
+```
+```ts
+[Typescript]
+interface Foo {
+  bar(int:Int):String
+}
 ```
 
 ## Keyboard Shortcut Manager
@@ -342,11 +348,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMjkyMzUwOCwtNzEwNTQ5ODAyLC0xOT
-QzMjEzMTUxLC0yMTQyNDM4MTk5LC0xMjI2ODU1NTc2LDE2NjQw
-MjEzNjUsMTg4MjQwMTQwOSwxNDUwNDY3NDA1LC02OTU5Njc0Nz
-QsMjAyNjk0ODAzOCwxNDU3MTE4NjQyLDE5Mzg2OTU3NjQsMTY2
-NDc2MzgzLC0xMDMyMTc5NDIwLDkyMzIwNTE5MSwtMjAzMzYwMD
-E3NCw0NzI3MDc1OTgsLTI3MTI1NzAxOSw0NzI3MDc1OTgsLTE0
-MDgwNzI3OTBdfQ==
+eyJoaXN0b3J5IjpbMTkzNjkyOTYzNSwxNjAyOTIzNTA4LC03MT
+A1NDk4MDIsLTE5NDMyMTMxNTEsLTIxNDI0MzgxOTksLTEyMjY4
+NTU1NzYsMTY2NDAyMTM2NSwxODgyNDAxNDA5LDE0NTA0Njc0MD
+UsLTY5NTk2NzQ3NCwyMDI2OTQ4MDM4LDE0NTcxMTg2NDIsMTkz
+ODY5NTc2NCwxNjY0NzYzODMsLTEwMzIxNzk0MjAsOTIzMjA1MT
+kxLC0yMDMzNjAwMTc0LDQ3MjcwNzU5OCwtMjcxMjU3MDE5LDQ3
+MjcwNzU5OF19
 -->
