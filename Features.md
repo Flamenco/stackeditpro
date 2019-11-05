@@ -16,7 +16,7 @@ Select a list such as this:
 * Three
 ```
 And convert it to:
-```
+```md
 # One
 # Two
 # Three
@@ -41,7 +41,7 @@ fun length(text:String): Int
 ls /foo/bar
 chown -R foo:bar /my/files
 ```
-```
+```md
 [Markdown]
 # My List
 * One
@@ -350,11 +350,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NTI2NzQ5MCwxNjQ0OTE2NzEsOTg2Mz
-QyNzI1LC0xMTMwNDUwMDkyLDk4NjM0MjcyNSwxNTEwNDE4Mjk2
-LDE2MDI5MjM1MDgsLTcxMDU0OTgwMiwtMTk0MzIxMzE1MSwtMj
-E0MjQzODE5OSwtMTIyNjg1NTU3NiwxNjY0MDIxMzY1LDE4ODI0
-MDE0MDksMTQ1MDQ2NzQwNSwtNjk1OTY3NDc0LDIwMjY5NDgwMz
-gsMTQ1NzExODY0MiwxOTM4Njk1NzY0LDE2NjQ3NjM4MywtMTAz
-MjE3OTQyMF19
+eyJoaXN0b3J5IjpbLTE1ODY0NDc5OCwxMzc1MjY3NDkwLDE2ND
+Q5MTY3MSw5ODYzNDI3MjUsLTExMzA0NTAwOTIsOTg2MzQyNzI1
+LDE1MTA0MTgyOTYsMTYwMjkyMzUwOCwtNzEwNTQ5ODAyLC0xOT
+QzMjEzMTUxLC0yMTQyNDM4MTk5LC0xMjI2ODU1NTc2LDE2NjQw
+MjEzNjUsMTg4MjQwMTQwOSwxNDUwNDY3NDA1LC02OTU5Njc0Nz
+QsMjAyNjk0ODAzOCwxNDU3MTE4NjQyLDE5Mzg2OTU3NjQsMTY2
+NDc2MzgzXX0=
 -->
