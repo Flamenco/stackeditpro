@@ -3,6 +3,20 @@ All features and fixes are ordered by *most recently modified*.
 
 # New Features
 
+## Convert List To Headings
+Select a list of items and convert it to headings.
+```md
+* One
+* Two
+* Three
+```
+to
+```
+# One
+# Two
+# Three
+```
+
 ## New Code Fence Languages
 We have added `YAML`, `Kotlin`, and `Shell` to the default code fence syntax highlighting.
 ```yaml
@@ -318,11 +332,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjY4NTU1NzYsMTY2NDAyMTM2NSwxOD
-gyNDAxNDA5LDE0NTA0Njc0MDUsLTY5NTk2NzQ3NCwyMDI2OTQ4
-MDM4LDE0NTcxMTg2NDIsMTkzODY5NTc2NCwxNjY0NzYzODMsLT
-EwMzIxNzk0MjAsOTIzMjA1MTkxLC0yMDMzNjAwMTc0LDQ3Mjcw
-NzU5OCwtMjcxMjU3MDE5LDQ3MjcwNzU5OCwtMTQwODA3Mjc5MC
-wtMTU3ODA2Mzc2NCw1NDY1MzU4MTAsMTczMDM2NDExMiwtMTAy
-OTg1MDA3MV19
+eyJoaXN0b3J5IjpbLTIxNDI0MzgxOTksLTEyMjY4NTU1NzYsMT
+Y2NDAyMTM2NSwxODgyNDAxNDA5LDE0NTA0Njc0MDUsLTY5NTk2
+NzQ3NCwyMDI2OTQ4MDM4LDE0NTcxMTg2NDIsMTkzODY5NTc2NC
+wxNjY0NzYzODMsLTEwMzIxNzk0MjAsOTIzMjA1MTkxLC0yMDMz
+NjAwMTc0LDQ3MjcwNzU5OCwtMjcxMjU3MDE5LDQ3MjcwNzU5OC
+wtMTQwODA3Mjc5MCwtMTU3ODA2Mzc2NCw1NDY1MzU4MTAsMTcz
+MDM2NDExMl19
 -->
