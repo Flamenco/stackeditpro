@@ -23,7 +23,7 @@ And convert it to:
 ```
 
 ## New Code Fence Languages
-We have added `YAML`, `Kotlin`, and `Shell`, `Typescript`, `JavaDoc`, and `Markdown` to the default code fence syntax highlighting.
+We have added `YAML`, `Kotlin`, `Shell`, `Typescript`, `JavaDoc`, and `Markdown` to the default code fence syntax highlighting.
 ```yaml
 [YAML]
 items:
@@ -350,11 +350,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDkyNzg0ODUsLTE1ODY0NDc5OCwxMz
-c1MjY3NDkwLDE2NDQ5MTY3MSw5ODYzNDI3MjUsLTExMzA0NTAw
-OTIsOTg2MzQyNzI1LDE1MTA0MTgyOTYsMTYwMjkyMzUwOCwtNz
-EwNTQ5ODAyLC0xOTQzMjEzMTUxLC0yMTQyNDM4MTk5LC0xMjI2
-ODU1NTc2LDE2NjQwMjEzNjUsMTg4MjQwMTQwOSwxNDUwNDY3ND
-A1LC02OTU5Njc0NzQsMjAyNjk0ODAzOCwxNDU3MTE4NjQyLDE5
-Mzg2OTU3NjRdfQ==
+eyJoaXN0b3J5IjpbMjMxMTAyNzcyLC0xODA5Mjc4NDg1LC0xNT
+g2NDQ3OTgsMTM3NTI2NzQ5MCwxNjQ0OTE2NzEsOTg2MzQyNzI1
+LC0xMTMwNDUwMDkyLDk4NjM0MjcyNSwxNTEwNDE4Mjk2LDE2MD
+I5MjM1MDgsLTcxMDU0OTgwMiwtMTk0MzIxMzE1MSwtMjE0MjQz
+ODE5OSwtMTIyNjg1NTU3NiwxNjY0MDIxMzY1LDE4ODI0MDE0MD
+ksMTQ1MDQ2NzQwNSwtNjk1OTY3NDc0LDIwMjY5NDgwMzgsMTQ1
+NzExODY0Ml19
 -->
