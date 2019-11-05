@@ -49,7 +49,7 @@ chown -R foo:bar /my/files
 ```ts
 [Typescript]
 interface Foo {
-  bar(int:Int):String
+  length(text:string): number
 }
 ```
 
@@ -348,7 +348,7 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNjkyOTYzNSwxNjAyOTIzNTA4LC03MT
+eyJoaXN0b3J5IjpbMTUxMDQxODI5NiwxNjAyOTIzNTA4LC03MT
 A1NDk4MDIsLTE5NDMyMTMxNTEsLTIxNDI0MzgxOTksLTEyMjY4
 NTU1NzYsMTY2NDAyMTM2NSwxODgyNDAxNDA5LDE0NTA0Njc0MD
 UsLTY5NTk2NzQ3NCwyMDI2OTQ4MDM4LDE0NTcxMTg2NDIsMTkz
