@@ -3,7 +3,7 @@ All features and fixes are ordered by *most recently modified*.
 
 # New Features
 
-## Convert List To Headings (pending)
+## Convert List To Headings
 Select an item list convert the items to headings.
 
 Category: *document/selection*  
@@ -354,11 +354,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMxOTYyNzQ0LDEzOTI3MDQ3NDQsMTc3MD
-U3NTA0OCwyMzExMDI3NzIsLTE4MDkyNzg0ODUsLTE1ODY0NDc5
-OCwxMzc1MjY3NDkwLDE2NDQ5MTY3MSw5ODYzNDI3MjUsLTExMz
-A0NTAwOTIsOTg2MzQyNzI1LDE1MTA0MTgyOTYsMTYwMjkyMzUw
-OCwtNzEwNTQ5ODAyLC0xOTQzMjEzMTUxLC0yMTQyNDM4MTk5LC
-0xMjI2ODU1NTc2LDE2NjQwMjEzNjUsMTg4MjQwMTQwOSwxNDUw
-NDY3NDA1XX0=
+eyJoaXN0b3J5IjpbLTYwMjkxNzMyNiw2MzE5NjI3NDQsMTM5Mj
+cwNDc0NCwxNzcwNTc1MDQ4LDIzMTEwMjc3MiwtMTgwOTI3ODQ4
+NSwtMTU4NjQ0Nzk4LDEzNzUyNjc0OTAsMTY0NDkxNjcxLDk4Nj
+M0MjcyNSwtMTEzMDQ1MDA5Miw5ODYzNDI3MjUsMTUxMDQxODI5
+NiwxNjAyOTIzNTA4LC03MTA1NDk4MDIsLTE5NDMyMTMxNTEsLT
+IxNDI0MzgxOTksLTEyMjY4NTU1NzYsMTY2NDAyMTM2NSwxODgy
+NDAxNDA5XX0=
 -->
