@@ -45,7 +45,7 @@ There is was no *last-modified* data associated with files, so we could not sort
 We added the ability to link multiple workspaces to a single user ID.
 
 ## Babel Prism Plugin
-We removed the Gulp Prism script and replaced it with the Babel Prism Plugin.  We updated the default languages to include *Go* and *Typescript*.
+We removed the Gulp Prism script and replaced it with the Babel Prism Plugin.  We updated the default languages to include *Go*,  *Typescript*, and more.
 
 ## Allow other input types for FormEntry
 The default forms would only allow input and select elements inside.
@@ -56,6 +56,7 @@ The default forms would only allow input and select elements inside.
 ## Ecosystem And Culture
 We get things done here.  Quickly and without ego.  We encourage feature and bug requests. We will not leave issues without responses for weeks, months, or years as seen in other projects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU0MzYxMTc3LC0xMzQ0MDIzODM5LDE3Mz
-EwNzc0LC0yMzczOTE0NTcsNzkzMTA4Mzg5XX0=
+eyJoaXN0b3J5IjpbLTE0OTQxMzMyMDIsOTU0MzYxMTc3LC0xMz
+Q0MDIzODM5LDE3MzEwNzc0LC0yMzczOTE0NTcsNzkzMTA4Mzg5
+XX0=
 -->
