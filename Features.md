@@ -5,7 +5,8 @@ All features and fixes are ordered by *most recently modified*.
 
 ## Convert List To Headings (pending)
 Select a list of items and convert it to headings.
-Available at: */actions/Convert List To Headings*.
+Category: *document*
+Location: *actions -> Convert list to headings*
 
 Select a list such as this:
 ```md
@@ -348,11 +349,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMDQxODI5NiwxNjAyOTIzNTA4LC03MT
-A1NDk4MDIsLTE5NDMyMTMxNTEsLTIxNDI0MzgxOTksLTEyMjY4
-NTU1NzYsMTY2NDAyMTM2NSwxODgyNDAxNDA5LDE0NTA0Njc0MD
-UsLTY5NTk2NzQ3NCwyMDI2OTQ4MDM4LDE0NTcxMTg2NDIsMTkz
-ODY5NTc2NCwxNjY0NzYzODMsLTEwMzIxNzk0MjAsOTIzMjA1MT
-kxLC0yMDMzNjAwMTc0LDQ3MjcwNzU5OCwtMjcxMjU3MDE5LDQ3
-MjcwNzU5OF19
+eyJoaXN0b3J5IjpbOTg2MzQyNzI1LDE1MTA0MTgyOTYsMTYwMj
+kyMzUwOCwtNzEwNTQ5ODAyLC0xOTQzMjEzMTUxLC0yMTQyNDM4
+MTk5LC0xMjI2ODU1NTc2LDE2NjQwMjEzNjUsMTg4MjQwMTQwOS
+wxNDUwNDY3NDA1LC02OTU5Njc0NzQsMjAyNjk0ODAzOCwxNDU3
+MTE4NjQyLDE5Mzg2OTU3NjQsMTY2NDc2MzgzLC0xMDMyMTc5ND
+IwLDkyMzIwNTE5MSwtMjAzMzYwMDE3NCw0NzI3MDc1OTgsLTI3
+MTI1NzAxOV19
 -->
