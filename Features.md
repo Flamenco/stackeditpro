@@ -44,9 +44,9 @@ chown -R foo:bar /my/files
 ```md
 [Markdown]
 # My List
-* One
-* Two
-* Three
+* Plain
+* *Italic*
+* **Bold**
 ```
 ```ts
 [Typescript]
@@ -350,11 +350,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODY0NDc5OCwxMzc1MjY3NDkwLDE2ND
-Q5MTY3MSw5ODYzNDI3MjUsLTExMzA0NTAwOTIsOTg2MzQyNzI1
-LDE1MTA0MTgyOTYsMTYwMjkyMzUwOCwtNzEwNTQ5ODAyLC0xOT
-QzMjEzMTUxLC0yMTQyNDM4MTk5LC0xMjI2ODU1NTc2LDE2NjQw
-MjEzNjUsMTg4MjQwMTQwOSwxNDUwNDY3NDA1LC02OTU5Njc0Nz
-QsMjAyNjk0ODAzOCwxNDU3MTE4NjQyLDE5Mzg2OTU3NjQsMTY2
-NDc2MzgzXX0=
+eyJoaXN0b3J5IjpbLTE4MDkyNzg0ODUsLTE1ODY0NDc5OCwxMz
+c1MjY3NDkwLDE2NDQ5MTY3MSw5ODYzNDI3MjUsLTExMzA0NTAw
+OTIsOTg2MzQyNzI1LDE1MTA0MTgyOTYsMTYwMjkyMzUwOCwtNz
+EwNTQ5ODAyLC0xOTQzMjEzMTUxLC0yMTQyNDM4MTk5LC0xMjI2
+ODU1NTc2LDE2NjQwMjEzNjUsMTg4MjQwMTQwOSwxNDUwNDY3ND
+A1LC02OTU5Njc0NzQsMjAyNjk0ODAzOCwxNDU3MTE4NjQyLDE5
+Mzg2OTU3NjRdfQ==
 -->
