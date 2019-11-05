@@ -39,7 +39,7 @@ items:
 fun length(text:String): Int
 ```
 ```shell
-[shell]
+[Shell]
 ls /foo/bar
 chown -R foo:bar /my/files
 ```
@@ -359,11 +359,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY0NjM5NDg2LDczNjgyNjc0OCwtMTYxND
-I4MzM4NywtNjAyOTE3MzI2LDYzMTk2Mjc0NCwxMzkyNzA0NzQ0
-LDE3NzA1NzUwNDgsMjMxMTAyNzcyLC0xODA5Mjc4NDg1LC0xNT
-g2NDQ3OTgsMTM3NTI2NzQ5MCwxNjQ0OTE2NzEsOTg2MzQyNzI1
-LC0xMTMwNDUwMDkyLDk4NjM0MjcyNSwxNTEwNDE4Mjk2LDE2MD
-I5MjM1MDgsLTcxMDU0OTgwMiwtMTk0MzIxMzE1MSwtMjE0MjQz
-ODE5OV19
+eyJoaXN0b3J5IjpbMTYwNDg4Njc1MCw3NjQ2Mzk0ODYsNzM2OD
+I2NzQ4LC0xNjE0MjgzMzg3LC02MDI5MTczMjYsNjMxOTYyNzQ0
+LDEzOTI3MDQ3NDQsMTc3MDU3NTA0OCwyMzExMDI3NzIsLTE4MD
+kyNzg0ODUsLTE1ODY0NDc5OCwxMzc1MjY3NDkwLDE2NDQ5MTY3
+MSw5ODYzNDI3MjUsLTExMzA0NTAwOTIsOTg2MzQyNzI1LDE1MT
+A0MTgyOTYsMTYwMjkyMzUwOCwtNzEwNTQ5ODAyLC0xOTQzMjEz
+MTUxXX0=
 -->
