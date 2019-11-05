@@ -55,6 +55,7 @@ chown -R foo:bar /my/files
 [Typescript]
 interface Foo {
   length(text:string): number
+  label:string
 }
 ```
 
@@ -355,11 +356,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTQyODMzODcsLTYwMjkxNzMyNiw2Mz
-E5NjI3NDQsMTM5MjcwNDc0NCwxNzcwNTc1MDQ4LDIzMTEwMjc3
-MiwtMTgwOTI3ODQ4NSwtMTU4NjQ0Nzk4LDEzNzUyNjc0OTAsMT
-Y0NDkxNjcxLDk4NjM0MjcyNSwtMTEzMDQ1MDA5Miw5ODYzNDI3
-MjUsMTUxMDQxODI5NiwxNjAyOTIzNTA4LC03MTA1NDk4MDIsLT
-E5NDMyMTMxNTEsLTIxNDI0MzgxOTksLTEyMjY4NTU1NzYsMTY2
-NDAyMTM2NV19
+eyJoaXN0b3J5IjpbNzM2ODI2NzQ4LC0xNjE0MjgzMzg3LC02MD
+I5MTczMjYsNjMxOTYyNzQ0LDEzOTI3MDQ3NDQsMTc3MDU3NTA0
+OCwyMzExMDI3NzIsLTE4MDkyNzg0ODUsLTE1ODY0NDc5OCwxMz
+c1MjY3NDkwLDE2NDQ5MTY3MSw5ODYzNDI3MjUsLTExMzA0NTAw
+OTIsOTg2MzQyNzI1LDE1MTA0MTgyOTYsMTYwMjkyMzUwOCwtNz
+EwNTQ5ODAyLC0xOTQzMjEzMTUxLC0yMTQyNDM4MTk5LC0xMjI2
+ODU1NTc2XX0=
 -->
