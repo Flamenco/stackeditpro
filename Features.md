@@ -6,7 +6,7 @@ All features and fixes are ordered by *most recently modified*.
 ## Convert List To Headings (pending)
 Select an item list convert the items to headings.
 
-Category: *document*  
+Category: *document/selection*  
 Location: *actions -> Convert List To Headings*
 
 Select a list such as this:
@@ -21,6 +21,8 @@ And convert it to:
 # Two
 # Three
 ```
+### Usage
+First, select your list.  After invoking the action, you are presented with a dialog to select the list level.  After selecting the level, your list is converted to headings.
 
 ## New Code Fence Languages
 We have added `YAML`, `Kotlin`, `Shell`, `Typescript`, `JavaDoc`, and `Markdown` to the default code fence syntax highlighting.
@@ -352,11 +354,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MjcwNDc0NCwxNzcwNTc1MDQ4LDIzMT
-EwMjc3MiwtMTgwOTI3ODQ4NSwtMTU4NjQ0Nzk4LDEzNzUyNjc0
-OTAsMTY0NDkxNjcxLDk4NjM0MjcyNSwtMTEzMDQ1MDA5Miw5OD
-YzNDI3MjUsMTUxMDQxODI5NiwxNjAyOTIzNTA4LC03MTA1NDk4
-MDIsLTE5NDMyMTMxNTEsLTIxNDI0MzgxOTksLTEyMjY4NTU1Nz
-YsMTY2NDAyMTM2NSwxODgyNDAxNDA5LDE0NTA0Njc0MDUsLTY5
-NTk2NzQ3NF19
+eyJoaXN0b3J5IjpbNjMxOTYyNzQ0LDEzOTI3MDQ3NDQsMTc3MD
+U3NTA0OCwyMzExMDI3NzIsLTE4MDkyNzg0ODUsLTE1ODY0NDc5
+OCwxMzc1MjY3NDkwLDE2NDQ5MTY3MSw5ODYzNDI3MjUsLTExMz
+A0NTAwOTIsOTg2MzQyNzI1LDE1MTA0MTgyOTYsMTYwMjkyMzUw
+OCwtNzEwNTQ5ODAyLC0xOTQzMjEzMTUxLC0yMTQyNDM4MTk5LC
+0xMjI2ODU1NTc2LDE2NjQwMjEzNjUsMTg4MjQwMTQwOSwxNDUw
+NDY3NDA1XX0=
 -->
