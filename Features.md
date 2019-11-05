@@ -281,6 +281,8 @@ This procedure is equivalent to:
 > You will be presented with an *Extract Text confirmation dialog* when executing this action.  This dialog allows you to specify the new name if different than the first heading of the selection.
 
 # Fixes
+## Bold in Markdown language code fences
+Bold was not working when using the `markdown` language in a code fence.
 
 ## Scrollable Navigation Bar
 The navigation and formatting buttons are now in a scrollable section of the navigation bar, making them available on narrow-width devices.
@@ -350,11 +352,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMxMTAyNzcyLC0xODA5Mjc4NDg1LC0xNT
-g2NDQ3OTgsMTM3NTI2NzQ5MCwxNjQ0OTE2NzEsOTg2MzQyNzI1
-LC0xMTMwNDUwMDkyLDk4NjM0MjcyNSwxNTEwNDE4Mjk2LDE2MD
-I5MjM1MDgsLTcxMDU0OTgwMiwtMTk0MzIxMzE1MSwtMjE0MjQz
-ODE5OSwtMTIyNjg1NTU3NiwxNjY0MDIxMzY1LDE4ODI0MDE0MD
-ksMTQ1MDQ2NzQwNSwtNjk1OTY3NDc0LDIwMjY5NDgwMzgsMTQ1
-NzExODY0Ml19
+eyJoaXN0b3J5IjpbMTc3MDU3NTA0OCwyMzExMDI3NzIsLTE4MD
+kyNzg0ODUsLTE1ODY0NDc5OCwxMzc1MjY3NDkwLDE2NDQ5MTY3
+MSw5ODYzNDI3MjUsLTExMzA0NTAwOTIsOTg2MzQyNzI1LDE1MT
+A0MTgyOTYsMTYwMjkyMzUwOCwtNzEwNTQ5ODAyLC0xOTQzMjEz
+MTUxLC0yMTQyNDM4MTk5LC0xMjI2ODU1NTc2LDE2NjQwMjEzNj
+UsMTg4MjQwMTQwOSwxNDUwNDY3NDA1LC02OTU5Njc0NzQsMjAy
+Njk0ODAzOF19
 -->
