@@ -21,7 +21,7 @@ And convert it to:
 ```
 
 ## New Code Fence Languages
-We have added `YAML`, `Kotlin`, and `Shell` to the default code fence syntax highlighting.
+We have added `YAML`, `Kotlin`, and `Shell` and `Markdown` to the default code fence syntax highlighting.
 ```yaml
 [YAML]
 items:
@@ -38,6 +38,13 @@ fun length(text:String): Int
 [shell]
 ls /foo/bar
 chown -R foo:bar /my/files
+```
+```
+[Markdown]
+# My List
+* One
+* Two
+* Three
 ```
 
 ## Keyboard Shortcut Manager
@@ -335,11 +342,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMDU0OTgwMiwtMTk0MzIxMzE1MSwtMj
-E0MjQzODE5OSwtMTIyNjg1NTU3NiwxNjY0MDIxMzY1LDE4ODI0
-MDE0MDksMTQ1MDQ2NzQwNSwtNjk1OTY3NDc0LDIwMjY5NDgwMz
-gsMTQ1NzExODY0MiwxOTM4Njk1NzY0LDE2NjQ3NjM4MywtMTAz
-MjE3OTQyMCw5MjMyMDUxOTEsLTIwMzM2MDAxNzQsNDcyNzA3NT
-k4LC0yNzEyNTcwMTksNDcyNzA3NTk4LC0xNDA4MDcyNzkwLC0x
-NTc4MDYzNzY0XX0=
+eyJoaXN0b3J5IjpbMTYwMjkyMzUwOCwtNzEwNTQ5ODAyLC0xOT
+QzMjEzMTUxLC0yMTQyNDM4MTk5LC0xMjI2ODU1NTc2LDE2NjQw
+MjEzNjUsMTg4MjQwMTQwOSwxNDUwNDY3NDA1LC02OTU5Njc0Nz
+QsMjAyNjk0ODAzOCwxNDU3MTE4NjQyLDE5Mzg2OTU3NjQsMTY2
+NDc2MzgzLC0xMDMyMTc5NDIwLDkyMzIwNTE5MSwtMjAzMzYwMD
+E3NCw0NzI3MDc1OTgsLTI3MTI1NzAxOSw0NzI3MDc1OTgsLTE0
+MDgwNzI3OTBdfQ==
 -->
