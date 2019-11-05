@@ -57,6 +57,9 @@ interface Foo {
   length(text:string): number
   label:string
 }
+enum Size {
+  SMALL, MEDIUM, LARGE, XLARGE
+}
 ```
 
 ## Keyboard Shortcut Manager
@@ -356,11 +359,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM2ODI2NzQ4LC0xNjE0MjgzMzg3LC02MD
-I5MTczMjYsNjMxOTYyNzQ0LDEzOTI3MDQ3NDQsMTc3MDU3NTA0
-OCwyMzExMDI3NzIsLTE4MDkyNzg0ODUsLTE1ODY0NDc5OCwxMz
-c1MjY3NDkwLDE2NDQ5MTY3MSw5ODYzNDI3MjUsLTExMzA0NTAw
-OTIsOTg2MzQyNzI1LDE1MTA0MTgyOTYsMTYwMjkyMzUwOCwtNz
-EwNTQ5ODAyLC0xOTQzMjEzMTUxLC0yMTQyNDM4MTk5LC0xMjI2
-ODU1NTc2XX0=
+eyJoaXN0b3J5IjpbNzY0NjM5NDg2LDczNjgyNjc0OCwtMTYxND
+I4MzM4NywtNjAyOTE3MzI2LDYzMTk2Mjc0NCwxMzkyNzA0NzQ0
+LDE3NzA1NzUwNDgsMjMxMTAyNzcyLC0xODA5Mjc4NDg1LC0xNT
+g2NDQ3OTgsMTM3NTI2NzQ5MCwxNjQ0OTE2NzEsOTg2MzQyNzI1
+LC0xMTMwNDUwMDkyLDk4NjM0MjcyNSwxNTEwNDE4Mjk2LDE2MD
+I5MjM1MDgsLTcxMDU0OTgwMiwtMTk0MzIxMzE1MSwtMjE0MjQz
+ODE5OV19
 -->
