@@ -3,7 +3,7 @@ There is an ongoing data corruption when merging data between 3+ clients and a s
 
 When a conflict occurs, we now add a *Merge Conflict Report* document to your workspace to indicate what would have been merged and when it happened.  You can then view the history of your document if you need to fix it.  The merge report also includes the pre and post merge versions for your convenience.
 
-In our experience, most situations that require a merge really needed the server version.  An the default merge operation resulted in a corrupt document.  **We decided that when it is detected that the server and client changed, we will keep the server, and create a report with all 3 versions (client, server, and merge)**.
+In our experience, most situations that require a merge really needed the server version.  And the default merge operation resulted in a corrupt document.  **We decided that when it is detected that the server and client changed, we will keep the server, and create a report with all 3 versions (client, server, and merge)**.
 
 # Move File Dialog
 The window in not tall enough.  It should size to full screen.  Use a filtered choice picker.
@@ -31,11 +31,11 @@ The sharing server does not render mermaid, fences, or other canvas-based extens
 * Document driven design integration.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDMxNTQ5MTYsMzIwMTA0NjEsMzk4OT
-U0OTA5LDE4NDkyNjYwODIsMTU0MzM4NTQ5OSwtMTU5MDMzNDA5
-OSwxNTQzMzg1NDk5LC05NDcxMTA4MjIsLTMwNDQxOTU3MCwyMD
-k5MDQxMzQ2LDE2MzgwMjExNDcsMTc1ODM0MzY5NywtMjA4MzIw
-MDAxMywtMTQxNjUzMzEzMyw2NTU4NTA1MTUsMTA0MjkzNzUyNS
-wxNzIzNzA0MTAxLDI1OTk3MDM0NiwtMTgwMDE3MzA5Niw2NTU4
-NTA1MTVdfQ==
+eyJoaXN0b3J5IjpbMTQ1ODIwNzQxNiwtMTg0MzE1NDkxNiwzMj
+AxMDQ2MSwzOTg5NTQ5MDksMTg0OTI2NjA4MiwxNTQzMzg1NDk5
+LC0xNTkwMzM0MDk5LDE1NDMzODU0OTksLTk0NzExMDgyMiwtMz
+A0NDE5NTcwLDIwOTkwNDEzNDYsMTYzODAyMTE0NywxNzU4MzQz
+Njk3LC0yMDgzMjAwMDEzLC0xNDE2NTMzMTMzLDY1NTg1MDUxNS
+wxMDQyOTM3NTI1LDE3MjM3MDQxMDEsMjU5OTcwMzQ2LC0xODAw
+MTczMDk2XX0=
 -->
