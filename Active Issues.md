@@ -21,7 +21,7 @@ Send us an email if you require Zendesk support.
 The sharing server does not render mermaid, fences, or other canvas-based extensions.
 
 # Feature Requests
-~~* Add scrolling divs (or toolbar popup) to toolbar.  Tools are not available on a narrow device.~~
+*~~ Add scrolling divs (or toolbar popup) to toolbar.  Tools are not available on a narrow device.~~
 * Export canvas as png.
 * Create plugin architecture.
 * Tasks
@@ -32,11 +32,11 @@ The sharing server does not render mermaid, fences, or other canvas-based extens
 * Open all external links in a new window
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg1OTMwMDEsLTM4MTg0OTIzNiwxNDU4Mj
-A3NDE2LC0xODQzMTU0OTE2LDMyMDEwNDYxLDM5ODk1NDkwOSwx
-ODQ5MjY2MDgyLDE1NDMzODU0OTksLTE1OTAzMzQwOTksMTU0Mz
-M4NTQ5OSwtOTQ3MTEwODIyLC0zMDQ0MTk1NzAsMjA5OTA0MTM0
-NiwxNjM4MDIxMTQ3LDE3NTgzNDM2OTcsLTIwODMyMDAwMTMsLT
-E0MTY1MzMxMzMsNjU1ODUwNTE1LDEwNDI5Mzc1MjUsMTcyMzcw
-NDEwMV19
+eyJoaXN0b3J5IjpbLTExMTExNzMyNzEsODg1OTMwMDEsLTM4MT
+g0OTIzNiwxNDU4MjA3NDE2LC0xODQzMTU0OTE2LDMyMDEwNDYx
+LDM5ODk1NDkwOSwxODQ5MjY2MDgyLDE1NDMzODU0OTksLTE1OT
+AzMzQwOTksMTU0MzM4NTQ5OSwtOTQ3MTEwODIyLC0zMDQ0MTk1
+NzAsMjA5OTA0MTM0NiwxNjM4MDIxMTQ3LDE3NTgzNDM2OTcsLT
+IwODMyMDAwMTMsLTE0MTY1MzMxMzMsNjU1ODUwNTE1LDEwNDI5
+Mzc1MjVdfQ==
 -->
