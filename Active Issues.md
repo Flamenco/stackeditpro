@@ -29,13 +29,14 @@ The sharing server does not render mermaid, fences, or other canvas-based extens
 	* Integrate tasks with external systems.
 	* Scroll to line when selecting search and task links.
 * Document driven design integration.
+* Open all external links in a new window
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MTg0OTIzNiwxNDU4MjA3NDE2LC0xOD
-QzMTU0OTE2LDMyMDEwNDYxLDM5ODk1NDkwOSwxODQ5MjY2MDgy
-LDE1NDMzODU0OTksLTE1OTAzMzQwOTksMTU0MzM4NTQ5OSwtOT
-Q3MTEwODIyLC0zMDQ0MTk1NzAsMjA5OTA0MTM0NiwxNjM4MDIx
-MTQ3LDE3NTgzNDM2OTcsLTIwODMyMDAwMTMsLTE0MTY1MzMxMz
-MsNjU1ODUwNTE1LDEwNDI5Mzc1MjUsMTcyMzcwNDEwMSwyNTk5
-NzAzNDZdfQ==
+eyJoaXN0b3J5IjpbODg1OTMwMDEsLTM4MTg0OTIzNiwxNDU4Mj
+A3NDE2LC0xODQzMTU0OTE2LDMyMDEwNDYxLDM5ODk1NDkwOSwx
+ODQ5MjY2MDgyLDE1NDMzODU0OTksLTE1OTAzMzQwOTksMTU0Mz
+M4NTQ5OSwtOTQ3MTEwODIyLC0zMDQ0MTk1NzAsMjA5OTA0MTM0
+NiwxNjM4MDIxMTQ3LDE3NTgzNDM2OTcsLTIwODMyMDAwMTMsLT
+E0MTY1MzMxMzMsNjU1ODUwNTE1LDEwNDI5Mzc1MjUsMTcyMzcw
+NDEwMV19
 -->
