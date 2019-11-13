@@ -3,6 +3,9 @@ All features and fixes are ordered by *most recently modified*.
 
 # New Features
 
+## Updated Heading Styles
+We removed most of the top and bottom margins from headings.
+
 ## Convert List To Headings
 Select an item list convert the items to headings.
 
@@ -359,11 +362,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIyNDE0MTIxLDE2MDQ4ODY3NTAsNzY0Nj
-M5NDg2LDczNjgyNjc0OCwtMTYxNDI4MzM4NywtNjAyOTE3MzI2
-LDYzMTk2Mjc0NCwxMzkyNzA0NzQ0LDE3NzA1NzUwNDgsMjMxMT
-AyNzcyLC0xODA5Mjc4NDg1LC0xNTg2NDQ3OTgsMTM3NTI2NzQ5
-MCwxNjQ0OTE2NzEsOTg2MzQyNzI1LC0xMTMwNDUwMDkyLDk4Nj
-M0MjcyNSwxNTEwNDE4Mjk2LDE2MDI5MjM1MDgsLTcxMDU0OTgw
-Ml19
+eyJoaXN0b3J5IjpbOTQzMzM0MjkyLDIyMjQxNDEyMSwxNjA0OD
+g2NzUwLDc2NDYzOTQ4Niw3MzY4MjY3NDgsLTE2MTQyODMzODcs
+LTYwMjkxNzMyNiw2MzE5NjI3NDQsMTM5MjcwNDc0NCwxNzcwNT
+c1MDQ4LDIzMTEwMjc3MiwtMTgwOTI3ODQ4NSwtMTU4NjQ0Nzk4
+LDEzNzUyNjc0OTAsMTY0NDkxNjcxLDk4NjM0MjcyNSwtMTEzMD
+Q1MDA5Miw5ODYzNDI3MjUsMTUxMDQxODI5NiwxNjAyOTIzNTA4
+XX0=
 -->
