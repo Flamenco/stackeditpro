@@ -30,13 +30,14 @@ The sharing server does not render mermaid, fences, or other canvas-based extens
 	* Scroll to line when selecting search and task links.
 * Document driven design integration.
 * Open all external links in a new window.
+* Linked Text
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5Mzg0MjQxNSwxNTU4MzEzNTg3LC0xMT
-ExMTczMjcxLDg4NTkzMDAxLC0zODE4NDkyMzYsMTQ1ODIwNzQx
-NiwtMTg0MzE1NDkxNiwzMjAxMDQ2MSwzOTg5NTQ5MDksMTg0OT
-I2NjA4MiwxNTQzMzg1NDk5LC0xNTkwMzM0MDk5LDE1NDMzODU0
-OTksLTk0NzExMDgyMiwtMzA0NDE5NTcwLDIwOTkwNDEzNDYsMT
-YzODAyMTE0NywxNzU4MzQzNjk3LC0yMDgzMjAwMDEzLC0xNDE2
-NTMzMTMzXX0=
+eyJoaXN0b3J5IjpbLTE4NTk0NTYyMzUsMTI5Mzg0MjQxNSwxNT
+U4MzEzNTg3LC0xMTExMTczMjcxLDg4NTkzMDAxLC0zODE4NDky
+MzYsMTQ1ODIwNzQxNiwtMTg0MzE1NDkxNiwzMjAxMDQ2MSwzOT
+g5NTQ5MDksMTg0OTI2NjA4MiwxNTQzMzg1NDk5LC0xNTkwMzM0
+MDk5LDE1NDMzODU0OTksLTk0NzExMDgyMiwtMzA0NDE5NTcwLD
+IwOTkwNDEzNDYsMTYzODAyMTE0NywxNzU4MzQzNjk3LC0yMDgz
+MjAwMDEzXX0=
 -->
