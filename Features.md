@@ -298,7 +298,7 @@ Bold was not working when using the `markdown` language in a code fence.
 The navigation and formatting buttons are now in a scrollable section of the navigation bar, making them available on narrow-width devices.
 ## IOS Fixes
 ### Cut, Copy, Paste, and Select - Fixed On iOS
-In the original StackEdit, you cannot cut, copy, or paste in the Markdown editor while using iOS.  This is a total PITA, and quite frankly, a dealbreaker.  Alas, now It works.
+In the original StackEdit, you cannot cut, copy, or paste in the Markdown editor while using iOS.  This is a total PITA, and quite frankly, a dealbreaker.  Alas, now It works.  Even with iPadOS and iPadPro.
 
 ### Unwanted Blank Lines and Tab Removal When Pasting
 When pasting terminal code from OSX, extra lines were added to each line, and the tabs were removed.  That is now fixed.
@@ -362,11 +362,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQzMzM0MjkyLDIyMjQxNDEyMSwxNjA0OD
-g2NzUwLDc2NDYzOTQ4Niw3MzY4MjY3NDgsLTE2MTQyODMzODcs
-LTYwMjkxNzMyNiw2MzE5NjI3NDQsMTM5MjcwNDc0NCwxNzcwNT
-c1MDQ4LDIzMTEwMjc3MiwtMTgwOTI3ODQ4NSwtMTU4NjQ0Nzk4
-LDEzNzUyNjc0OTAsMTY0NDkxNjcxLDk4NjM0MjcyNSwtMTEzMD
-Q1MDA5Miw5ODYzNDI3MjUsMTUxMDQxODI5NiwxNjAyOTIzNTA4
+eyJoaXN0b3J5IjpbLTU3MzY3ODY0NCw5NDMzMzQyOTIsMjIyND
+E0MTIxLDE2MDQ4ODY3NTAsNzY0NjM5NDg2LDczNjgyNjc0OCwt
+MTYxNDI4MzM4NywtNjAyOTE3MzI2LDYzMTk2Mjc0NCwxMzkyNz
+A0NzQ0LDE3NzA1NzUwNDgsMjMxMTAyNzcyLC0xODA5Mjc4NDg1
+LC0xNTg2NDQ3OTgsMTM3NTI2NzQ5MCwxNjQ0OTE2NzEsOTg2Mz
+QyNzI1LC0xMTMwNDUwMDkyLDk4NjM0MjcyNSwxNTEwNDE4Mjk2
 XX0=
 -->
