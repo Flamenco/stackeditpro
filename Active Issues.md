@@ -5,9 +5,6 @@ When a conflict occurs, we now add a *Merge Conflict Report* document to your wo
 
 In our experience, most situations that require a merge really needed the server version.  And the default merge operation resulted in a corrupt document.  **We decided that when it is detected that the server and client changed, we will keep the server, and create a report with all 3 versions (client, server, and attempted merge)**.
 
-# Cut and Paste on iOS
-This is not working on pages with code fences.
-
 # Move File Dialog
 The window in not tall enough.  It should size to full screen.  Use a filtered choice picker.
 
@@ -36,11 +33,11 @@ The sharing server does not render mermaid, fences, or other canvas-based extens
 * Linked Text
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NzQ3ODAxMiwtMTg1OTQ1NjIzNSwxMj
-kzODQyNDE1LDE1NTgzMTM1ODcsLTExMTExNzMyNzEsODg1OTMw
-MDEsLTM4MTg0OTIzNiwxNDU4MjA3NDE2LC0xODQzMTU0OTE2LD
-MyMDEwNDYxLDM5ODk1NDkwOSwxODQ5MjY2MDgyLDE1NDMzODU0
-OTksLTE1OTAzMzQwOTksMTU0MzM4NTQ5OSwtOTQ3MTEwODIyLC
-0zMDQ0MTk1NzAsMjA5OTA0MTM0NiwxNjM4MDIxMTQ3LDE3NTgz
-NDM2OTddfQ==
+eyJoaXN0b3J5IjpbLTE4NTk0NTYyMzUsMTk3NzQ3ODAxMiwtMT
+g1OTQ1NjIzNSwxMjkzODQyNDE1LDE1NTgzMTM1ODcsLTExMTEx
+NzMyNzEsODg1OTMwMDEsLTM4MTg0OTIzNiwxNDU4MjA3NDE2LC
+0xODQzMTU0OTE2LDMyMDEwNDYxLDM5ODk1NDkwOSwxODQ5MjY2
+MDgyLDE1NDMzODU0OTksLTE1OTAzMzQwOTksMTU0MzM4NTQ5OS
+wtOTQ3MTEwODIyLC0zMDQ0MTk1NzAsMjA5OTA0MTM0NiwxNjM4
+MDIxMTQ3XX0=
 -->
