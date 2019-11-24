@@ -18,7 +18,6 @@ This is very useful for page summaries, notices, and footers.
 
 *Sync Fences* are ideal for defining page level text, such as footers. In general, they keep your content *DRY*.
 
-
 # Syntax
 
 The syntax is simple.  Declare a fence using a line starting with `@@@ someId` and ending with `@@@`.
@@ -54,5 +53,5 @@ syncfence-error {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MTY1NDMwXX0=
+eyJoaXN0b3J5IjpbLTE3NDU1MjQ0NDQsMTI3MTY1NDMwXX0=
 -->
