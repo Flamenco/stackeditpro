@@ -6,7 +6,22 @@ All features and fixes are ordered by *most recently modified*.
 ## Sync Fence 
 For beta testers.
 
-We have created the concept of *Sync Fences*.  Your wrap code in a Sync Fence, and then reu
+We have created the concept of *Sync Fences*.  Your wrap code in a Sync Fence, and then reuse it in other documents.
+This keeps your source DRY.
+
+```
+[Document 1]
+ @@@ fence1
+ Hello, *World*!
+ @@@
+```
+
+```
+[Document 2]
+ Here is the fence:
+
+ @@@ fence1 @@@
+```
 
 
 ## Updated Heading Styles
@@ -368,11 +383,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzc1MDMwOTAsLTU3MzY3ODY0NCw5ND
-MzMzQyOTIsMjIyNDE0MTIxLDE2MDQ4ODY3NTAsNzY0NjM5NDg2
-LDczNjgyNjc0OCwtMTYxNDI4MzM4NywtNjAyOTE3MzI2LDYzMT
-k2Mjc0NCwxMzkyNzA0NzQ0LDE3NzA1NzUwNDgsMjMxMTAyNzcy
-LC0xODA5Mjc4NDg1LC0xNTg2NDQ3OTgsMTM3NTI2NzQ5MCwxNj
-Q0OTE2NzEsOTg2MzQyNzI1LC0xMTMwNDUwMDkyLDk4NjM0Mjcy
-NV19
+eyJoaXN0b3J5IjpbLTUxNjEwNzEzMywtNTczNjc4NjQ0LDk0Mz
+MzNDI5MiwyMjI0MTQxMjEsMTYwNDg4Njc1MCw3NjQ2Mzk0ODYs
+NzM2ODI2NzQ4LC0xNjE0MjgzMzg3LC02MDI5MTczMjYsNjMxOT
+YyNzQ0LDEzOTI3MDQ3NDQsMTc3MDU3NTA0OCwyMzExMDI3NzIs
+LTE4MDkyNzg0ODUsLTE1ODY0NDc5OCwxMzc1MjY3NDkwLDE2ND
+Q5MTY3MSw5ODYzNDI3MjUsLTExMzA0NTAwOTIsOTg2MzQyNzI1
+XX0=
 -->
