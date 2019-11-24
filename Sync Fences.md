@@ -23,8 +23,6 @@ This is very useful for page summaries, notices, and footers.
 The syntax is simple.  Declare a fence using a line starting with `@@@ someId` and ending with `@@@`.
 Then reference it using `@@@someID@@@`.
 
-> Whitespace around the ID is optional.
-
 You create a Sync Fence by including code between lines of `@@@`, similar to code fences that use backticks.
 
 The first lines of a sync fence, up to the first blank line, are used to configure fields.
@@ -35,6 +33,16 @@ Each field is a name, 1 or more `=` or ` `  characters, and then the value.
 | id | [a-zA-Z0-9]+ | The ID of the sync fence to declare. |
 |ref| [a-zA-Z0-9]+ | The ID of the sync fence to reference. |
 |link| true \| false | Link the reference to the source. |
+
+## Alternate Notation
+You can specify configuration fields using the following syntax
+```
+@@@
+id=someid
+ref=someref
+
+@@@
+```
 
 # Styles
 You can add CSS styles to rendered source and reference fences.  The `syncfence-error` style is used for invalid syntax and unresolved references.
@@ -54,5 +62,6 @@ syncfence-error {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMTMzNTc0OCwxMjcxNjU0MzBdfQ==
+eyJoaXN0b3J5IjpbMTk0NjQyODcwMCwxOTMxMzM1NzQ4LDEyNz
+E2NTQzMF19
 -->
