@@ -11,8 +11,7 @@ We have created the concept of *Sync Fences*.
 
 A *Sync Fence* is a block of markdown that can be reused among multiple documents.  When a *SyncFence* is modified,, all references will update.  You simply wrap code in a *Sync Fence*, and then reuse it in other documents.  This keeps your source DRY.
 
-This is very useful for page summaries, footers
-
+This is very useful for page summaries, notices, and footers.
 ```
 [Document 1]
  @@@ fence1
@@ -424,7 +423,7 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYyODY1ODQ5LC01MTYxMDcxMzMsLTU3Mz
+eyJoaXN0b3J5IjpbNTU5ODkwODM3LC01MTYxMDcxMzMsLTU3Mz
 Y3ODY0NCw5NDMzMzQyOTIsMjIyNDE0MTIxLDE2MDQ4ODY3NTAs
 NzY0NjM5NDg2LDczNjgyNjc0OCwtMTYxNDI4MzM4NywtNjAyOT
 E3MzI2LDYzMTk2Mjc0NCwxMzkyNzA0NzQ0LDE3NzA1NzUwNDgs
