@@ -67,7 +67,10 @@ syncfence-error {
   color: green;
 }
 ```
+
+# Rendering
+When you export your markdown as HTML or PDF, your *Sync Fences* will render the source.  However when you backup your markdown, or export as markdown, the *Sync Fence* blocks will not render.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDA2NjYxNDAsMTkzMTMzNTc0OCwxMj
-cxNjU0MzBdfQ==
+eyJoaXN0b3J5IjpbNTQyODU0NjksLTE1MDA2NjYxNDAsMTkzMT
+MzNTc0OCwxMjcxNjU0MzBdfQ==
 -->
