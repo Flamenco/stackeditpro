@@ -1,4 +1,29 @@
+# Overview
+A *Sync Fence* is a block of markdown that can be reused among multiple documents.  When a *SyncFence* is modified,, all references will update.  You simply wrap code in a *Sync Fence*, and then reuse it in other documents.  This keeps your source DRY.
+
+This is very useful for page summaries, notices, and footers.
+```
+[Document 1]
+ @@@ fence1
+ Hello, *World*!
+ @@@
+```
+
+```
+[Document 2]
+ Here is the fence:
+
+ @@@ fence1 @@@
+```
+
+*Sync Fences* are ideal for defining page level text, such as footers. In general, they keep your content *DRY*.
+
+
 # Syntax
+
+The syntax is simple.  Declare a fence using a line starting with `@@@ someId` and ending with `@@@`.
+Then reference it using `@@@someID@@@`.
+
 
 You create a Sync Fence by including code between lines of `@@@`, similar to code fences that use backticks.
 
@@ -29,5 +54,5 @@ syncfence-error {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTM5MjYxMzFdfQ==
+eyJoaXN0b3J5IjpbMTI3MTY1NDMwXX0=
 -->
