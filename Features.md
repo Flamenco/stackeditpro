@@ -23,6 +23,43 @@ This keeps your source DRY.
  @@@ fence1 @@@
 ```
 
+The syntax is simple.  Declare a fence using a line starting with `@@@ someId` and ending with `@@@`.
+Then reference it using `@@@someID@@@`.
+
+# Overview
+A *Sync Fence* is a block of markdown that can be reused among multiple documents.  When a *SyncFence* is modified,, all references will update.
+
+*Sync Fences* are ideal for defining page level text, such as footers. In general, they keep your content *DRY*.
+
+# Syntax
+
+You create a Sync Fence by including code between lines of `@@@`, similar to code fences that use backticks.
+
+The first lines of a sync fence, up to the first blank line, are used to configure fields.
+Each field is a name, 1 or more `=` or ` `  characters, and then the value.
+
+|Field| Type |Description |
+|--|--|--|
+| id | [a-zA-Z0-9]+ | The ID of the sync fence to declare. |
+|ref| [a-zA-Z0-9]+ | The ID of the sync fence to reference. |
+|link| true \| false | Link the reference to the source. |
+
+# Styles
+You can add CSS styles to rendered source and reference fences.  The `syncfence-error` style is used for invalid syntax and unresolved references.
+```css
+syncfence-src {
+  color: green;
+}
+syncfence-ref {
+  color: red;
+}
+syncfence-error {
+  color: orange;
+}
+.syncfence-link {
+  color: green;
+}
+
 
 
 
@@ -385,7 +422,7 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2OTAxODMyOSwtNTE2MTA3MTMzLC01Nz
+eyJoaXN0b3J5IjpbMTkzMzAzNDg4NiwtNTE2MTA3MTMzLC01Nz
 M2Nzg2NDQsOTQzMzM0MjkyLDIyMjQxNDEyMSwxNjA0ODg2NzUw
 LDc2NDYzOTQ4Niw3MzY4MjY3NDgsLTE2MTQyODMzODcsLTYwMj
 kxNzMyNiw2MzE5NjI3NDQsMTM5MjcwNDc0NCwxNzcwNTc1MDQ4
