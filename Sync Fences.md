@@ -40,7 +40,7 @@ You must specify one of `id` or `ref`, and this must be first.
 ```
 @@@
 id=someid
-hidden=false
+showRefs=true
 
 Your content here
 @@@
@@ -69,6 +69,6 @@ syncfence-error {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTQ5MjE5OTYsMTkzMTMzNTc0OCwxMj
+eyJoaXN0b3J5IjpbLTExNDc4NjE3NjAsMTkzMTMzNTc0OCwxMj
 cxNjU0MzBdfQ==
 -->
