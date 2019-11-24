@@ -3,6 +3,8 @@ All features and fixes are ordered by *most recently modified*.
 
 # New Features
 
+## Sy
+
 ## Updated Heading Styles
 We removed most of the top and bottom margins from headings.
 
@@ -362,11 +364,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MzY3ODY0NCw5NDMzMzQyOTIsMjIyND
-E0MTIxLDE2MDQ4ODY3NTAsNzY0NjM5NDg2LDczNjgyNjc0OCwt
-MTYxNDI4MzM4NywtNjAyOTE3MzI2LDYzMTk2Mjc0NCwxMzkyNz
-A0NzQ0LDE3NzA1NzUwNDgsMjMxMTAyNzcyLC0xODA5Mjc4NDg1
-LC0xNTg2NDQ3OTgsMTM3NTI2NzQ5MCwxNjQ0OTE2NzEsOTg2Mz
-QyNzI1LC0xMTMwNDUwMDkyLDk4NjM0MjcyNSwxNTEwNDE4Mjk2
+eyJoaXN0b3J5IjpbMTk1NjEyNzI0OCwtNTczNjc4NjQ0LDk0Mz
+MzNDI5MiwyMjI0MTQxMjEsMTYwNDg4Njc1MCw3NjQ2Mzk0ODYs
+NzM2ODI2NzQ4LC0xNjE0MjgzMzg3LC02MDI5MTczMjYsNjMxOT
+YyNzQ0LDEzOTI3MDQ3NDQsMTc3MDU3NTA0OCwyMzExMDI3NzIs
+LTE4MDkyNzg0ODUsLTE1ODY0NDc5OCwxMzc1MjY3NDkwLDE2ND
+Q5MTY3MSw5ODYzNDI3MjUsLTExMzA0NTAwOTIsOTg2MzQyNzI1
 XX0=
 -->
