@@ -24,6 +24,8 @@ This keeps your source DRY.
 ```
 
 
+
+
 ## Updated Heading Styles
 We removed most of the top and bottom margins from headings.
 
@@ -383,11 +385,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNjEwNzEzMywtNTczNjc4NjQ0LDk0Mz
-MzNDI5MiwyMjI0MTQxMjEsMTYwNDg4Njc1MCw3NjQ2Mzk0ODYs
-NzM2ODI2NzQ4LC0xNjE0MjgzMzg3LC02MDI5MTczMjYsNjMxOT
-YyNzQ0LDEzOTI3MDQ3NDQsMTc3MDU3NTA0OCwyMzExMDI3NzIs
-LTE4MDkyNzg0ODUsLTE1ODY0NDc5OCwxMzc1MjY3NDkwLDE2ND
-Q5MTY3MSw5ODYzNDI3MjUsLTExMzA0NTAwOTIsOTg2MzQyNzI1
-XX0=
+eyJoaXN0b3J5IjpbLTU2OTAxODMyOSwtNTE2MTA3MTMzLC01Nz
+M2Nzg2NDQsOTQzMzM0MjkyLDIyMjQxNDEyMSwxNjA0ODg2NzUw
+LDc2NDYzOTQ4Niw3MzY4MjY3NDgsLTE2MTQyODMzODcsLTYwMj
+kxNzMyNiw2MzE5NjI3NDQsMTM5MjcwNDc0NCwxNzcwNTc1MDQ4
+LDIzMTEwMjc3MiwtMTgwOTI3ODQ4NSwtMTU4NjQ0Nzk4LDEzNz
+UyNjc0OTAsMTY0NDkxNjcxLDk4NjM0MjcyNSwtMTEzMDQ1MDA5
+Ml19
 -->
