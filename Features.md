@@ -25,11 +25,6 @@ This is very useful for page summaries, notices, and footers.
  @@@ fence1 @@@
 ```
 
-### Syntax
-
-See [Sync Fences](/lblpu9#id=2gojvdkNR8elMeTR).
-
-
 ## Updated Heading Styles
 We removed most of the top and bottom margins from headings.
 
@@ -389,7 +384,7 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMjk1MDQ5Myw1NTk4OTA4MzcsLTUxNj
+eyJoaXN0b3J5IjpbLTYzODU2NjA2Miw1NTk4OTA4MzcsLTUxNj
 EwNzEzMywtNTczNjc4NjQ0LDk0MzMzNDI5MiwyMjI0MTQxMjEs
 MTYwNDg4Njc1MCw3NjQ2Mzk0ODYsNzM2ODI2NzQ4LC0xNjE0Mj
 gzMzg3LC02MDI5MTczMjYsNjMxOTYyNzQ0LDEzOTI3MDQ3NDQs
