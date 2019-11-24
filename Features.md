@@ -6,7 +6,6 @@ All features and fixes are ordered by *most recently modified*.
 ## Sync Fence 
 For beta testers.
 
-### Overview
 We have created the concept of *Sync Fences*.  
 
 A *Sync Fence* is a block of markdown that can be reused among multiple documents.  When a *SyncFence* is modified,, all references will update.  You simply wrap code in a *Sync Fence*, and then reuse it in other documents.  This keeps your source DRY.
@@ -26,42 +25,9 @@ This is very useful for page summaries, notices, and footers.
  @@@ fence1 @@@
 ```
 
-The syntax is simple.  Declare a fence using a line starting with `@@@ someId` and ending with `@@@`.
-Then reference it using `@@@someID@@@`.
-
-
-*Sync Fences* are ideal for defining page level text, such as footers. In general, they keep your content *DRY*.
-
 ### Syntax
 
-You create a Sync Fence by including code between lines of `@@@`, similar to code fences that use backticks.
-
-The first lines of a sync fence, up to the first blank line, are used to configure fields.
-Each field is a name, 1 or more `=` or ` `  characters, and then the value.
-
-|Field| Type |Description |
-|--|--|--|
-| id | [a-zA-Z0-9]+ | The ID of the sync fence to declare. |
-|ref| [a-zA-Z0-9]+ | The ID of the sync fence to reference. |
-|link| true \| false | Link the reference to the source. |
-
-#### Styles
-You can add CSS styles to rendered source and reference fences.  The `syncfence-error` style is used for invalid syntax and unresolved references.
-```css
-syncfence-src {
-  color: green;
-}
-syncfence-ref {
-  color: red;
-}
-syncfence-error {
-  color: orange;
-}
-.syncfence-link {
-  color: green;
-}
-
-
+See [Sync Fences](/lblpu9#id=2gojvdkNR8elMeTR).
 
 
 ## Updated Heading Styles
@@ -423,11 +389,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU5ODkwODM3LC01MTYxMDcxMzMsLTU3Mz
-Y3ODY0NCw5NDMzMzQyOTIsMjIyNDE0MTIxLDE2MDQ4ODY3NTAs
-NzY0NjM5NDg2LDczNjgyNjc0OCwtMTYxNDI4MzM4NywtNjAyOT
-E3MzI2LDYzMTk2Mjc0NCwxMzkyNzA0NzQ0LDE3NzA1NzUwNDgs
-MjMxMTAyNzcyLC0xODA5Mjc4NDg1LC0xNTg2NDQ3OTgsMTM3NT
-I2NzQ5MCwxNjQ0OTE2NzEsOTg2MzQyNzI1LC0xMTMwNDUwMDky
-XX0=
+eyJoaXN0b3J5IjpbLTMwMjk1MDQ5Myw1NTk4OTA4MzcsLTUxNj
+EwNzEzMywtNTczNjc4NjQ0LDk0MzMzNDI5MiwyMjI0MTQxMjEs
+MTYwNDg4Njc1MCw3NjQ2Mzk0ODYsNzM2ODI2NzQ4LC0xNjE0Mj
+gzMzg3LC02MDI5MTczMjYsNjMxOTYyNzQ0LDEzOTI3MDQ3NDQs
+MTc3MDU3NTA0OCwyMzExMDI3NzIsLTE4MDkyNzg0ODUsLTE1OD
+Y0NDc5OCwxMzc1MjY3NDkwLDE2NDQ5MTY3MSw5ODYzNDI3MjVd
+fQ==
 -->
