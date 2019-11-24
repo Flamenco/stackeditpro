@@ -23,6 +23,7 @@ This is very useful for page summaries, notices, and footers.
 The syntax is simple.  Declare a fence using a line starting with `@@@ someId` and ending with `@@@`.
 Then reference it using `@@@someID@@@`.
 
+Whitespace
 
 You create a Sync Fence by including code between lines of `@@@`, similar to code fences that use backticks.
 
@@ -53,5 +54,5 @@ syncfence-error {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDU1MjQ0NDQsMTI3MTY1NDMwXX0=
+eyJoaXN0b3J5IjpbLTkxNTY2OTkzMywxMjcxNjU0MzBdfQ==
 -->
