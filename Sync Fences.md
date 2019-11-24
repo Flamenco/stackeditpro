@@ -35,12 +35,19 @@ Each field is a name, 1 or more `=` or ` `  characters, and then the value.
 |link| true \| false | Link the reference to the source. |
 
 ## Alternate Notation
-You can specify configuration fields using the following syntax
+You can specify configuration fields using the following syntax.  KeyValue pairs followed by a blank line.
+You must specify one of `id` or `ref`, and this must be first.
 ```
 @@@
 id=someid
-ref=someref
+hidden=false
 
+Your content here
+@@@
+
+@@@
+ref=someid
+link=true
 @@@
 ```
 
@@ -62,6 +69,6 @@ syncfence-error {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NjQyODcwMCwxOTMxMzM1NzQ4LDEyNz
-E2NTQzMF19
+eyJoaXN0b3J5IjpbLTE2OTQ5MjE5OTYsMTkzMTMzNTc0OCwxMj
+cxNjU0MzBdfQ==
 -->
