@@ -38,17 +38,17 @@ Each field is a name, 1 or more `=` or ` `  characters, and then the value.
 You can specify configuration fields using the following syntax.  KeyValue pairs followed by a blank line.
 You must specify one of `id` or `ref`, and this must be first.
 ```
-@@@
+ @@@
 id=someid
 showRefs=true
 
 Your content here
-@@@
+ @@@
 
-@@@
+ @@@
 ref=someid
 link=true
-@@@
+ @@@
 ```
 
 # Styles
@@ -69,6 +69,6 @@ syncfence-error {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDc4NjE3NjAsMTkzMTMzNTc0OCwxMj
+eyJoaXN0b3J5IjpbLTIxMzcxODMwNDIsMTkzMTMzNTc0OCwxMj
 cxNjU0MzBdfQ==
 -->
