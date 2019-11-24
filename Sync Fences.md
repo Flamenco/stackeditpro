@@ -53,6 +53,8 @@ link=true
 
 # Styles
 You can add CSS styles to rendered source and reference fences.  The `syncfence-error` style is used for invalid syntax and unresolved references.
+
+~t
 ```css
 syncfence-src {
   color: green;
@@ -71,6 +73,6 @@ syncfence-error {
 # Rendering
 When you export your markdown as HTML or PDF, your *Sync Fences* will render the source.  However when you backup your markdown, or export as markdown, the *Sync Fence* blocks will not render.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQyODU0NjksLTE1MDA2NjYxNDAsMTkzMT
-MzNTc0OCwxMjcxNjU0MzBdfQ==
+eyJoaXN0b3J5IjpbLTExODUwMDM5NzcsLTE1MDA2NjYxNDAsMT
+kzMTMzNTc0OCwxMjcxNjU0MzBdfQ==
 -->
