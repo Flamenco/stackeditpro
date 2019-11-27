@@ -3,7 +3,7 @@ All features and fixes are ordered by *most recently modified*.
 
 # New Features
 ## Workspace Report
-View a report of your workspace.  Available from `actions/workspace report`.
+View a report of your workspace.  Available from `Actions/Workspace Report`.
 
 The report includes:
 * File and folder counts
@@ -393,11 +393,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg0NTk5MzIsLTI2MDM1MDAxNSwtNjM4NT
-Y2MDYyLDU1OTg5MDgzNywtNTE2MTA3MTMzLC01NzM2Nzg2NDQs
-OTQzMzM0MjkyLDIyMjQxNDEyMSwxNjA0ODg2NzUwLDc2NDYzOT
-Q4Niw3MzY4MjY3NDgsLTE2MTQyODMzODcsLTYwMjkxNzMyNiw2
-MzE5NjI3NDQsMTM5MjcwNDc0NCwxNzcwNTc1MDQ4LDIzMTEwMj
-c3MiwtMTgwOTI3ODQ4NSwtMTU4NjQ0Nzk4LDEzNzUyNjc0OTBd
-fQ==
+eyJoaXN0b3J5IjpbLTE2MzE4MjU3OTYsNzg0NTk5MzIsLTI2MD
+M1MDAxNSwtNjM4NTY2MDYyLDU1OTg5MDgzNywtNTE2MTA3MTMz
+LC01NzM2Nzg2NDQsOTQzMzM0MjkyLDIyMjQxNDEyMSwxNjA0OD
+g2NzUwLDc2NDYzOTQ4Niw3MzY4MjY3NDgsLTE2MTQyODMzODcs
+LTYwMjkxNzMyNiw2MzE5NjI3NDQsMTM5MjcwNDc0NCwxNzcwNT
+c1MDQ4LDIzMTEwMjc3MiwtMTgwOTI3ODQ4NSwtMTU4NjQ0Nzk4
+XX0=
 -->
