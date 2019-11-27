@@ -2,6 +2,13 @@ Here is *what's new* in this edition of **StackEditPro**.
 All features and fixes are ordered by *most recently modified*.
 
 # New Features
+## Workspace Report
+View a report of your workspace.  Available from `actions/workspace report`.
+
+The report includes:
+* File and folder counts
+* SyncFence statistics
+* CodeFence statistics 
 
 ## Sync Fence 
 For beta testers.
@@ -384,11 +391,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzODU2NjA2Miw1NTk4OTA4MzcsLTUxNj
-EwNzEzMywtNTczNjc4NjQ0LDk0MzMzNDI5MiwyMjI0MTQxMjEs
-MTYwNDg4Njc1MCw3NjQ2Mzk0ODYsNzM2ODI2NzQ4LC0xNjE0Mj
-gzMzg3LC02MDI5MTczMjYsNjMxOTYyNzQ0LDEzOTI3MDQ3NDQs
-MTc3MDU3NTA0OCwyMzExMDI3NzIsLTE4MDkyNzg0ODUsLTE1OD
-Y0NDc5OCwxMzc1MjY3NDkwLDE2NDQ5MTY3MSw5ODYzNDI3MjVd
-fQ==
+eyJoaXN0b3J5IjpbLTI2MDM1MDAxNSwtNjM4NTY2MDYyLDU1OT
+g5MDgzNywtNTE2MTA3MTMzLC01NzM2Nzg2NDQsOTQzMzM0Mjky
+LDIyMjQxNDEyMSwxNjA0ODg2NzUwLDc2NDYzOTQ4Niw3MzY4Mj
+Y3NDgsLTE2MTQyODMzODcsLTYwMjkxNzMyNiw2MzE5NjI3NDQs
+MTM5MjcwNDc0NCwxNzcwNTc1MDQ4LDIzMTEwMjc3MiwtMTgwOT
+I3ODQ4NSwtMTU4NjQ0Nzk4LDEzNzUyNjc0OTAsMTY0NDkxNjcx
+XX0=
 -->
