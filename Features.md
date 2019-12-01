@@ -9,8 +9,9 @@ The report includes:
 * File and folder counts
 * SyncFence statistics
 * CodeFence statistics
-* Shared file and folder statistics - todo
-* Sync statistics - todo
+* Shared file and folder statistics - *todo*
+* Sync statistics - *todo*
+* Image statistics - *todo*
 
 ## Sync Fence 
 For beta testers.
@@ -393,11 +394,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzE4MjU3OTYsNzg0NTk5MzIsLTI2MD
-M1MDAxNSwtNjM4NTY2MDYyLDU1OTg5MDgzNywtNTE2MTA3MTMz
-LC01NzM2Nzg2NDQsOTQzMzM0MjkyLDIyMjQxNDEyMSwxNjA0OD
-g2NzUwLDc2NDYzOTQ4Niw3MzY4MjY3NDgsLTE2MTQyODMzODcs
-LTYwMjkxNzMyNiw2MzE5NjI3NDQsMTM5MjcwNDc0NCwxNzcwNT
-c1MDQ4LDIzMTEwMjc3MiwtMTgwOTI3ODQ4NSwtMTU4NjQ0Nzk4
-XX0=
+eyJoaXN0b3J5IjpbNzI2ODAyOTc1LC0xNjMxODI1Nzk2LDc4ND
+U5OTMyLC0yNjAzNTAwMTUsLTYzODU2NjA2Miw1NTk4OTA4Mzcs
+LTUxNjEwNzEzMywtNTczNjc4NjQ0LDk0MzMzNDI5MiwyMjI0MT
+QxMjEsMTYwNDg4Njc1MCw3NjQ2Mzk0ODYsNzM2ODI2NzQ4LC0x
+NjE0MjgzMzg3LC02MDI5MTczMjYsNjMxOTYyNzQ0LDEzOTI3MD
+Q3NDQsMTc3MDU3NTA0OCwyMzExMDI3NzIsLTE4MDkyNzg0ODVd
+fQ==
 -->
