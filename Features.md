@@ -9,7 +9,8 @@ You can now upload and serve images from our server.
 
 When editing, if you drag an image into a document will upload and a link will be added to the current document.
 
-You can also use the *insert image* button
+You can also use the *insert image* button and select *upload image* or *insert image*.
+
 ## Workspace Report
 View a report of your workspace.  Available from `Actions/Workspace Report`.
 
@@ -402,11 +403,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkxMjQzNjMyLDcyNjgwMjk3NSwtMTYzMT
-gyNTc5Niw3ODQ1OTkzMiwtMjYwMzUwMDE1LC02Mzg1NjYwNjIs
-NTU5ODkwODM3LC01MTYxMDcxMzMsLTU3MzY3ODY0NCw5NDMzMz
-QyOTIsMjIyNDE0MTIxLDE2MDQ4ODY3NTAsNzY0NjM5NDg2LDcz
-NjgyNjc0OCwtMTYxNDI4MzM4NywtNjAyOTE3MzI2LDYzMTk2Mj
-c0NCwxMzkyNzA0NzQ0LDE3NzA1NzUwNDgsMjMxMTAyNzcyXX0=
+eyJoaXN0b3J5IjpbMTQzMDc4MDA0MCw3MjY4MDI5NzUsLTE2Mz
+E4MjU3OTYsNzg0NTk5MzIsLTI2MDM1MDAxNSwtNjM4NTY2MDYy
+LDU1OTg5MDgzNywtNTE2MTA3MTMzLC01NzM2Nzg2NDQsOTQzMz
+M0MjkyLDIyMjQxNDEyMSwxNjA0ODg2NzUwLDc2NDYzOTQ4Niw3
+MzY4MjY3NDgsLTE2MTQyODMzODcsLTYwMjkxNzMyNiw2MzE5Nj
+I3NDQsMTM5MjcwNDc0NCwxNzcwNTc1MDQ4LDIzMTEwMjc3Ml19
 
 -->
