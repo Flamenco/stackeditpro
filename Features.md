@@ -2,6 +2,13 @@ Here is *what's new* in this edition of **StackEditPro**.
 All features and fixes are ordered by *most recently modified*.
 
 # New Features
+## Hosted Images
+
+You can now upload and serve images from our server.
+
+When editing, if you drag an image into a document will upload and a link will be added to the current document.
+
+You can also 
 ## Workspace Report
 View a report of your workspace.  Available from `Actions/Workspace Report`.
 
@@ -394,11 +401,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI2ODAyOTc1LC0xNjMxODI1Nzk2LDc4ND
-U5OTMyLC0yNjAzNTAwMTUsLTYzODU2NjA2Miw1NTk4OTA4Mzcs
-LTUxNjEwNzEzMywtNTczNjc4NjQ0LDk0MzMzNDI5MiwyMjI0MT
-QxMjEsMTYwNDg4Njc1MCw3NjQ2Mzk0ODYsNzM2ODI2NzQ4LC0x
-NjE0MjgzMzg3LC02MDI5MTczMjYsNjMxOTYyNzQ0LDEzOTI3MD
-Q3NDQsMTc3MDU3NTA0OCwyMzExMDI3NzIsLTE4MDkyNzg0ODVd
-fQ==
+eyJoaXN0b3J5IjpbMjExODU4OTgwMyw3MjY4MDI5NzUsLTE2Mz
+E4MjU3OTYsNzg0NTk5MzIsLTI2MDM1MDAxNSwtNjM4NTY2MDYy
+LDU1OTg5MDgzNywtNTE2MTA3MTMzLC01NzM2Nzg2NDQsOTQzMz
+M0MjkyLDIyMjQxNDEyMSwxNjA0ODg2NzUwLDc2NDYzOTQ4Niw3
+MzY4MjY3NDgsLTE2MTQyODMzODcsLTYwMjkxNzMyNiw2MzE5Nj
+I3NDQsMTM5MjcwNDc0NCwxNzcwNTc1MDQ4LDIzMTEwMjc3Ml19
+
 -->
