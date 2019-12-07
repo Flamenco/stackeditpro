@@ -3,13 +3,15 @@ All features and fixes are ordered by *most recently modified*.
 
 # New Features
 ## Hosted Images
-For beta testers.
+*for beta testers*.
 
 You can now upload and serve images from our server.
 
 When editing, if you drag an image into a document will upload and a link will be added to the current document.
 
 You can also use the *insert image* button and select *upload image* or *insert image*.
+
+Finally, you can simply drag and drop an image into the editor;  It will upload to the server and a markdown image link will be inserted.
 
 ## Workspace Report
 View a report of your workspace.  Available from `Actions/Workspace Report`.
@@ -23,7 +25,7 @@ The report includes:
 * Image statistics - *todo*
 
 ## Sync Fence 
-For beta testers.
+*for beta testers*
 
 We have created the concept of *Sync Fences*.  
 
@@ -403,11 +405,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMDc4MDA0MCw3MjY4MDI5NzUsLTE2Mz
-E4MjU3OTYsNzg0NTk5MzIsLTI2MDM1MDAxNSwtNjM4NTY2MDYy
-LDU1OTg5MDgzNywtNTE2MTA3MTMzLC01NzM2Nzg2NDQsOTQzMz
-M0MjkyLDIyMjQxNDEyMSwxNjA0ODg2NzUwLDc2NDYzOTQ4Niw3
-MzY4MjY3NDgsLTE2MTQyODMzODcsLTYwMjkxNzMyNiw2MzE5Nj
-I3NDQsMTM5MjcwNDc0NCwxNzcwNTc1MDQ4LDIzMTEwMjc3Ml19
-
+eyJoaXN0b3J5IjpbMjAwNjI5Njc3NywxNDMwNzgwMDQwLDcyNj
+gwMjk3NSwtMTYzMTgyNTc5Niw3ODQ1OTkzMiwtMjYwMzUwMDE1
+LC02Mzg1NjYwNjIsNTU5ODkwODM3LC01MTYxMDcxMzMsLTU3Mz
+Y3ODY0NCw5NDMzMzQyOTIsMjIyNDE0MTIxLDE2MDQ4ODY3NTAs
+NzY0NjM5NDg2LDczNjgyNjc0OCwtMTYxNDI4MzM4NywtNjAyOT
+E3MzI2LDYzMTk2Mjc0NCwxMzkyNzA0NzQ0LDE3NzA1NzUwNDhd
+fQ==
 -->
