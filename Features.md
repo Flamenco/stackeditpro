@@ -3,7 +3,7 @@ All features and fixes are ordered by *most recently modified*.
 
 # New Features
 ## Hosted Images
-*for beta testers*.
+*for beta testers*
 
 You can now upload and serve images from our server.
 
@@ -405,11 +405,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNjI5Njc3NywxNDMwNzgwMDQwLDcyNj
-gwMjk3NSwtMTYzMTgyNTc5Niw3ODQ1OTkzMiwtMjYwMzUwMDE1
-LC02Mzg1NjYwNjIsNTU5ODkwODM3LC01MTYxMDcxMzMsLTU3Mz
-Y3ODY0NCw5NDMzMzQyOTIsMjIyNDE0MTIxLDE2MDQ4ODY3NTAs
-NzY0NjM5NDg2LDczNjgyNjc0OCwtMTYxNDI4MzM4NywtNjAyOT
-E3MzI2LDYzMTk2Mjc0NCwxMzkyNzA0NzQ0LDE3NzA1NzUwNDhd
+eyJoaXN0b3J5IjpbMTAxMDc5NzM0OSwyMDA2Mjk2Nzc3LDE0Mz
+A3ODAwNDAsNzI2ODAyOTc1LC0xNjMxODI1Nzk2LDc4NDU5OTMy
+LC0yNjAzNTAwMTUsLTYzODU2NjA2Miw1NTk4OTA4MzcsLTUxNj
+EwNzEzMywtNTczNjc4NjQ0LDk0MzMzNDI5MiwyMjI0MTQxMjEs
+MTYwNDg4Njc1MCw3NjQ2Mzk0ODYsNzM2ODI2NzQ4LC0xNjE0Mj
+gzMzg3LC02MDI5MTczMjYsNjMxOTYyNzQ0LDEzOTI3MDQ3NDRd
 fQ==
 -->
