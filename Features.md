@@ -1,4 +1,4 @@
-Here is *what's new* in this edition of **StackEditPro**.
+Here is *What's New* for this edition of **StackEditPro**.
 All features and fixes are ordered by *most recently modified*.
 
 # New Features
@@ -404,11 +404,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM2MDYwMDQ0LDEwMTA3OTczNDksMjAwNj
-I5Njc3NywxNDMwNzgwMDQwLDcyNjgwMjk3NSwtMTYzMTgyNTc5
-Niw3ODQ1OTkzMiwtMjYwMzUwMDE1LC02Mzg1NjYwNjIsNTU5OD
-kwODM3LC01MTYxMDcxMzMsLTU3MzY3ODY0NCw5NDMzMzQyOTIs
-MjIyNDE0MTIxLDE2MDQ4ODY3NTAsNzY0NjM5NDg2LDczNjgyNj
-c0OCwtMTYxNDI4MzM4NywtNjAyOTE3MzI2LDYzMTk2Mjc0NF19
-
+eyJoaXN0b3J5IjpbMTk2NDQyMzAwMCw3MzYwNjAwNDQsMTAxMD
+c5NzM0OSwyMDA2Mjk2Nzc3LDE0MzA3ODAwNDAsNzI2ODAyOTc1
+LC0xNjMxODI1Nzk2LDc4NDU5OTMyLC0yNjAzNTAwMTUsLTYzOD
+U2NjA2Miw1NTk4OTA4MzcsLTUxNjEwNzEzMywtNTczNjc4NjQ0
+LDk0MzMzNDI5MiwyMjI0MTQxMjEsMTYwNDg4Njc1MCw3NjQ2Mz
+k0ODYsNzM2ODI2NzQ4LC0xNjE0MjgzMzg3LC02MDI5MTczMjZd
+fQ==
 -->
