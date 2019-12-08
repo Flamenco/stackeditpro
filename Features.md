@@ -7,10 +7,14 @@ All features and fixes are ordered by *most recently modified*.
 
 You can now upload and serve images from our server.
 
-When editing, if you drag an image into a document will upload, and a link will be added to the current document.
-You can simply drag and drop an image into the editor;  It will upload to the server and a markdown image link will be inserted.
+When editing, you can drag an image into a document; It will upload to our media server, and a link will be added to the current document.
 
 You can also use the *insert image* button and select *upload image* or *insert image*.
+
+## Media Management
+*for beta testers*
+
+~ todo document ~
 
 ## Workspace Report
 View a report of your workspace.  Available from `Actions/Workspace Report`.
@@ -404,11 +408,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NDQyMzAwMCw3MzYwNjAwNDQsMTAxMD
-c5NzM0OSwyMDA2Mjk2Nzc3LDE0MzA3ODAwNDAsNzI2ODAyOTc1
-LC0xNjMxODI1Nzk2LDc4NDU5OTMyLC0yNjAzNTAwMTUsLTYzOD
-U2NjA2Miw1NTk4OTA4MzcsLTUxNjEwNzEzMywtNTczNjc4NjQ0
-LDk0MzMzNDI5MiwyMjI0MTQxMjEsMTYwNDg4Njc1MCw3NjQ2Mz
-k0ODYsNzM2ODI2NzQ4LC0xNjE0MjgzMzg3LC02MDI5MTczMjZd
-fQ==
+eyJoaXN0b3J5IjpbNzE3MzE1MDE4LDE5NjQ0MjMwMDAsNzM2MD
+YwMDQ0LDEwMTA3OTczNDksMjAwNjI5Njc3NywxNDMwNzgwMDQw
+LDcyNjgwMjk3NSwtMTYzMTgyNTc5Niw3ODQ1OTkzMiwtMjYwMz
+UwMDE1LC02Mzg1NjYwNjIsNTU5ODkwODM3LC01MTYxMDcxMzMs
+LTU3MzY3ODY0NCw5NDMzMzQyOTIsMjIyNDE0MTIxLDE2MDQ4OD
+Y3NTAsNzY0NjM5NDg2LDczNjgyNjc0OCwtMTYxNDI4MzM4N119
+
 -->
