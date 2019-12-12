@@ -25,6 +25,7 @@ Finally, you can manage your images using the dialog by invoking the `/actions/M
 * Delete
 * Insert
 * Close
+* Sync (not implemented)
 
 ## Workspace Report
 View a report of your workspace.  Available from `Actions/Workspace Report`.
@@ -418,11 +419,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MzUzNjg2LC0zMjQyMTY2MTYsLTE4ND
-M5MjEzMjgsLTEyMTU2OTk2NzgsNDEyNTUyMzQ3LC0xNDk4MTM3
-OTYyLDcxNzMxNTAxOCwxOTY0NDIzMDAwLDczNjA2MDA0NCwxMD
-EwNzk3MzQ5LDIwMDYyOTY3NzcsMTQzMDc4MDA0MCw3MjY4MDI5
-NzUsLTE2MzE4MjU3OTYsNzg0NTk5MzIsLTI2MDM1MDAxNSwtNj
-M4NTY2MDYyLDU1OTg5MDgzNywtNTE2MTA3MTMzLC01NzM2Nzg2
-NDRdfQ==
+eyJoaXN0b3J5IjpbLTIwMDgxNzUxMywxMDczNTM2ODYsLTMyND
+IxNjYxNiwtMTg0MzkyMTMyOCwtMTIxNTY5OTY3OCw0MTI1NTIz
+NDcsLTE0OTgxMzc5NjIsNzE3MzE1MDE4LDE5NjQ0MjMwMDAsNz
+M2MDYwMDQ0LDEwMTA3OTczNDksMjAwNjI5Njc3NywxNDMwNzgw
+MDQwLDcyNjgwMjk3NSwtMTYzMTgyNTc5Niw3ODQ1OTkzMiwtMj
+YwMzUwMDE1LC02Mzg1NjYwNjIsNTU5ODkwODM3LC01MTYxMDcx
+MzNdfQ==
 -->
