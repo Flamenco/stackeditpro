@@ -18,7 +18,12 @@ Finally, you can manage your images using the dialog by invoking the `/actions/M
 ## Media Management
 *for beta testers*
 
-~ todo document ~
+### Actions
+* Upload
+* Download
+* Delete
+* Insert
+* Close
 
 ## Workspace Report
 View a report of your workspace.  Available from `Actions/Workspace Report`.
@@ -412,11 +417,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDM5MjEzMjgsLTEyMTU2OTk2NzgsND
-EyNTUyMzQ3LC0xNDk4MTM3OTYyLDcxNzMxNTAxOCwxOTY0NDIz
-MDAwLDczNjA2MDA0NCwxMDEwNzk3MzQ5LDIwMDYyOTY3NzcsMT
-QzMDc4MDA0MCw3MjY4MDI5NzUsLTE2MzE4MjU3OTYsNzg0NTk5
-MzIsLTI2MDM1MDAxNSwtNjM4NTY2MDYyLDU1OTg5MDgzNywtNT
-E2MTA3MTMzLC01NzM2Nzg2NDQsOTQzMzM0MjkyLDIyMjQxNDEy
-MV19
+eyJoaXN0b3J5IjpbLTMyNDIxNjYxNiwtMTg0MzkyMTMyOCwtMT
+IxNTY5OTY3OCw0MTI1NTIzNDcsLTE0OTgxMzc5NjIsNzE3MzE1
+MDE4LDE5NjQ0MjMwMDAsNzM2MDYwMDQ0LDEwMTA3OTczNDksMj
+AwNjI5Njc3NywxNDMwNzgwMDQwLDcyNjgwMjk3NSwtMTYzMTgy
+NTc5Niw3ODQ1OTkzMiwtMjYwMzUwMDE1LC02Mzg1NjYwNjIsNT
+U5ODkwODM3LC01MTYxMDcxMzMsLTU3MzY3ODY0NCw5NDMzMzQy
+OTJdfQ==
 -->
