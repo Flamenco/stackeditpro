@@ -5,7 +5,7 @@ All features and fixes are ordered by *most recently modified*.
 ## Hosted Images
 *for beta testers*
 
-You can now upload and serve images from our server.
+You can now upload and serve images easily from our media server.
 
 When editing, you can drag an image into a document; It will upload to our media server, and a link will be added to the current document.
 
@@ -408,11 +408,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE3MzE1MDE4LDE5NjQ0MjMwMDAsNzM2MD
-YwMDQ0LDEwMTA3OTczNDksMjAwNjI5Njc3NywxNDMwNzgwMDQw
-LDcyNjgwMjk3NSwtMTYzMTgyNTc5Niw3ODQ1OTkzMiwtMjYwMz
-UwMDE1LC02Mzg1NjYwNjIsNTU5ODkwODM3LC01MTYxMDcxMzMs
-LTU3MzY3ODY0NCw5NDMzMzQyOTIsMjIyNDE0MTIxLDE2MDQ4OD
-Y3NTAsNzY0NjM5NDg2LDczNjgyNjc0OCwtMTYxNDI4MzM4N119
+eyJoaXN0b3J5IjpbMTIwNzc1MzQ2NSw3MTczMTUwMTgsMTk2ND
+QyMzAwMCw3MzYwNjAwNDQsMTAxMDc5NzM0OSwyMDA2Mjk2Nzc3
+LDE0MzA3ODAwNDAsNzI2ODAyOTc1LC0xNjMxODI1Nzk2LDc4ND
+U5OTMyLC0yNjAzNTAwMTUsLTYzODU2NjA2Miw1NTk4OTA4Mzcs
+LTUxNjEwNzEzMywtNTczNjc4NjQ0LDk0MzMzNDI5MiwyMjI0MT
+QxMjEsMTYwNDg4Njc1MCw3NjQ2Mzk0ODYsNzM2ODI2NzQ4XX0=
 
 -->
