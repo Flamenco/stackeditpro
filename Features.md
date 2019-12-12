@@ -13,6 +13,8 @@ You can also use the *insert image* button and select *upload image* or *insert 
 
 Finally, you can manage your images using the dialog by invoking the `/actions/Manage Images` action.
 
+![hosted-images-1.png](https://stackeditpro.io/services/media/gh:819940/files/hosted-images-1.png)
+
 ## Media Management
 *for beta testers*
 
@@ -410,11 +412,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTU2OTk2NzgsNDEyNTUyMzQ3LC0xND
-k4MTM3OTYyLDcxNzMxNTAxOCwxOTY0NDIzMDAwLDczNjA2MDA0
-NCwxMDEwNzk3MzQ5LDIwMDYyOTY3NzcsMTQzMDc4MDA0MCw3Mj
-Y4MDI5NzUsLTE2MzE4MjU3OTYsNzg0NTk5MzIsLTI2MDM1MDAx
-NSwtNjM4NTY2MDYyLDU1OTg5MDgzNywtNTE2MTA3MTMzLC01Nz
-M2Nzg2NDQsOTQzMzM0MjkyLDIyMjQxNDEyMSwxNjA0ODg2NzUw
-XX0=
+eyJoaXN0b3J5IjpbLTE4NDM5MjEzMjgsLTEyMTU2OTk2NzgsND
+EyNTUyMzQ3LC0xNDk4MTM3OTYyLDcxNzMxNTAxOCwxOTY0NDIz
+MDAwLDczNjA2MDA0NCwxMDEwNzk3MzQ5LDIwMDYyOTY3NzcsMT
+QzMDc4MDA0MCw3MjY4MDI5NzUsLTE2MzE4MjU3OTYsNzg0NTk5
+MzIsLTI2MDM1MDAxNSwtNjM4NTY2MDYyLDU1OTg5MDgzNywtNT
+E2MTA3MTMzLC01NzM2Nzg2NDQsOTQzMzM0MjkyLDIyMjQxNDEy
+MV19
 -->
