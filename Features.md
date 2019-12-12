@@ -11,6 +11,8 @@ When editing, you can drag an image into a document; It will upload to our media
 
 You can also use the *insert image* button and select *upload image* or *insert image*.
 
+Finally, you can manage your images using the `/actions/Manage Images` action.
+
 ## Media Management
 *for beta testers*
 
@@ -408,11 +410,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNzc1MzQ2NSw3MTczMTUwMTgsMTk2ND
-QyMzAwMCw3MzYwNjAwNDQsMTAxMDc5NzM0OSwyMDA2Mjk2Nzc3
-LDE0MzA3ODAwNDAsNzI2ODAyOTc1LC0xNjMxODI1Nzk2LDc4ND
-U5OTMyLC0yNjAzNTAwMTUsLTYzODU2NjA2Miw1NTk4OTA4Mzcs
-LTUxNjEwNzEzMywtNTczNjc4NjQ0LDk0MzMzNDI5MiwyMjI0MT
-QxMjEsMTYwNDg4Njc1MCw3NjQ2Mzk0ODYsNzM2ODI2NzQ4XX0=
+eyJoaXN0b3J5IjpbLTE0OTgxMzc5NjIsNzE3MzE1MDE4LDE5Nj
+Q0MjMwMDAsNzM2MDYwMDQ0LDEwMTA3OTczNDksMjAwNjI5Njc3
+NywxNDMwNzgwMDQwLDcyNjgwMjk3NSwtMTYzMTgyNTc5Niw3OD
+Q1OTkzMiwtMjYwMzUwMDE1LC02Mzg1NjYwNjIsNTU5ODkwODM3
+LC01MTYxMDcxMzMsLTU3MzY3ODY0NCw5NDMzMzQyOTIsMjIyND
+E0MTIxLDE2MDQ4ODY3NTAsNzY0NjM5NDg2LDczNjgyNjc0OF19
 
 -->
