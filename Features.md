@@ -7,7 +7,7 @@ All features and fixes are ordered by *most recently modified*.
 
 You can now upload and serve images easily from our media server.
 
-When editing, you can drag an image into a document; It will upload to our media server, and a link will be added to the current document.
+When editing, you can drag an image into a document; It will upload to our media server, and a link will be inserted into the current document.
 
 You can also use the *insert image* button and select *upload image* or *insert image*.
 
@@ -410,11 +410,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEyNTUyMzQ3LC0xNDk4MTM3OTYyLDcxNz
-MxNTAxOCwxOTY0NDIzMDAwLDczNjA2MDA0NCwxMDEwNzk3MzQ5
-LDIwMDYyOTY3NzcsMTQzMDc4MDA0MCw3MjY4MDI5NzUsLTE2Mz
-E4MjU3OTYsNzg0NTk5MzIsLTI2MDM1MDAxNSwtNjM4NTY2MDYy
-LDU1OTg5MDgzNywtNTE2MTA3MTMzLC01NzM2Nzg2NDQsOTQzMz
-M0MjkyLDIyMjQxNDEyMSwxNjA0ODg2NzUwLDc2NDYzOTQ4Nl19
-
+eyJoaXN0b3J5IjpbLTEyMTU2OTk2NzgsNDEyNTUyMzQ3LC0xND
+k4MTM3OTYyLDcxNzMxNTAxOCwxOTY0NDIzMDAwLDczNjA2MDA0
+NCwxMDEwNzk3MzQ5LDIwMDYyOTY3NzcsMTQzMDc4MDA0MCw3Mj
+Y4MDI5NzUsLTE2MzE4MjU3OTYsNzg0NTk5MzIsLTI2MDM1MDAx
+NSwtNjM4NTY2MDYyLDU1OTg5MDgzNywtNTE2MTA3MTMzLC01Nz
+M2Nzg2NDQsOTQzMzM0MjkyLDIyMjQxNDEyMSwxNjA0ODg2NzUw
+XX0=
 -->
