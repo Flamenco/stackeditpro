@@ -16,6 +16,7 @@ Finally, you can manage your images using the dialog by invoking the `/actions/M
 ![hosted-images-1.png](https://stackeditpro.io/services/media/gh:819940/files/hosted-images-1.png)
 
 ![hosted-images-2.png](https://stackeditpro.io/services/media/gh:819940/files/hosted-images-2.png)
+![hosted-images-3.png](https://stackeditpro.io/services/media/gh:819940/files/hosted-images-3.png)
 ## Media Management
 *for beta testers*
 
@@ -419,11 +420,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDgxNzUxMywxMDczNTM2ODYsLTMyND
-IxNjYxNiwtMTg0MzkyMTMyOCwtMTIxNTY5OTY3OCw0MTI1NTIz
-NDcsLTE0OTgxMzc5NjIsNzE3MzE1MDE4LDE5NjQ0MjMwMDAsNz
-M2MDYwMDQ0LDEwMTA3OTczNDksMjAwNjI5Njc3NywxNDMwNzgw
-MDQwLDcyNjgwMjk3NSwtMTYzMTgyNTc5Niw3ODQ1OTkzMiwtMj
-YwMzUwMDE1LC02Mzg1NjYwNjIsNTU5ODkwODM3LC01MTYxMDcx
-MzNdfQ==
+eyJoaXN0b3J5IjpbMTA1NzIxMTcxLC0yMDA4MTc1MTMsMTA3Mz
+UzNjg2LC0zMjQyMTY2MTYsLTE4NDM5MjEzMjgsLTEyMTU2OTk2
+NzgsNDEyNTUyMzQ3LC0xNDk4MTM3OTYyLDcxNzMxNTAxOCwxOT
+Y0NDIzMDAwLDczNjA2MDA0NCwxMDEwNzk3MzQ5LDIwMDYyOTY3
+NzcsMTQzMDc4MDA0MCw3MjY4MDI5NzUsLTE2MzE4MjU3OTYsNz
+g0NTk5MzIsLTI2MDM1MDAxNSwtNjM4NTY2MDYyLDU1OTg5MDgz
+N119
 -->
