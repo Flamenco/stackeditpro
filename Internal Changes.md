@@ -1,4 +1,5 @@
 # Internal Changes
+Changes listed here are applicable to developers and not end-users.
 
 ## All Software Updated To Latest Versions
 Node on the backend now uses `NodeJS 12`.
@@ -56,7 +57,7 @@ The default forms would only allow input and select elements inside.
 ## Ecosystem And Culture
 We get things done here.  Quickly and without ego.  We encourage feature and bug requests. We will not leave issues without responses for weeks, months, or years as seen in other projects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTQxMzMyMDIsOTU0MzYxMTc3LC0xMz
-Q0MDIzODM5LDE3MzEwNzc0LC0yMzczOTE0NTcsNzkzMTA4Mzg5
-XX0=
+eyJoaXN0b3J5IjpbOTc5ODQyNDQ5LC0xNDk0MTMzMjAyLDk1ND
+M2MTE3NywtMTM0NDAyMzgzOSwxNzMxMDc3NCwtMjM3MzkxNDU3
+LDc5MzEwODM4OV19
 -->
