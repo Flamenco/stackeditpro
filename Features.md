@@ -16,7 +16,6 @@ Finally, you can manage your images using the dialog by invoking the `/actions/M
 ![hosted-images-1.png](https://stackeditpro.io/services/media/gh:819940/files/hosted-images-1.png)
 
 ![hosted-images-2.png](https://stackeditpro.io/services/media/gh:819940/files/hosted-images-2.png)
-![hosted-images-3.png](https://stackeditpro.io/services/media/gh:819940/files/hosted-images-3.png)
 ## Media Management
 *for beta testers*
 
@@ -26,7 +25,8 @@ Finally, you can manage your images using the dialog by invoking the `/actions/M
 * Delete
 * Insert
 * Close
-* Sync (not implemented)
+* Sync - Synchronize a local folder against the server. (not implemented)
+![hosted-images-3.png](https://stackeditpro.io/services/media/gh:819940/files/hosted-images-3.png)
 
 ## Workspace Report
 View a report of your workspace.  Available from `Actions/Workspace Report`.
@@ -420,11 +420,11 @@ We cleaned up the standard CSS for headings and such.  This affects user interfa
 See [Internal Changes](Internal%20Changes.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NzIxMTcxLC0yMDA4MTc1MTMsMTA3Mz
-UzNjg2LC0zMjQyMTY2MTYsLTE4NDM5MjEzMjgsLTEyMTU2OTk2
-NzgsNDEyNTUyMzQ3LC0xNDk4MTM3OTYyLDcxNzMxNTAxOCwxOT
-Y0NDIzMDAwLDczNjA2MDA0NCwxMDEwNzk3MzQ5LDIwMDYyOTY3
-NzcsMTQzMDc4MDA0MCw3MjY4MDI5NzUsLTE2MzE4MjU3OTYsNz
-g0NTk5MzIsLTI2MDM1MDAxNSwtNjM4NTY2MDYyLDU1OTg5MDgz
-N119
+eyJoaXN0b3J5IjpbLTE3MDg0NDQ3ODUsMTA1NzIxMTcxLC0yMD
+A4MTc1MTMsMTA3MzUzNjg2LC0zMjQyMTY2MTYsLTE4NDM5MjEz
+MjgsLTEyMTU2OTk2NzgsNDEyNTUyMzQ3LC0xNDk4MTM3OTYyLD
+cxNzMxNTAxOCwxOTY0NDIzMDAwLDczNjA2MDA0NCwxMDEwNzk3
+MzQ5LDIwMDYyOTY3NzcsMTQzMDc4MDA0MCw3MjY4MDI5NzUsLT
+E2MzE4MjU3OTYsNzg0NTk5MzIsLTI2MDM1MDAxNSwtNjM4NTY2
+MDYyXX0=
 -->
