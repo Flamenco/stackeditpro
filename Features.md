@@ -2,6 +2,11 @@ Here is *What's New* for this edition of **StackEditPro**.
 All features and fixes are ordered by *most recently modified*.
 
 # New Features
+
+## New Fence Languages
+
+`C#` has been added to fenced code blocks.
+
 ## Hosted Images
 *for beta testers*
 
